@@ -10,6 +10,8 @@ This repository provides all the necessary resources for running the experiments
 
 ## Thesis Information
 
+![Alt text](thesis_title_page.png)
+
 - **Title**: **"Improved Driver Distraction Detection Using Self-Supervised Learning"**
 - **Author**: Suraj Bhardwaj
 - **Institution**: University of Siegen, Faculty of Electrical Engineering and Computer Science
@@ -18,6 +20,11 @@ This repository provides all the necessary resources for running the experiments
 - **Examiner 2**: Dr. Jovita Lukasik (Post-Doctoral Researcher, Computer Vision Group, University of Siegen)
 - **External Supervisor**: David Lerch M.Sc. (Perceptual User Interface Group, Fraunhofer IOSB, Karlsruhe)
 - **Date of Submission**: 15 May 2024
+
+---
+
+## Clustered Feature Weighting
+![Alt text](CFW_Algorithm.png)
 
 ---
 
