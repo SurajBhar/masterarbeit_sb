@@ -23,11 +23,6 @@ This repository provides all the necessary resources for running the experiments
 
 ---
 
-## Clustered Feature Weighting
-![CFW](/CFW_Algorithm.PNG)
-
----
-
 ## Table of Contents
 - [Repository Structure](#repository-structure)
 - [Installation](#installation)
