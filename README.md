@@ -10,7 +10,7 @@ This repository provides all the necessary resources for running the experiments
 
 ## Thesis Information
 
-![Title Page](/thesis_title_page.png)
+![Title Page](/thesis_title_page.PNG)
 
 - **Title**: **"Improved Driver Distraction Detection Using Self-Supervised Learning"**
 - **Author**: Suraj Bhardwaj
@@ -24,7 +24,7 @@ This repository provides all the necessary resources for running the experiments
 ---
 
 ## Clustered Feature Weighting
-![CFW](/CFW_Algorithm.png)
+![CFW](/CFW_Algorithm.PNG)
 
 ---
 
