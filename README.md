@@ -10,7 +10,7 @@ This repository provides all the necessary resources for running the experiments
 
 ## Thesis Information
 
-- **Title**: Improved Driver Distraction Detection Using Self-Supervised Learning
+- **Title**: **"Improved Driver Distraction Detection Using Self-Supervised Learning"**
 - **Author**: Suraj Bhardwaj
 - **Institution**: University of Siegen, Faculty of Electrical Engineering and Computer Science
 - **Program**: Master of Science (M.Sc.) in International Graduate Studies in Mechatronics
