@@ -1,0 +1,405 @@
+2024-04-13 03:11:00,664 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 03:11:00,664 - INFO - Epoch: 0 |Total training time: 0h:2m:11s | Train Loss: 0.4870 | Train Balanced Accuracy: 65.3519 %
+2024-04-13 03:11:00,664 - INFO - Epoch: 0 |Total validation time:0h:0m:51s | Validation Loss: 0.3484 | Validation Balanced Accuracy: 85.2668 % 
+2024-04-13 03:11:00,664 - INFO - Epoch: 0 |Total testing time: 0h:1m:51s | Test Loss: 0.4350 | Test Balanced Accuracy: 84.2006 %
+2024-04-13 03:14:35,838 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 03:14:35,839 - INFO - Epoch: 1 |Total training time: 0h:1m:53s | Train Loss: 0.3122 | Train Balanced Accuracy: 85.3958 %
+2024-04-13 03:14:35,839 - INFO - Epoch: 1 |Total validation time:0h:0m:47s | Validation Loss: 0.2843 | Validation Balanced Accuracy: 86.8347 % 
+2024-04-13 03:14:35,839 - INFO - Epoch: 1 |Total testing time: 0h:0m:53s | Test Loss: 0.3628 | Test Balanced Accuracy: 86.3316 %
+2024-04-13 03:18:00,638 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 03:18:00,639 - INFO - Epoch: 2 |Total training time: 0h:1m:45s | Train Loss: 0.2535 | Train Balanced Accuracy: 90.1958 %
+2024-04-13 03:18:00,639 - INFO - Epoch: 2 |Total validation time:0h:0m:43s | Validation Loss: 0.2615 | Validation Balanced Accuracy: 84.0999 % 
+2024-04-13 03:18:00,639 - INFO - Epoch: 2 |Total testing time: 0h:0m:55s | Test Loss: 0.3423 | Test Balanced Accuracy: 85.9076 %
+2024-04-13 03:21:37,681 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 03:21:37,682 - INFO - Epoch: 3 |Total training time: 0h:1m:50s | Train Loss: 0.2274 | Train Balanced Accuracy: 91.6703 %
+2024-04-13 03:21:37,682 - INFO - Epoch: 3 |Total validation time:0h:0m:46s | Validation Loss: 0.2516 | Validation Balanced Accuracy: 84.5379 % 
+2024-04-13 03:21:37,682 - INFO - Epoch: 3 |Total testing time: 0h:1m:0s | Test Loss: 0.3343 | Test Balanced Accuracy: 85.9277 %
+2024-04-13 03:26:41,000 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 03:26:41,000 - INFO - Epoch: 4 |Total training time: 0h:2m:49s | Train Loss: 0.2124 | Train Balanced Accuracy: 92.4834 %
+2024-04-13 03:26:41,000 - INFO - Epoch: 4 |Total validation time:0h:1m:5s | Validation Loss: 0.2472 | Validation Balanced Accuracy: 84.1598 % 
+2024-04-13 03:26:41,000 - INFO - Epoch: 4 |Total testing time: 0h:1m:7s | Test Loss: 0.3298 | Test Balanced Accuracy: 85.8699 %
+2024-04-13 03:31:07,980 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 03:31:07,980 - INFO - Epoch: 5 |Total training time: 0h:2m:8s | Train Loss: 0.2032 | Train Balanced Accuracy: 92.9523 %
+2024-04-13 03:31:07,980 - INFO - Epoch: 5 |Total validation time:0h:1m:10s | Validation Loss: 0.2446 | Validation Balanced Accuracy: 84.1434 % 
+2024-04-13 03:31:07,980 - INFO - Epoch: 5 |Total testing time: 0h:1m:8s | Test Loss: 0.3261 | Test Balanced Accuracy: 86.0882 %
+2024-04-13 03:35:16,848 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 03:35:16,849 - INFO - Epoch: 6 |Total training time: 0h:1m:55s | Train Loss: 0.1978 | Train Balanced Accuracy: 93.2166 %
+2024-04-13 03:35:16,849 - INFO - Epoch: 6 |Total validation time:0h:1m:4s | Validation Loss: 0.2467 | Validation Balanced Accuracy: 81.7279 % 
+2024-04-13 03:35:16,849 - INFO - Epoch: 6 |Total testing time: 0h:1m:8s | Test Loss: 0.3279 | Test Balanced Accuracy: 85.0023 %
+2024-04-13 03:39:13,301 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 03:39:13,302 - INFO - Epoch: 7 |Total training time: 0h:2m:4s | Train Loss: 0.1941 | Train Balanced Accuracy: 93.2831 %
+2024-04-13 03:39:13,302 - INFO - Epoch: 7 |Total validation time:0h:0m:52s | Validation Loss: 0.2454 | Validation Balanced Accuracy: 82.2149 % 
+2024-04-13 03:39:13,302 - INFO - Epoch: 7 |Total testing time: 0h:0m:59s | Test Loss: 0.3266 | Test Balanced Accuracy: 85.0613 %
+2024-04-13 03:43:00,180 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 03:43:00,181 - INFO - Epoch: 8 |Total training time: 0h:1m:53s | Train Loss: 0.1924 | Train Balanced Accuracy: 93.3097 %
+2024-04-13 03:43:00,181 - INFO - Epoch: 8 |Total validation time:0h:0m:53s | Validation Loss: 0.2465 | Validation Balanced Accuracy: 81.4044 % 
+2024-04-13 03:43:00,181 - INFO - Epoch: 8 |Total testing time: 0h:0m:59s | Test Loss: 0.3273 | Test Balanced Accuracy: 84.8718 %
+2024-04-13 03:47:28,249 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 03:47:28,250 - INFO - Epoch: 9 |Total training time: 0h:2m:7s | Train Loss: 0.1917 | Train Balanced Accuracy: 93.3539 %
+2024-04-13 03:47:28,250 - INFO - Epoch: 9 |Total validation time:0h:0m:59s | Validation Loss: 0.2450 | Validation Balanced Accuracy: 82.2050 % 
+2024-04-13 03:47:28,250 - INFO - Epoch: 9 |Total testing time: 0h:1m:20s | Test Loss: 0.3258 | Test Balanced Accuracy: 85.2167 %
+2024-04-13 03:51:34,790 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 03:51:34,790 - INFO - Epoch: 10 |Total training time: 0h:1m:59s | Train Loss: 0.1915 | Train Balanced Accuracy: 93.3889 %
+2024-04-13 03:51:34,791 - INFO - Epoch: 10 |Total validation time:0h:0m:46s | Validation Loss: 0.2451 | Validation Balanced Accuracy: 82.2050 % 
+2024-04-13 03:51:34,791 - INFO - Epoch: 10 |Total testing time: 0h:1m:21s | Test Loss: 0.3258 | Test Balanced Accuracy: 85.2167 %
+2024-04-13 03:55:33,581 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 03:55:33,582 - INFO - Epoch: 11 |Total training time: 0h:1m:57s | Train Loss: 0.1914 | Train Balanced Accuracy: 93.3840 %
+2024-04-13 03:55:33,582 - INFO - Epoch: 11 |Total validation time:0h:0m:57s | Validation Loss: 0.2450 | Validation Balanced Accuracy: 82.0817 % 
+2024-04-13 03:55:33,582 - INFO - Epoch: 11 |Total testing time: 0h:1m:3s | Test Loss: 0.3259 | Test Balanced Accuracy: 85.0504 %
+2024-04-13 03:59:31,472 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 03:59:31,473 - INFO - Epoch: 12 |Total training time: 0h:2m:0s | Train Loss: 0.1908 | Train Balanced Accuracy: 93.3748 %
+2024-04-13 03:59:31,473 - INFO - Epoch: 12 |Total validation time:0h:0m:55s | Validation Loss: 0.2448 | Validation Balanced Accuracy: 82.0932 % 
+2024-04-13 03:59:31,473 - INFO - Epoch: 12 |Total testing time: 0h:1m:1s | Test Loss: 0.3255 | Test Balanced Accuracy: 85.0982 %
+2024-04-13 04:03:46,843 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 04:03:46,843 - INFO - Epoch: 13 |Total training time: 0h:2m:6s | Train Loss: 0.1894 | Train Balanced Accuracy: 93.5216 %
+2024-04-13 04:03:46,843 - INFO - Epoch: 13 |Total validation time:0h:0m:54s | Validation Loss: 0.2415 | Validation Balanced Accuracy: 83.4638 % 
+2024-04-13 04:03:46,843 - INFO - Epoch: 13 |Total testing time: 0h:1m:14s | Test Loss: 0.3226 | Test Balanced Accuracy: 85.6896 %
+2024-04-13 04:07:57,650 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 04:07:57,650 - INFO - Epoch: 14 |Total training time: 0h:1m:58s | Train Loss: 0.1870 | Train Balanced Accuracy: 93.5666 %
+2024-04-13 04:07:57,651 - INFO - Epoch: 14 |Total validation time:0h:0m:53s | Validation Loss: 0.2470 | Validation Balanced Accuracy: 80.0766 % 
+2024-04-13 04:07:57,651 - INFO - Epoch: 14 |Total testing time: 0h:1m:18s | Test Loss: 0.3269 | Test Balanced Accuracy: 84.5121 %
+2024-04-13 04:11:53,423 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 04:11:53,423 - INFO - Epoch: 15 |Total training time: 0h:1m:57s | Train Loss: 0.1833 | Train Balanced Accuracy: 93.7857 %
+2024-04-13 04:11:53,423 - INFO - Epoch: 15 |Total validation time:0h:0m:51s | Validation Loss: 0.2462 | Validation Balanced Accuracy: 80.0023 % 
+2024-04-13 04:11:53,423 - INFO - Epoch: 15 |Total testing time: 0h:1m:7s | Test Loss: 0.3251 | Test Balanced Accuracy: 84.4950 %
+2024-04-13 04:15:44,345 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 04:15:44,346 - INFO - Epoch: 16 |Total training time: 0h:1m:59s | Train Loss: 0.1786 | Train Balanced Accuracy: 93.9001 %
+2024-04-13 04:15:44,346 - INFO - Epoch: 16 |Total validation time:0h:0m:55s | Validation Loss: 0.2397 | Validation Balanced Accuracy: 83.1100 % 
+2024-04-13 04:15:44,346 - INFO - Epoch: 16 |Total testing time: 0h:0m:56s | Test Loss: 0.3200 | Test Balanced Accuracy: 85.3889 %
+2024-04-13 04:19:35,091 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 04:19:35,091 - INFO - Epoch: 17 |Total training time: 0h:1m:56s | Train Loss: 0.1738 | Train Balanced Accuracy: 94.2197 %
+2024-04-13 04:19:35,091 - INFO - Epoch: 17 |Total validation time:0h:0m:54s | Validation Loss: 0.2443 | Validation Balanced Accuracy: 80.6059 % 
+2024-04-13 04:19:35,091 - INFO - Epoch: 17 |Total testing time: 0h:1m:0s | Test Loss: 0.3224 | Test Balanced Accuracy: 84.5563 %
+2024-04-13 04:23:16,636 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 04:23:16,637 - INFO - Epoch: 18 |Total training time: 0h:1m:50s | Train Loss: 0.1685 | Train Balanced Accuracy: 94.2809 %
+2024-04-13 04:23:16,637 - INFO - Epoch: 18 |Total validation time:0h:0m:50s | Validation Loss: 0.2379 | Validation Balanced Accuracy: 83.0628 % 
+2024-04-13 04:23:16,637 - INFO - Epoch: 18 |Total testing time: 0h:1m:0s | Test Loss: 0.3162 | Test Balanced Accuracy: 85.4083 %
+2024-04-13 04:27:05,869 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 04:27:05,869 - INFO - Epoch: 19 |Total training time: 0h:1m:50s | Train Loss: 0.1643 | Train Balanced Accuracy: 94.5050 %
+2024-04-13 04:27:05,869 - INFO - Epoch: 19 |Total validation time:0h:0m:54s | Validation Loss: 0.2390 | Validation Balanced Accuracy: 82.2721 % 
+2024-04-13 04:27:05,869 - INFO - Epoch: 19 |Total testing time: 0h:1m:4s | Test Loss: 0.3183 | Test Balanced Accuracy: 85.0393 %
+2024-04-13 04:30:49,780 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 04:30:49,781 - INFO - Epoch: 20 |Total training time: 0h:1m:50s | Train Loss: 0.1591 | Train Balanced Accuracy: 94.7395 %
+2024-04-13 04:30:49,781 - INFO - Epoch: 20 |Total validation time:0h:0m:54s | Validation Loss: 0.2540 | Validation Balanced Accuracy: 77.8189 % 
+2024-04-13 04:30:49,781 - INFO - Epoch: 20 |Total testing time: 0h:0m:58s | Test Loss: 0.3253 | Test Balanced Accuracy: 83.4951 %
+2024-04-13 04:34:26,473 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 04:34:26,474 - INFO - Epoch: 21 |Total training time: 0h:1m:50s | Train Loss: 0.1550 | Train Balanced Accuracy: 94.7356 %
+2024-04-13 04:34:26,474 - INFO - Epoch: 21 |Total validation time:0h:0m:49s | Validation Loss: 0.2394 | Validation Balanced Accuracy: 82.6665 % 
+2024-04-13 04:34:26,474 - INFO - Epoch: 21 |Total testing time: 0h:0m:57s | Test Loss: 0.3152 | Test Balanced Accuracy: 85.1841 %
+2024-04-13 04:38:02,229 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 04:38:02,230 - INFO - Epoch: 22 |Total training time: 0h:1m:48s | Train Loss: 0.1515 | Train Balanced Accuracy: 95.0032 %
+2024-04-13 04:38:02,230 - INFO - Epoch: 22 |Total validation time:0h:0m:48s | Validation Loss: 0.2466 | Validation Balanced Accuracy: 80.5757 % 
+2024-04-13 04:38:02,230 - INFO - Epoch: 22 |Total testing time: 0h:0m:58s | Test Loss: 0.3184 | Test Balanced Accuracy: 84.7450 %
+2024-04-13 04:41:38,635 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 04:41:38,635 - INFO - Epoch: 23 |Total training time: 0h:1m:49s | Train Loss: 0.1485 | Train Balanced Accuracy: 94.8927 %
+2024-04-13 04:41:38,636 - INFO - Epoch: 23 |Total validation time:0h:0m:49s | Validation Loss: 0.2366 | Validation Balanced Accuracy: 83.6022 % 
+2024-04-13 04:41:38,636 - INFO - Epoch: 23 |Total testing time: 0h:0m:57s | Test Loss: 0.3136 | Test Balanced Accuracy: 85.4793 %
+2024-04-13 04:45:21,756 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 04:45:21,757 - INFO - Epoch: 24 |Total training time: 0h:1m:49s | Train Loss: 0.1463 | Train Balanced Accuracy: 95.0383 %
+2024-04-13 04:45:21,757 - INFO - Epoch: 24 |Total validation time:0h:0m:49s | Validation Loss: 0.2436 | Validation Balanced Accuracy: 81.7912 % 
+2024-04-13 04:45:21,757 - INFO - Epoch: 24 |Total testing time: 0h:1m:4s | Test Loss: 0.3158 | Test Balanced Accuracy: 85.0662 %
+2024-04-13 04:45:22,384 - INFO - Saved checkpoint at epoch 24: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments_grid_search/DD_GS_A_SGD_Cos_LR_0_01/runs/checkpoints/checkpoint_DD_GS_A_SGD_Cos_LR_0_01_epoch_24.pth
+2024-04-13 04:48:59,135 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 04:48:59,136 - INFO - Epoch: 25 |Total training time: 0h:1m:48s | Train Loss: 0.1447 | Train Balanced Accuracy: 95.1286 %
+2024-04-13 04:48:59,136 - INFO - Epoch: 25 |Total validation time:0h:0m:49s | Validation Loss: 0.2542 | Validation Balanced Accuracy: 79.2209 % 
+2024-04-13 04:48:59,136 - INFO - Epoch: 25 |Total testing time: 0h:0m:58s | Test Loss: 0.3230 | Test Balanced Accuracy: 84.1220 %
+2024-04-13 04:52:34,223 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 04:52:34,224 - INFO - Epoch: 26 |Total training time: 0h:1m:47s | Train Loss: 0.1435 | Train Balanced Accuracy: 95.1783 %
+2024-04-13 04:52:34,224 - INFO - Epoch: 26 |Total validation time:0h:0m:49s | Validation Loss: 0.2486 | Validation Balanced Accuracy: 80.6277 % 
+2024-04-13 04:52:34,224 - INFO - Epoch: 26 |Total testing time: 0h:0m:58s | Test Loss: 0.3186 | Test Balanced Accuracy: 84.5130 %
+2024-04-13 04:56:11,011 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 04:56:11,011 - INFO - Epoch: 27 |Total training time: 0h:1m:48s | Train Loss: 0.1428 | Train Balanced Accuracy: 95.1436 %
+2024-04-13 04:56:11,011 - INFO - Epoch: 27 |Total validation time:0h:0m:49s | Validation Loss: 0.2439 | Validation Balanced Accuracy: 81.7840 % 
+2024-04-13 04:56:11,011 - INFO - Epoch: 27 |Total testing time: 0h:0m:58s | Test Loss: 0.3163 | Test Balanced Accuracy: 85.0164 %
+2024-04-13 04:59:51,064 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 04:59:51,065 - INFO - Epoch: 28 |Total training time: 0h:1m:53s | Train Loss: 0.1422 | Train Balanced Accuracy: 95.2568 %
+2024-04-13 04:59:51,065 - INFO - Epoch: 28 |Total validation time:0h:0m:48s | Validation Loss: 0.2504 | Validation Balanced Accuracy: 80.3133 % 
+2024-04-13 04:59:51,065 - INFO - Epoch: 28 |Total testing time: 0h:0m:58s | Test Loss: 0.3198 | Test Balanced Accuracy: 84.4381 %
+2024-04-13 05:03:32,472 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 05:03:32,472 - INFO - Epoch: 29 |Total training time: 0h:1m:54s | Train Loss: 0.1420 | Train Balanced Accuracy: 95.1289 %
+2024-04-13 05:03:32,472 - INFO - Epoch: 29 |Total validation time:0h:0m:49s | Validation Loss: 0.2479 | Validation Balanced Accuracy: 80.8660 % 
+2024-04-13 05:03:32,472 - INFO - Epoch: 29 |Total testing time: 0h:0m:57s | Test Loss: 0.3183 | Test Balanced Accuracy: 84.6187 %
+2024-04-13 05:07:12,045 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 05:07:12,046 - INFO - Epoch: 30 |Total training time: 0h:1m:50s | Train Loss: 0.1420 | Train Balanced Accuracy: 95.2116 %
+2024-04-13 05:07:12,046 - INFO - Epoch: 30 |Total validation time:0h:0m:50s | Validation Loss: 0.2479 | Validation Balanced Accuracy: 80.8660 % 
+2024-04-13 05:07:12,046 - INFO - Epoch: 30 |Total testing time: 0h:0m:58s | Test Loss: 0.3183 | Test Balanced Accuracy: 84.6187 %
+2024-04-13 05:10:48,720 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 05:10:48,721 - INFO - Epoch: 31 |Total training time: 0h:1m:48s | Train Loss: 0.1419 | Train Balanced Accuracy: 95.2300 %
+2024-04-13 05:10:48,721 - INFO - Epoch: 31 |Total validation time:0h:0m:49s | Validation Loss: 0.2472 | Validation Balanced Accuracy: 81.0981 % 
+2024-04-13 05:10:48,721 - INFO - Epoch: 31 |Total testing time: 0h:0m:58s | Test Loss: 0.3179 | Test Balanced Accuracy: 84.7352 %
+2024-04-13 05:14:27,362 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 05:14:27,363 - INFO - Epoch: 32 |Total training time: 0h:1m:48s | Train Loss: 0.1418 | Train Balanced Accuracy: 95.2464 %
+2024-04-13 05:14:27,363 - INFO - Epoch: 32 |Total validation time:0h:0m:50s | Validation Loss: 0.2490 | Validation Balanced Accuracy: 80.6766 % 
+2024-04-13 05:14:27,363 - INFO - Epoch: 32 |Total testing time: 0h:0m:59s | Test Loss: 0.3188 | Test Balanced Accuracy: 84.5449 %
+2024-04-13 05:18:04,964 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 05:18:04,964 - INFO - Epoch: 33 |Total training time: 0h:1m:49s | Train Loss: 0.1415 | Train Balanced Accuracy: 95.2297 %
+2024-04-13 05:18:04,964 - INFO - Epoch: 33 |Total validation time:0h:0m:49s | Validation Loss: 0.2502 | Validation Balanced Accuracy: 80.4236 % 
+2024-04-13 05:18:04,964 - INFO - Epoch: 33 |Total testing time: 0h:0m:58s | Test Loss: 0.3191 | Test Balanced Accuracy: 84.5100 %
+2024-04-13 05:21:44,275 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 05:21:44,276 - INFO - Epoch: 34 |Total training time: 0h:1m:49s | Train Loss: 0.1410 | Train Balanced Accuracy: 95.2235 %
+2024-04-13 05:21:44,276 - INFO - Epoch: 34 |Total validation time:0h:0m:50s | Validation Loss: 0.2487 | Validation Balanced Accuracy: 80.8483 % 
+2024-04-13 05:21:44,276 - INFO - Epoch: 34 |Total testing time: 0h:0m:59s | Test Loss: 0.3193 | Test Balanced Accuracy: 84.5767 %
+2024-04-13 05:25:22,763 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 05:25:22,763 - INFO - Epoch: 35 |Total training time: 0h:1m:48s | Train Loss: 0.1400 | Train Balanced Accuracy: 95.2867 %
+2024-04-13 05:25:22,763 - INFO - Epoch: 35 |Total validation time:0h:0m:49s | Validation Loss: 0.2485 | Validation Balanced Accuracy: 81.0461 % 
+2024-04-13 05:25:22,763 - INFO - Epoch: 35 |Total testing time: 0h:0m:59s | Test Loss: 0.3176 | Test Balanced Accuracy: 84.7531 %
+2024-04-13 05:29:00,441 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 05:29:00,442 - INFO - Epoch: 36 |Total training time: 0h:1m:48s | Train Loss: 0.1388 | Train Balanced Accuracy: 95.3516 %
+2024-04-13 05:29:00,442 - INFO - Epoch: 36 |Total validation time:0h:0m:49s | Validation Loss: 0.2448 | Validation Balanced Accuracy: 82.0515 % 
+2024-04-13 05:29:00,442 - INFO - Epoch: 36 |Total testing time: 0h:0m:59s | Test Loss: 0.3162 | Test Balanced Accuracy: 85.0564 %
+2024-04-13 05:32:39,760 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 05:32:39,761 - INFO - Epoch: 37 |Total training time: 0h:1m:50s | Train Loss: 0.1379 | Train Balanced Accuracy: 95.4135 %
+2024-04-13 05:32:39,761 - INFO - Epoch: 37 |Total validation time:0h:0m:49s | Validation Loss: 0.2549 | Validation Balanced Accuracy: 79.9126 % 
+2024-04-13 05:32:39,761 - INFO - Epoch: 37 |Total testing time: 0h:0m:59s | Test Loss: 0.3232 | Test Balanced Accuracy: 84.1860 %
+2024-04-13 05:36:18,308 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 05:36:18,308 - INFO - Epoch: 38 |Total training time: 0h:1m:49s | Train Loss: 0.1355 | Train Balanced Accuracy: 95.4649 %
+2024-04-13 05:36:18,309 - INFO - Epoch: 38 |Total validation time:0h:0m:49s | Validation Loss: 0.2566 | Validation Balanced Accuracy: 79.4777 % 
+2024-04-13 05:36:18,309 - INFO - Epoch: 38 |Total testing time: 0h:0m:59s | Test Loss: 0.3216 | Test Balanced Accuracy: 84.2757 %
+2024-04-13 05:39:55,367 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 05:39:55,401 - INFO - Epoch: 39 |Total training time: 0h:1m:49s | Train Loss: 0.1341 | Train Balanced Accuracy: 95.5149 %
+2024-04-13 05:39:55,401 - INFO - Epoch: 39 |Total validation time:0h:0m:47s | Validation Loss: 0.2558 | Validation Balanced Accuracy: 80.1333 % 
+2024-04-13 05:39:55,402 - INFO - Epoch: 39 |Total testing time: 0h:0m:59s | Test Loss: 0.3238 | Test Balanced Accuracy: 84.2120 %
+2024-04-13 05:43:42,434 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 05:43:42,435 - INFO - Epoch: 40 |Total training time: 0h:2m:0s | Train Loss: 0.1324 | Train Balanced Accuracy: 95.5674 %
+2024-04-13 05:43:42,435 - INFO - Epoch: 40 |Total validation time:0h:0m:49s | Validation Loss: 0.2487 | Validation Balanced Accuracy: 81.5634 % 
+2024-04-13 05:43:42,435 - INFO - Epoch: 40 |Total testing time: 0h:0m:57s | Test Loss: 0.3187 | Test Balanced Accuracy: 84.8214 %
+2024-04-13 05:47:21,324 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 05:47:21,324 - INFO - Epoch: 41 |Total training time: 0h:1m:49s | Train Loss: 0.1307 | Train Balanced Accuracy: 95.6268 %
+2024-04-13 05:47:21,324 - INFO - Epoch: 41 |Total validation time:0h:0m:49s | Validation Loss: 0.2522 | Validation Balanced Accuracy: 81.3427 % 
+2024-04-13 05:47:21,324 - INFO - Epoch: 41 |Total testing time: 0h:0m:59s | Test Loss: 0.3201 | Test Balanced Accuracy: 84.7177 %
+2024-04-13 05:50:59,956 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 05:50:59,956 - INFO - Epoch: 42 |Total training time: 0h:1m:48s | Train Loss: 0.1294 | Train Balanced Accuracy: 95.6348 %
+2024-04-13 05:50:59,957 - INFO - Epoch: 42 |Total validation time:0h:0m:51s | Validation Loss: 0.2562 | Validation Balanced Accuracy: 80.4945 % 
+2024-04-13 05:50:59,957 - INFO - Epoch: 42 |Total testing time: 0h:0m:59s | Test Loss: 0.3213 | Test Balanced Accuracy: 84.4641 %
+2024-04-13 05:54:39,046 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 05:54:39,046 - INFO - Epoch: 43 |Total training time: 0h:1m:48s | Train Loss: 0.1281 | Train Balanced Accuracy: 95.7641 %
+2024-04-13 05:54:39,046 - INFO - Epoch: 43 |Total validation time:0h:0m:50s | Validation Loss: 0.2492 | Validation Balanced Accuracy: 81.7154 % 
+2024-04-13 05:54:39,046 - INFO - Epoch: 43 |Total testing time: 0h:0m:59s | Test Loss: 0.3199 | Test Balanced Accuracy: 84.7242 %
+2024-04-13 05:58:18,992 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 05:58:18,992 - INFO - Epoch: 44 |Total training time: 0h:1m:48s | Train Loss: 0.1271 | Train Balanced Accuracy: 95.7539 %
+2024-04-13 05:58:18,992 - INFO - Epoch: 44 |Total validation time:0h:0m:49s | Validation Loss: 0.2574 | Validation Balanced Accuracy: 80.4166 % 
+2024-04-13 05:58:18,992 - INFO - Epoch: 44 |Total testing time: 0h:1m:1s | Test Loss: 0.3229 | Test Balanced Accuracy: 84.4264 %
+2024-04-13 06:01:55,290 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 06:01:55,290 - INFO - Epoch: 45 |Total training time: 0h:1m:48s | Train Loss: 0.1263 | Train Balanced Accuracy: 95.8234 %
+2024-04-13 06:01:55,290 - INFO - Epoch: 45 |Total validation time:0h:0m:49s | Validation Loss: 0.2511 | Validation Balanced Accuracy: 81.5988 % 
+2024-04-13 06:01:55,290 - INFO - Epoch: 45 |Total testing time: 0h:0m:57s | Test Loss: 0.3199 | Test Balanced Accuracy: 84.7887 %
+2024-04-13 06:05:33,858 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 06:05:33,858 - INFO - Epoch: 46 |Total training time: 0h:1m:49s | Train Loss: 0.1256 | Train Balanced Accuracy: 95.8503 %
+2024-04-13 06:05:33,858 - INFO - Epoch: 46 |Total validation time:0h:0m:50s | Validation Loss: 0.2541 | Validation Balanced Accuracy: 81.2616 % 
+2024-04-13 06:05:33,858 - INFO - Epoch: 46 |Total testing time: 0h:0m:58s | Test Loss: 0.3214 | Test Balanced Accuracy: 84.6101 %
+2024-04-13 06:09:10,076 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 06:09:10,077 - INFO - Epoch: 47 |Total training time: 0h:1m:48s | Train Loss: 0.1251 | Train Balanced Accuracy: 95.8426 %
+2024-04-13 06:09:10,077 - INFO - Epoch: 47 |Total validation time:0h:0m:49s | Validation Loss: 0.2532 | Validation Balanced Accuracy: 81.3604 % 
+2024-04-13 06:09:10,077 - INFO - Epoch: 47 |Total testing time: 0h:0m:57s | Test Loss: 0.3210 | Test Balanced Accuracy: 84.6640 %
+2024-04-13 06:12:47,127 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 06:12:47,128 - INFO - Epoch: 48 |Total training time: 0h:1m:49s | Train Loss: 0.1250 | Train Balanced Accuracy: 95.8005 %
+2024-04-13 06:12:47,128 - INFO - Epoch: 48 |Total validation time:0h:0m:49s | Validation Loss: 0.2529 | Validation Balanced Accuracy: 81.4416 % 
+2024-04-13 06:12:47,128 - INFO - Epoch: 48 |Total testing time: 0h:0m:57s | Test Loss: 0.3208 | Test Balanced Accuracy: 84.7029 %
+2024-04-13 06:16:23,315 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 06:16:23,315 - INFO - Epoch: 49 |Total training time: 0h:1m:48s | Train Loss: 0.1248 | Train Balanced Accuracy: 95.8982 %
+2024-04-13 06:16:23,315 - INFO - Epoch: 49 |Total validation time:0h:0m:50s | Validation Loss: 0.2544 | Validation Balanced Accuracy: 81.2616 % 
+2024-04-13 06:16:23,315 - INFO - Epoch: 49 |Total testing time: 0h:0m:57s | Test Loss: 0.3216 | Test Balanced Accuracy: 84.5922 %
+2024-04-13 06:16:23,986 - INFO - Saved checkpoint at epoch 49: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments_grid_search/DD_GS_A_SGD_Cos_LR_0_01/runs/checkpoints/checkpoint_DD_GS_A_SGD_Cos_LR_0_01_epoch_49.pth
+2024-04-13 06:20:00,696 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 06:20:00,697 - INFO - Epoch: 50 |Total training time: 0h:1m:48s | Train Loss: 0.1248 | Train Balanced Accuracy: 95.8769 %
+2024-04-13 06:20:00,697 - INFO - Epoch: 50 |Total validation time:0h:0m:51s | Validation Loss: 0.2544 | Validation Balanced Accuracy: 81.2616 % 
+2024-04-13 06:20:00,697 - INFO - Epoch: 50 |Total testing time: 0h:0m:57s | Test Loss: 0.3216 | Test Balanced Accuracy: 84.5922 %
+2024-04-13 06:23:38,119 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 06:23:38,119 - INFO - Epoch: 51 |Total training time: 0h:1m:49s | Train Loss: 0.1248 | Train Balanced Accuracy: 95.8767 %
+2024-04-13 06:23:38,119 - INFO - Epoch: 51 |Total validation time:0h:0m:50s | Validation Loss: 0.2549 | Validation Balanced Accuracy: 81.1512 % 
+2024-04-13 06:23:38,119 - INFO - Epoch: 51 |Total testing time: 0h:0m:57s | Test Loss: 0.3218 | Test Balanced Accuracy: 84.6190 %
+2024-04-13 06:27:18,083 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 06:27:18,084 - INFO - Epoch: 52 |Total training time: 0h:1m:49s | Train Loss: 0.1247 | Train Balanced Accuracy: 95.8572 %
+2024-04-13 06:27:18,084 - INFO - Epoch: 52 |Total validation time:0h:0m:51s | Validation Loss: 0.2541 | Validation Balanced Accuracy: 81.2907 % 
+2024-04-13 06:27:18,084 - INFO - Epoch: 52 |Total testing time: 0h:0m:59s | Test Loss: 0.3210 | Test Balanced Accuracy: 84.6609 %
+2024-04-13 06:30:56,731 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 06:30:56,731 - INFO - Epoch: 53 |Total training time: 0h:1m:48s | Train Loss: 0.1246 | Train Balanced Accuracy: 95.8343 %
+2024-04-13 06:30:56,731 - INFO - Epoch: 53 |Total validation time:0h:0m:50s | Validation Loss: 0.2490 | Validation Balanced Accuracy: 81.8205 % 
+2024-04-13 06:30:56,731 - INFO - Epoch: 53 |Total testing time: 0h:0m:59s | Test Loss: 0.3189 | Test Balanced Accuracy: 84.7932 %
+2024-04-13 06:34:36,255 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 06:34:36,256 - INFO - Epoch: 54 |Total training time: 0h:1m:49s | Train Loss: 0.1244 | Train Balanced Accuracy: 95.8586 %
+2024-04-13 06:34:36,256 - INFO - Epoch: 54 |Total validation time:0h:0m:50s | Validation Loss: 0.2531 | Validation Balanced Accuracy: 81.5427 % 
+2024-04-13 06:34:36,256 - INFO - Epoch: 54 |Total testing time: 0h:0m:59s | Test Loss: 0.3204 | Test Balanced Accuracy: 84.7728 %
+2024-04-13 06:38:14,695 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 06:38:14,695 - INFO - Epoch: 55 |Total training time: 0h:1m:48s | Train Loss: 0.1242 | Train Balanced Accuracy: 95.8482 %
+2024-04-13 06:38:14,695 - INFO - Epoch: 55 |Total validation time:0h:0m:50s | Validation Loss: 0.2584 | Validation Balanced Accuracy: 80.6111 % 
+2024-04-13 06:38:14,695 - INFO - Epoch: 55 |Total testing time: 0h:0m:59s | Test Loss: 0.3234 | Test Balanced Accuracy: 84.4485 %
+2024-04-13 06:41:51,355 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 06:41:51,356 - INFO - Epoch: 56 |Total training time: 0h:1m:48s | Train Loss: 0.1234 | Train Balanced Accuracy: 95.9072 %
+2024-04-13 06:41:51,356 - INFO - Epoch: 56 |Total validation time:0h:0m:50s | Validation Loss: 0.2486 | Validation Balanced Accuracy: 82.0994 % 
+2024-04-13 06:41:51,356 - INFO - Epoch: 56 |Total testing time: 0h:0m:58s | Test Loss: 0.3189 | Test Balanced Accuracy: 84.8056 %
+2024-04-13 06:45:29,994 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 06:45:29,995 - INFO - Epoch: 57 |Total training time: 0h:1m:49s | Train Loss: 0.1226 | Train Balanced Accuracy: 95.9805 %
+2024-04-13 06:45:29,995 - INFO - Epoch: 57 |Total validation time:0h:0m:51s | Validation Loss: 0.2664 | Validation Balanced Accuracy: 79.5182 % 
+2024-04-13 06:45:29,995 - INFO - Epoch: 57 |Total testing time: 0h:0m:57s | Test Loss: 0.3293 | Test Balanced Accuracy: 83.9121 %
+2024-04-13 06:49:08,851 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 06:49:08,851 - INFO - Epoch: 58 |Total training time: 0h:1m:49s | Train Loss: 0.1220 | Train Balanced Accuracy: 95.9818 %
+2024-04-13 06:49:08,851 - INFO - Epoch: 58 |Total validation time:0h:0m:50s | Validation Loss: 0.2629 | Validation Balanced Accuracy: 80.0886 % 
+2024-04-13 06:49:08,851 - INFO - Epoch: 58 |Total testing time: 0h:0m:58s | Test Loss: 0.3254 | Test Balanced Accuracy: 84.3518 %
+2024-04-13 06:52:47,661 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 06:52:47,662 - INFO - Epoch: 59 |Total training time: 0h:1m:48s | Train Loss: 0.1206 | Train Balanced Accuracy: 96.1021 %
+2024-04-13 06:52:47,662 - INFO - Epoch: 59 |Total validation time:0h:0m:51s | Validation Loss: 0.2638 | Validation Balanced Accuracy: 79.9606 % 
+2024-04-13 06:52:47,662 - INFO - Epoch: 59 |Total testing time: 0h:0m:59s | Test Loss: 0.3262 | Test Balanced Accuracy: 84.2442 %
+2024-04-13 06:56:25,899 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 06:56:25,899 - INFO - Epoch: 60 |Total training time: 0h:1m:48s | Train Loss: 0.1198 | Train Balanced Accuracy: 96.0990 %
+2024-04-13 06:56:25,899 - INFO - Epoch: 60 |Total validation time:0h:0m:51s | Validation Loss: 0.2593 | Validation Balanced Accuracy: 80.6642 % 
+2024-04-13 06:56:25,900 - INFO - Epoch: 60 |Total testing time: 0h:0m:58s | Test Loss: 0.3254 | Test Balanced Accuracy: 84.4329 %
+2024-04-13 07:00:03,324 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 07:00:03,324 - INFO - Epoch: 61 |Total training time: 0h:1m:48s | Train Loss: 0.1188 | Train Balanced Accuracy: 96.1206 %
+2024-04-13 07:00:03,324 - INFO - Epoch: 61 |Total validation time:0h:0m:50s | Validation Loss: 0.2860 | Validation Balanced Accuracy: 77.0112 % 
+2024-04-13 07:00:03,325 - INFO - Epoch: 61 |Total testing time: 0h:0m:57s | Test Loss: 0.3418 | Test Balanced Accuracy: 82.7084 %
+2024-04-13 07:03:40,791 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 07:03:40,791 - INFO - Epoch: 62 |Total training time: 0h:1m:48s | Train Loss: 0.1183 | Train Balanced Accuracy: 96.1324 %
+2024-04-13 07:03:40,791 - INFO - Epoch: 62 |Total validation time:0h:0m:50s | Validation Loss: 0.2654 | Validation Balanced Accuracy: 80.0366 % 
+2024-04-13 07:03:40,792 - INFO - Epoch: 62 |Total testing time: 0h:0m:58s | Test Loss: 0.3290 | Test Balanced Accuracy: 84.2034 %
+2024-04-13 07:08:08,558 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 07:08:08,559 - INFO - Epoch: 63 |Total training time: 0h:1m:42s | Train Loss: 0.1171 | Train Balanced Accuracy: 96.1688 %
+2024-04-13 07:08:08,559 - INFO - Epoch: 63 |Total validation time:0h:0m:48s | Validation Loss: 0.2665 | Validation Balanced Accuracy: 79.9440 % 
+2024-04-13 07:08:08,559 - INFO - Epoch: 63 |Total testing time: 0h:1m:57s | Test Loss: 0.3299 | Test Balanced Accuracy: 84.1028 %
+2024-04-13 07:11:47,459 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 07:11:47,459 - INFO - Epoch: 64 |Total training time: 0h:1m:48s | Train Loss: 0.1164 | Train Balanced Accuracy: 96.1743 %
+2024-04-13 07:11:47,459 - INFO - Epoch: 64 |Total validation time:0h:0m:51s | Validation Loss: 0.2652 | Validation Balanced Accuracy: 80.1126 % 
+2024-04-13 07:11:47,459 - INFO - Epoch: 64 |Total testing time: 0h:0m:59s | Test Loss: 0.3286 | Test Balanced Accuracy: 84.2982 %
+2024-04-13 07:15:24,833 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 07:15:24,834 - INFO - Epoch: 65 |Total training time: 0h:1m:49s | Train Loss: 0.1158 | Train Balanced Accuracy: 96.2000 %
+2024-04-13 07:15:24,834 - INFO - Epoch: 65 |Total validation time:0h:0m:50s | Validation Loss: 0.2636 | Validation Balanced Accuracy: 80.4987 % 
+2024-04-13 07:15:24,834 - INFO - Epoch: 65 |Total testing time: 0h:0m:57s | Test Loss: 0.3272 | Test Balanced Accuracy: 84.3463 %
+2024-04-13 07:19:07,254 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 07:19:07,255 - INFO - Epoch: 66 |Total training time: 0h:1m:49s | Train Loss: 0.1155 | Train Balanced Accuracy: 96.2223 %
+2024-04-13 07:19:07,255 - INFO - Epoch: 66 |Total validation time:0h:0m:54s | Validation Loss: 0.2582 | Validation Balanced Accuracy: 81.2575 % 
+2024-04-13 07:19:07,255 - INFO - Epoch: 66 |Total testing time: 0h:0m:58s | Test Loss: 0.3248 | Test Balanced Accuracy: 84.6465 %
+2024-04-13 07:22:43,778 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 07:22:43,779 - INFO - Epoch: 67 |Total training time: 0h:1m:48s | Train Loss: 0.1151 | Train Balanced Accuracy: 96.2602 %
+2024-04-13 07:22:43,779 - INFO - Epoch: 67 |Total validation time:0h:0m:49s | Validation Loss: 0.2635 | Validation Balanced Accuracy: 80.5768 % 
+2024-04-13 07:22:43,779 - INFO - Epoch: 67 |Total testing time: 0h:0m:57s | Test Loss: 0.3284 | Test Balanced Accuracy: 84.2526 %
+2024-04-13 07:26:20,771 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 07:26:20,772 - INFO - Epoch: 68 |Total training time: 0h:1m:50s | Train Loss: 0.1150 | Train Balanced Accuracy: 96.2111 %
+2024-04-13 07:26:20,772 - INFO - Epoch: 68 |Total validation time:0h:0m:50s | Validation Loss: 0.2625 | Validation Balanced Accuracy: 80.7568 % 
+2024-04-13 07:26:20,772 - INFO - Epoch: 68 |Total testing time: 0h:0m:56s | Test Loss: 0.3277 | Test Balanced Accuracy: 84.3882 %
+2024-04-13 07:30:05,283 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 07:30:05,283 - INFO - Epoch: 69 |Total training time: 0h:1m:55s | Train Loss: 0.1149 | Train Balanced Accuracy: 96.2250 %
+2024-04-13 07:30:05,283 - INFO - Epoch: 69 |Total validation time:0h:0m:50s | Validation Loss: 0.2620 | Validation Balanced Accuracy: 80.8151 % 
+2024-04-13 07:30:05,283 - INFO - Epoch: 69 |Total testing time: 0h:0m:58s | Test Loss: 0.3274 | Test Balanced Accuracy: 84.4678 %
+2024-04-13 07:33:42,794 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 07:33:42,794 - INFO - Epoch: 70 |Total training time: 0h:1m:49s | Train Loss: 0.1149 | Train Balanced Accuracy: 96.2345 %
+2024-04-13 07:33:42,794 - INFO - Epoch: 70 |Total validation time:0h:0m:49s | Validation Loss: 0.2619 | Validation Balanced Accuracy: 80.8151 % 
+2024-04-13 07:33:42,795 - INFO - Epoch: 70 |Total testing time: 0h:0m:58s | Test Loss: 0.3274 | Test Balanced Accuracy: 84.4678 %
+2024-04-13 07:37:25,760 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 07:37:25,761 - INFO - Epoch: 71 |Total training time: 0h:1m:49s | Train Loss: 0.1149 | Train Balanced Accuracy: 96.2220 %
+2024-04-13 07:37:25,761 - INFO - Epoch: 71 |Total validation time:0h:0m:54s | Validation Loss: 0.2617 | Validation Balanced Accuracy: 80.8963 % 
+2024-04-13 07:37:25,761 - INFO - Epoch: 71 |Total testing time: 0h:0m:58s | Test Loss: 0.3272 | Test Balanced Accuracy: 84.4748 %
+2024-04-13 07:41:05,045 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 07:41:05,046 - INFO - Epoch: 72 |Total training time: 0h:1m:48s | Train Loss: 0.1149 | Train Balanced Accuracy: 96.2299 %
+2024-04-13 07:41:05,046 - INFO - Epoch: 72 |Total validation time:0h:0m:50s | Validation Loss: 0.2622 | Validation Balanced Accuracy: 80.7745 % 
+2024-04-13 07:41:05,046 - INFO - Epoch: 72 |Total testing time: 0h:0m:59s | Test Loss: 0.3276 | Test Balanced Accuracy: 84.4430 %
+2024-04-13 07:44:44,555 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 07:44:44,555 - INFO - Epoch: 73 |Total training time: 0h:1m:49s | Train Loss: 0.1148 | Train Balanced Accuracy: 96.2477 %
+2024-04-13 07:44:44,556 - INFO - Epoch: 73 |Total validation time:0h:0m:50s | Validation Loss: 0.2578 | Validation Balanced Accuracy: 81.3524 % 
+2024-04-13 07:44:44,556 - INFO - Epoch: 73 |Total testing time: 0h:0m:59s | Test Loss: 0.3252 | Test Balanced Accuracy: 84.5959 %
+2024-04-13 07:48:21,848 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 07:48:21,848 - INFO - Epoch: 74 |Total training time: 0h:1m:48s | Train Loss: 0.1147 | Train Balanced Accuracy: 96.2174 %
+2024-04-13 07:48:21,848 - INFO - Epoch: 74 |Total validation time:0h:0m:50s | Validation Loss: 0.2593 | Validation Balanced Accuracy: 81.1357 % 
+2024-04-13 07:48:21,849 - INFO - Epoch: 74 |Total testing time: 0h:0m:57s | Test Loss: 0.3263 | Test Balanced Accuracy: 84.5828 %
+2024-04-13 07:48:22,765 - INFO - Saved checkpoint at epoch 74: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments_grid_search/DD_GS_A_SGD_Cos_LR_0_01/runs/checkpoints/checkpoint_DD_GS_A_SGD_Cos_LR_0_01_epoch_74.pth
+2024-04-13 07:52:11,451 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 07:52:11,451 - INFO - Epoch: 75 |Total training time: 0h:1m:48s | Train Loss: 0.1143 | Train Balanced Accuracy: 96.2860 %
+2024-04-13 07:52:11,451 - INFO - Epoch: 75 |Total validation time:0h:0m:55s | Validation Loss: 0.2670 | Validation Balanced Accuracy: 79.9617 % 
+2024-04-13 07:52:11,451 - INFO - Epoch: 75 |Total testing time: 0h:1m:4s | Test Loss: 0.3298 | Test Balanced Accuracy: 84.2345 %
+2024-04-13 07:55:49,116 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 07:55:49,117 - INFO - Epoch: 76 |Total training time: 0h:1m:49s | Train Loss: 0.1140 | Train Balanced Accuracy: 96.2612 %
+2024-04-13 07:55:49,117 - INFO - Epoch: 76 |Total validation time:0h:0m:49s | Validation Loss: 0.2564 | Validation Balanced Accuracy: 81.5656 % 
+2024-04-13 07:55:49,117 - INFO - Epoch: 76 |Total testing time: 0h:0m:58s | Test Loss: 0.3249 | Test Balanced Accuracy: 84.5775 %
+2024-04-13 07:59:26,446 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 07:59:26,446 - INFO - Epoch: 77 |Total training time: 0h:1m:48s | Train Loss: 0.1138 | Train Balanced Accuracy: 96.2568 %
+2024-04-13 07:59:26,446 - INFO - Epoch: 77 |Total validation time:0h:0m:51s | Validation Loss: 0.2569 | Validation Balanced Accuracy: 81.5770 % 
+2024-04-13 07:59:26,446 - INFO - Epoch: 77 |Total testing time: 0h:0m:57s | Test Loss: 0.3251 | Test Balanced Accuracy: 84.4890 %
+2024-04-13 08:03:05,554 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 08:03:05,554 - INFO - Epoch: 78 |Total training time: 0h:1m:49s | Train Loss: 0.1131 | Train Balanced Accuracy: 96.2804 %
+2024-04-13 08:03:05,554 - INFO - Epoch: 78 |Total validation time:0h:0m:50s | Validation Loss: 0.2628 | Validation Balanced Accuracy: 80.8454 % 
+2024-04-13 08:03:05,554 - INFO - Epoch: 78 |Total testing time: 0h:0m:58s | Test Loss: 0.3282 | Test Balanced Accuracy: 84.5140 %
+2024-04-13 08:06:44,458 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 08:06:44,458 - INFO - Epoch: 79 |Total training time: 0h:1m:48s | Train Loss: 0.1124 | Train Balanced Accuracy: 96.2917 %
+2024-04-13 08:06:44,458 - INFO - Epoch: 79 |Total validation time:0h:0m:50s | Validation Loss: 0.2540 | Validation Balanced Accuracy: 82.0209 % 
+2024-04-13 08:06:44,458 - INFO - Epoch: 79 |Total testing time: 0h:0m:59s | Test Loss: 0.3260 | Test Balanced Accuracy: 84.6925 %
+2024-04-13 08:10:26,600 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 08:10:26,600 - INFO - Epoch: 80 |Total training time: 0h:1m:49s | Train Loss: 0.1124 | Train Balanced Accuracy: 96.3325 %
+2024-04-13 08:10:26,600 - INFO - Epoch: 80 |Total validation time:0h:0m:49s | Validation Loss: 0.2606 | Validation Balanced Accuracy: 81.0723 % 
+2024-04-13 08:10:26,600 - INFO - Epoch: 80 |Total testing time: 0h:1m:3s | Test Loss: 0.3279 | Test Balanced Accuracy: 84.5155 %
+2024-04-13 08:14:04,112 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 08:14:04,113 - INFO - Epoch: 81 |Total training time: 0h:1m:48s | Train Loss: 0.1110 | Train Balanced Accuracy: 96.4027 %
+2024-04-13 08:14:04,113 - INFO - Epoch: 81 |Total validation time:0h:0m:50s | Validation Loss: 0.2723 | Validation Balanced Accuracy: 79.8337 % 
+2024-04-13 08:14:04,113 - INFO - Epoch: 81 |Total testing time: 0h:0m:58s | Test Loss: 0.3338 | Test Balanced Accuracy: 84.0014 %
+2024-04-13 08:17:43,895 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 08:17:43,895 - INFO - Epoch: 82 |Total training time: 0h:1m:49s | Train Loss: 0.1106 | Train Balanced Accuracy: 96.3457 %
+2024-04-13 08:17:43,895 - INFO - Epoch: 82 |Total validation time:0h:0m:51s | Validation Loss: 0.2563 | Validation Balanced Accuracy: 81.7633 % 
+2024-04-13 08:17:43,895 - INFO - Epoch: 82 |Total testing time: 0h:0m:59s | Test Loss: 0.3274 | Test Balanced Accuracy: 84.6357 %
+2024-04-13 08:21:22,162 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 08:21:22,163 - INFO - Epoch: 83 |Total training time: 0h:1m:49s | Train Loss: 0.1104 | Train Balanced Accuracy: 96.3981 %
+2024-04-13 08:21:22,163 - INFO - Epoch: 83 |Total validation time:0h:0m:50s | Validation Loss: 0.2653 | Validation Balanced Accuracy: 80.5790 % 
+2024-04-13 08:21:22,163 - INFO - Epoch: 83 |Total testing time: 0h:0m:58s | Test Loss: 0.3308 | Test Balanced Accuracy: 84.4324 %
+2024-04-13 08:25:03,681 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 08:25:03,681 - INFO - Epoch: 84 |Total training time: 0h:1m:49s | Train Loss: 0.1096 | Train Balanced Accuracy: 96.3849 %
+2024-04-13 08:25:03,682 - INFO - Epoch: 84 |Total validation time:0h:0m:50s | Validation Loss: 0.2784 | Validation Balanced Accuracy: 79.2415 % 
+2024-04-13 08:25:03,682 - INFO - Epoch: 84 |Total testing time: 0h:1m:2s | Test Loss: 0.3402 | Test Balanced Accuracy: 83.6724 %
+2024-04-13 08:28:42,694 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 08:28:42,694 - INFO - Epoch: 85 |Total training time: 0h:1m:48s | Train Loss: 0.1091 | Train Balanced Accuracy: 96.4527 %
+2024-04-13 08:28:42,694 - INFO - Epoch: 85 |Total validation time:0h:0m:51s | Validation Loss: 0.2694 | Validation Balanced Accuracy: 80.2990 % 
+2024-04-13 08:28:42,694 - INFO - Epoch: 85 |Total testing time: 0h:0m:58s | Test Loss: 0.3351 | Test Balanced Accuracy: 84.0716 %
+2024-04-13 08:32:16,954 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 08:32:16,955 - INFO - Epoch: 86 |Total training time: 0h:1m:49s | Train Loss: 0.1087 | Train Balanced Accuracy: 96.4625 %
+2024-04-13 08:32:16,955 - INFO - Epoch: 86 |Total validation time:0h:0m:50s | Validation Loss: 0.2672 | Validation Balanced Accuracy: 80.4249 % 
+2024-04-13 08:32:16,955 - INFO - Epoch: 86 |Total testing time: 0h:0m:54s | Test Loss: 0.3335 | Test Balanced Accuracy: 84.3077 %
+2024-04-13 08:36:55,320 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 08:36:55,321 - INFO - Epoch: 87 |Total training time: 0h:2m:46s | Train Loss: 0.1084 | Train Balanced Accuracy: 96.5243 %
+2024-04-13 08:36:55,321 - INFO - Epoch: 87 |Total validation time:0h:0m:53s | Validation Loss: 0.2701 | Validation Balanced Accuracy: 80.2584 % 
+2024-04-13 08:36:55,321 - INFO - Epoch: 87 |Total testing time: 0h:0m:58s | Test Loss: 0.3352 | Test Balanced Accuracy: 84.0646 %
+2024-04-13 08:40:38,688 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 08:40:38,689 - INFO - Epoch: 88 |Total training time: 0h:1m:54s | Train Loss: 0.1083 | Train Balanced Accuracy: 96.4638 %
+2024-04-13 08:40:38,689 - INFO - Epoch: 88 |Total validation time:0h:0m:48s | Validation Loss: 0.2701 | Validation Balanced Accuracy: 80.2990 % 
+2024-04-13 08:40:38,689 - INFO - Epoch: 88 |Total testing time: 0h:1m:0s | Test Loss: 0.3351 | Test Balanced Accuracy: 84.0646 %
+2024-04-13 08:44:16,307 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 08:44:16,308 - INFO - Epoch: 89 |Total training time: 0h:1m:49s | Train Loss: 0.1082 | Train Balanced Accuracy: 96.4777 %
+2024-04-13 08:44:16,308 - INFO - Epoch: 89 |Total validation time:0h:0m:49s | Validation Loss: 0.2690 | Validation Balanced Accuracy: 80.3281 % 
+2024-04-13 08:44:16,308 - INFO - Epoch: 89 |Total testing time: 0h:0m:58s | Test Loss: 0.3345 | Test Balanced Accuracy: 84.1722 %
+2024-04-13 08:47:57,992 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 08:47:57,993 - INFO - Epoch: 90 |Total training time: 0h:1m:48s | Train Loss: 0.1082 | Train Balanced Accuracy: 96.5016 %
+2024-04-13 08:47:57,993 - INFO - Epoch: 90 |Total validation time:0h:0m:54s | Validation Loss: 0.2690 | Validation Balanced Accuracy: 80.3281 % 
+2024-04-13 08:47:57,993 - INFO - Epoch: 90 |Total testing time: 0h:0m:58s | Test Loss: 0.3345 | Test Balanced Accuracy: 84.1722 %
+2024-04-13 08:51:37,242 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 08:51:37,242 - INFO - Epoch: 91 |Total training time: 0h:1m:50s | Train Loss: 0.1082 | Train Balanced Accuracy: 96.4814 %
+2024-04-13 08:51:37,242 - INFO - Epoch: 91 |Total validation time:0h:0m:49s | Validation Loss: 0.2675 | Validation Balanced Accuracy: 80.4104 % 
+2024-04-13 08:51:37,242 - INFO - Epoch: 91 |Total testing time: 0h:0m:59s | Test Loss: 0.3335 | Test Balanced Accuracy: 84.2918 %
+2024-04-13 08:55:15,081 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 08:55:15,081 - INFO - Epoch: 92 |Total training time: 0h:1m:49s | Train Loss: 0.1082 | Train Balanced Accuracy: 96.4640 %
+2024-04-13 08:55:15,081 - INFO - Epoch: 92 |Total validation time:0h:0m:50s | Validation Loss: 0.2659 | Validation Balanced Accuracy: 80.5384 % 
+2024-04-13 08:55:15,081 - INFO - Epoch: 92 |Total testing time: 0h:0m:58s | Test Loss: 0.3328 | Test Balanced Accuracy: 84.3866 %
+2024-04-13 08:58:56,134 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 08:58:56,135 - INFO - Epoch: 93 |Total training time: 0h:1m:50s | Train Loss: 0.1082 | Train Balanced Accuracy: 96.4819 %
+2024-04-13 08:58:56,135 - INFO - Epoch: 93 |Total validation time:0h:0m:50s | Validation Loss: 0.2712 | Validation Balanced Accuracy: 80.1189 % 
+2024-04-13 08:58:56,135 - INFO - Epoch: 93 |Total testing time: 0h:1m:0s | Test Loss: 0.3356 | Test Balanced Accuracy: 83.9461 %
+2024-04-13 09:02:37,433 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 09:02:37,434 - INFO - Epoch: 94 |Total training time: 0h:1m:50s | Train Loss: 0.1080 | Train Balanced Accuracy: 96.4766 %
+2024-04-13 09:02:37,434 - INFO - Epoch: 94 |Total validation time:0h:0m:50s | Validation Loss: 0.2764 | Validation Balanced Accuracy: 79.6079 % 
+2024-04-13 09:02:37,434 - INFO - Epoch: 94 |Total testing time: 0h:0m:59s | Test Loss: 0.3394 | Test Balanced Accuracy: 83.6587 %
+2024-04-13 09:06:16,964 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 09:06:16,964 - INFO - Epoch: 95 |Total training time: 0h:1m:49s | Train Loss: 0.1078 | Train Balanced Accuracy: 96.4967 %
+2024-04-13 09:06:16,964 - INFO - Epoch: 95 |Total validation time:0h:0m:49s | Validation Loss: 0.2663 | Validation Balanced Accuracy: 80.4978 % 
+2024-04-13 09:06:16,964 - INFO - Epoch: 95 |Total testing time: 0h:1m:0s | Test Loss: 0.3334 | Test Balanced Accuracy: 84.3955 %
+2024-04-13 09:09:55,133 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 09:09:55,134 - INFO - Epoch: 96 |Total training time: 0h:1m:49s | Train Loss: 0.1076 | Train Balanced Accuracy: 96.5194 %
+2024-04-13 09:09:55,134 - INFO - Epoch: 96 |Total validation time:0h:0m:49s | Validation Loss: 0.2701 | Validation Balanced Accuracy: 80.3052 % 
+2024-04-13 09:09:55,134 - INFO - Epoch: 96 |Total testing time: 0h:0m:59s | Test Loss: 0.3345 | Test Balanced Accuracy: 84.1842 %
+2024-04-13 09:13:32,516 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 09:13:32,517 - INFO - Epoch: 97 |Total training time: 0h:1m:49s | Train Loss: 0.1073 | Train Balanced Accuracy: 96.4930 %
+2024-04-13 09:13:32,517 - INFO - Epoch: 97 |Total validation time:0h:0m:49s | Validation Loss: 0.2683 | Validation Balanced Accuracy: 80.4218 % 
+2024-04-13 09:13:32,517 - INFO - Epoch: 97 |Total testing time: 0h:0m:58s | Test Loss: 0.3344 | Test Balanced Accuracy: 84.2421 %
+2024-04-13 09:17:10,422 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 09:17:10,422 - INFO - Epoch: 98 |Total training time: 0h:1m:48s | Train Loss: 0.1068 | Train Balanced Accuracy: 96.5278 %
+2024-04-13 09:17:10,422 - INFO - Epoch: 98 |Total validation time:0h:0m:50s | Validation Loss: 0.2679 | Validation Balanced Accuracy: 80.4687 % 
+2024-04-13 09:17:10,422 - INFO - Epoch: 98 |Total testing time: 0h:0m:59s | Test Loss: 0.3344 | Test Balanced Accuracy: 84.3368 %
+2024-04-13 09:20:49,022 - INFO - This file contains logs for: DD_GS_A_SGD_Cos_LR_0_01
+2024-04-13 09:20:49,022 - INFO - Epoch: 99 |Total training time: 0h:1m:49s | Train Loss: 0.1065 | Train Balanced Accuracy: 96.5410 %
+2024-04-13 09:20:49,022 - INFO - Epoch: 99 |Total validation time:0h:0m:50s | Validation Loss: 0.2689 | Validation Balanced Accuracy: 80.5403 % 
+2024-04-13 09:20:49,022 - INFO - Epoch: 99 |Total testing time: 0h:0m:58s | Test Loss: 0.3342 | Test Balanced Accuracy: 84.1935 %
+2024-04-13 09:20:50,112 - INFO - Saved checkpoint at epoch 99: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments_grid_search/DD_GS_A_SGD_Cos_LR_0_01/runs/checkpoints/checkpoint_DD_GS_A_SGD_Cos_LR_0_01_epoch_99.pth
+2024-04-13 09:20:50,113 - INFO - Total training, validation and testing time: 6h:14m:43s.

@@ -1,0 +1,40 @@
+Info Type,Info
+Dataset Directory,/net/polaris/storage/deeplearning/sur_data/rgb_daa/split_0/val
+Output CSV File,/home/sur06423/thesis/dino_v2/dinov2_experiments/dataset_eda/class_image_counts_and_ratios_split_0_val.csv
+,
+Total Validation Images,56024
+,
+Class Name,Number of Images,Class Ratio
+opening_door_outside,102,0.0018206482935884621
+entering_car,174,0.0031058117949450234
+closing_door_inside,68,0.0012137655290589747
+fastening_seat_belt,568,0.010138512066257318
+using_multimedia_display,709,0.01265529058974725
+pressing_automation_button,574,0.010245609024703698
+sitting_still,11883,0.21210552620305584
+fetching_an_object,3946,0.07043409967156933
+interacting_with_phone,2672,0.047693845494787945
+placing_an_object,3190,0.056939882907325434
+talking_on_phone,2824,0.050406968442096245
+eating,6663,0.11893117235470513
+opening_bottle,611,0.010906040268456376
+drinking,761,0.013583464229615878
+closing_bottle,494,0.008817649578751963
+reading_newspaper,5206,0.09292446094530915
+writing,2011,0.03589533057261174
+taking_off_sunglasses,438,0.007818077966585749
+putting_on_sunglasses,515,0.009192488933314294
+unfastening_seat_belt,313,0.005586891332286163
+putting_on_jacket,1844,0.03291446522918749
+taking_off_jacket,1360,0.024275310581179495
+reading_magazine,5597,0.09990361273739826
+opening_laptop,424,0.007568185063544195
+working_on_laptop,1597,0.02850564043981151
+closing_laptop,265,0.004730115664715122
+opening_door_inside,192,0.003427102670284164
+exiting_car,264,0.004712266171640726
+closing_door_outside,80,0.0014279594459517349
+looking_or_moving_around (e.g. searching),393,0.007014850778237898
+preparing_food,201,0.003587748107953734
+taking_laptop_from_backpack,35,0.0006247322576038841
+putting_laptop_into_backpack,50,0.0008924746537198343

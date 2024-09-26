@@ -1,0 +1,13 @@
+experiment_name = "Exp_01_Adam_Sp_0"
+device = 6
+num_workers = 10
+batch_size = 1024
+prefetch_factor = 2
+train_dir = "/net/polaris/storage/deeplearning/sur_data/rgb_daa/split_0/train"
+val_dir = "/net/polaris/storage/deeplearning/sur_data/rgb_daa/split_0/val"
+num_epochs = 90
+optimizer = 'ADAM'
+scheduler = 'LambdaLR'
+batch_size = 1024
+lr = 0.001
+w_decay_adam = 0.03

@@ -1,0 +1,401 @@
+2024-03-26 21:19:00,027 - INFO - Epoch: 0 |Total training time: 0h:2m:8s | Train Loss: 0.4462 | Train Balanced Accuracy: 71.9158 %
+2024-03-26 21:19:00,028 - INFO - Epoch: 0 |Total validation time:0h:1m:5s | Validation Loss: 0.2864 | Validation Balanced Accuracy: 86.2443 % 
+2024-03-26 21:19:00,028 - INFO - Epoch: 0 |Total testing time: 0h:1m:39s | Test Loss: 0.3783 | Test Balanced Accuracy: 86.6033 %
+2024-03-26 21:19:01,060 - INFO - Saved checkpoint at epoch 0: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_0.pth
+2024-03-26 21:22:39,634 - INFO - Epoch: 1 |Total training time: 0h:1m:53s | Train Loss: 0.2546 | Train Balanced Accuracy: 89.6503 %
+2024-03-26 21:22:39,635 - INFO - Epoch: 1 |Total validation time:0h:0m:45s | Validation Loss: 0.2618 | Validation Balanced Accuracy: 75.3683 % 
+2024-03-26 21:22:39,635 - INFO - Epoch: 1 |Total testing time: 0h:0m:58s | Test Loss: 0.3344 | Test Balanced Accuracy: 84.5795 %
+2024-03-26 21:22:40,721 - INFO - Saved checkpoint at epoch 1: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_1.pth
+2024-03-26 21:26:26,351 - INFO - Epoch: 2 |Total training time: 0h:1m:55s | Train Loss: 0.1994 | Train Balanced Accuracy: 92.7557 %
+2024-03-26 21:26:26,352 - INFO - Epoch: 2 |Total validation time:0h:0m:50s | Validation Loss: 0.2805 | Validation Balanced Accuracy: 70.1273 % 
+2024-03-26 21:26:26,352 - INFO - Epoch: 2 |Total testing time: 0h:0m:59s | Test Loss: 0.3363 | Test Balanced Accuracy: 82.6427 %
+2024-03-26 21:26:27,084 - INFO - Saved checkpoint at epoch 2: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_2.pth
+2024-03-26 21:30:11,900 - INFO - Epoch: 3 |Total training time: 0h:1m:56s | Train Loss: 0.1742 | Train Balanced Accuracy: 93.8524 %
+2024-03-26 21:30:11,901 - INFO - Epoch: 3 |Total validation time:0h:0m:48s | Validation Loss: 0.2788 | Validation Balanced Accuracy: 73.3335 % 
+2024-03-26 21:30:11,901 - INFO - Epoch: 3 |Total testing time: 0h:0m:59s | Test Loss: 0.3361 | Test Balanced Accuracy: 82.9567 %
+2024-03-26 21:30:12,739 - INFO - Saved checkpoint at epoch 3: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_3.pth
+2024-03-26 21:33:52,017 - INFO - Epoch: 4 |Total training time: 0h:1m:52s | Train Loss: 0.1583 | Train Balanced Accuracy: 94.3931 %
+2024-03-26 21:33:52,018 - INFO - Epoch: 4 |Total validation time:0h:0m:47s | Validation Loss: 0.2682 | Validation Balanced Accuracy: 78.4681 % 
+2024-03-26 21:33:52,018 - INFO - Epoch: 4 |Total testing time: 0h:0m:58s | Test Loss: 0.3288 | Test Balanced Accuracy: 83.8899 %
+2024-03-26 21:33:52,867 - INFO - Saved checkpoint at epoch 4: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_4.pth
+2024-03-26 21:37:36,232 - INFO - Epoch: 5 |Total training time: 0h:1m:54s | Train Loss: 0.1464 | Train Balanced Accuracy: 94.9966 %
+2024-03-26 21:37:36,232 - INFO - Epoch: 5 |Total validation time:0h:0m:49s | Validation Loss: 0.2618 | Validation Balanced Accuracy: 81.6799 % 
+2024-03-26 21:37:36,233 - INFO - Epoch: 5 |Total testing time: 0h:0m:58s | Test Loss: 0.3306 | Test Balanced Accuracy: 84.2773 %
+2024-03-26 21:37:37,062 - INFO - Saved checkpoint at epoch 5: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_5.pth
+2024-03-26 21:41:20,231 - INFO - Epoch: 6 |Total training time: 0h:1m:54s | Train Loss: 0.1386 | Train Balanced Accuracy: 95.1401 %
+2024-03-26 21:41:20,231 - INFO - Epoch: 6 |Total validation time:0h:0m:48s | Validation Loss: 0.2756 | Validation Balanced Accuracy: 80.1853 % 
+2024-03-26 21:41:20,231 - INFO - Epoch: 6 |Total testing time: 0h:1m:0s | Test Loss: 0.3326 | Test Balanced Accuracy: 83.6192 %
+2024-03-26 21:41:20,974 - INFO - Saved checkpoint at epoch 6: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_6.pth
+2024-03-26 21:46:04,862 - INFO - Epoch: 7 |Total training time: 0h:2m:38s | Train Loss: 0.1322 | Train Balanced Accuracy: 95.5663 %
+2024-03-26 21:46:04,862 - INFO - Epoch: 7 |Total validation time:0h:0m:51s | Validation Loss: 0.3114 | Validation Balanced Accuracy: 74.7008 % 
+2024-03-26 21:46:04,862 - INFO - Epoch: 7 |Total testing time: 0h:1m:13s | Test Loss: 0.3455 | Test Balanced Accuracy: 82.8108 %
+2024-03-26 21:46:05,577 - INFO - Saved checkpoint at epoch 7: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_7.pth
+2024-03-26 21:49:50,894 - INFO - Epoch: 8 |Total training time: 0h:1m:55s | Train Loss: 0.1262 | Train Balanced Accuracy: 95.7092 %
+2024-03-26 21:49:50,895 - INFO - Epoch: 8 |Total validation time:0h:0m:49s | Validation Loss: 0.2799 | Validation Balanced Accuracy: 80.7774 % 
+2024-03-26 21:49:50,895 - INFO - Epoch: 8 |Total testing time: 0h:1m:0s | Test Loss: 0.3396 | Test Balanced Accuracy: 83.6571 %
+2024-03-26 21:49:51,655 - INFO - Saved checkpoint at epoch 8: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_8.pth
+2024-03-26 21:53:35,682 - INFO - Epoch: 9 |Total training time: 0h:1m:54s | Train Loss: 0.1213 | Train Balanced Accuracy: 95.8901 %
+2024-03-26 21:53:35,682 - INFO - Epoch: 9 |Total validation time:0h:0m:49s | Validation Loss: 0.3021 | Validation Balanced Accuracy: 78.4026 % 
+2024-03-26 21:53:35,683 - INFO - Epoch: 9 |Total testing time: 0h:1m:0s | Test Loss: 0.3561 | Test Balanced Accuracy: 82.5829 %
+2024-03-26 21:53:36,477 - INFO - Saved checkpoint at epoch 9: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_9.pth
+2024-03-26 21:57:23,408 - INFO - Epoch: 10 |Total training time: 0h:1m:56s | Train Loss: 0.1179 | Train Balanced Accuracy: 95.9996 %
+2024-03-26 21:57:23,408 - INFO - Epoch: 10 |Total validation time:0h:0m:48s | Validation Loss: 0.3184 | Validation Balanced Accuracy: 77.0218 % 
+2024-03-26 21:57:23,408 - INFO - Epoch: 10 |Total testing time: 0h:1m:1s | Test Loss: 0.3570 | Test Balanced Accuracy: 82.3942 %
+2024-03-26 21:57:24,186 - INFO - Saved checkpoint at epoch 10: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_10.pth
+2024-03-26 22:01:14,473 - INFO - Epoch: 11 |Total training time: 0h:1m:59s | Train Loss: 0.1138 | Train Balanced Accuracy: 96.2178 %
+2024-03-26 22:01:14,473 - INFO - Epoch: 11 |Total validation time:0h:0m:50s | Validation Loss: 0.2988 | Validation Balanced Accuracy: 79.7983 % 
+2024-03-26 22:01:14,473 - INFO - Epoch: 11 |Total testing time: 0h:1m:0s | Test Loss: 0.3490 | Test Balanced Accuracy: 83.2548 %
+2024-03-26 22:01:15,240 - INFO - Saved checkpoint at epoch 11: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_11.pth
+2024-03-26 22:04:58,700 - INFO - Epoch: 12 |Total training time: 0h:1m:54s | Train Loss: 0.1109 | Train Balanced Accuracy: 96.2709 %
+2024-03-26 22:04:58,700 - INFO - Epoch: 12 |Total validation time:0h:0m:48s | Validation Loss: 0.2878 | Validation Balanced Accuracy: 82.0651 % 
+2024-03-26 22:04:58,700 - INFO - Epoch: 12 |Total testing time: 0h:1m:0s | Test Loss: 0.3563 | Test Balanced Accuracy: 83.5627 %
+2024-03-26 22:04:59,433 - INFO - Saved checkpoint at epoch 12: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_12.pth
+2024-03-26 22:08:42,910 - INFO - Epoch: 13 |Total training time: 0h:1m:55s | Train Loss: 0.1088 | Train Balanced Accuracy: 96.4207 %
+2024-03-26 22:08:42,911 - INFO - Epoch: 13 |Total validation time:0h:0m:47s | Validation Loss: 0.2991 | Validation Balanced Accuracy: 80.0595 % 
+2024-03-26 22:08:42,911 - INFO - Epoch: 13 |Total testing time: 0h:1m:0s | Test Loss: 0.3570 | Test Balanced Accuracy: 83.4539 %
+2024-03-26 22:08:43,619 - INFO - Saved checkpoint at epoch 13: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_13.pth
+2024-03-26 22:12:30,721 - INFO - Epoch: 14 |Total training time: 0h:1m:54s | Train Loss: 0.1063 | Train Balanced Accuracy: 96.4501 %
+2024-03-26 22:12:30,722 - INFO - Epoch: 14 |Total validation time:0h:0m:52s | Validation Loss: 0.2954 | Validation Balanced Accuracy: 80.9458 % 
+2024-03-26 22:12:30,722 - INFO - Epoch: 14 |Total testing time: 0h:1m:0s | Test Loss: 0.3545 | Test Balanced Accuracy: 83.6893 %
+2024-03-26 22:12:35,924 - INFO - Saved checkpoint at epoch 14: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_14.pth
+2024-03-26 22:16:27,710 - INFO - Epoch: 15 |Total training time: 0h:1m:58s | Train Loss: 0.1037 | Train Balanced Accuracy: 96.5569 %
+2024-03-26 22:16:27,710 - INFO - Epoch: 15 |Total validation time:0h:0m:50s | Validation Loss: 0.3059 | Validation Balanced Accuracy: 80.4082 % 
+2024-03-26 22:16:27,710 - INFO - Epoch: 15 |Total testing time: 0h:1m:2s | Test Loss: 0.3668 | Test Balanced Accuracy: 82.9167 %
+2024-03-26 22:16:28,556 - INFO - Saved checkpoint at epoch 15: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_15.pth
+2024-03-26 22:20:14,013 - INFO - Epoch: 16 |Total training time: 0h:1m:56s | Train Loss: 0.1021 | Train Balanced Accuracy: 96.6155 %
+2024-03-26 22:20:14,014 - INFO - Epoch: 16 |Total validation time:0h:0m:49s | Validation Loss: 0.3049 | Validation Balanced Accuracy: 80.4572 % 
+2024-03-26 22:20:14,014 - INFO - Epoch: 16 |Total testing time: 0h:1m:0s | Test Loss: 0.3710 | Test Balanced Accuracy: 83.0733 %
+2024-03-26 22:20:14,970 - INFO - Saved checkpoint at epoch 16: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_16.pth
+2024-03-26 22:23:56,799 - INFO - Epoch: 17 |Total training time: 0h:1m:53s | Train Loss: 0.0998 | Train Balanced Accuracy: 96.7093 %
+2024-03-26 22:23:56,800 - INFO - Epoch: 17 |Total validation time:0h:0m:48s | Validation Loss: 0.3184 | Validation Balanced Accuracy: 79.2353 % 
+2024-03-26 22:23:56,800 - INFO - Epoch: 17 |Total testing time: 0h:1m:0s | Test Loss: 0.3700 | Test Balanced Accuracy: 82.6775 %
+2024-03-26 22:23:57,732 - INFO - Saved checkpoint at epoch 17: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_17.pth
+2024-03-26 22:27:50,980 - INFO - Epoch: 18 |Total training time: 0h:2m:1s | Train Loss: 0.0986 | Train Balanced Accuracy: 96.6822 %
+2024-03-26 22:27:50,980 - INFO - Epoch: 18 |Total validation time:0h:0m:50s | Validation Loss: 0.3032 | Validation Balanced Accuracy: 80.5195 % 
+2024-03-26 22:27:50,980 - INFO - Epoch: 18 |Total testing time: 0h:1m:0s | Test Loss: 0.3746 | Test Balanced Accuracy: 83.3956 %
+2024-03-26 22:27:51,875 - INFO - Saved checkpoint at epoch 18: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_18.pth
+2024-03-26 22:31:36,310 - INFO - Epoch: 19 |Total training time: 0h:1m:56s | Train Loss: 0.0974 | Train Balanced Accuracy: 96.7682 %
+2024-03-26 22:31:36,311 - INFO - Epoch: 19 |Total validation time:0h:0m:48s | Validation Loss: 0.2994 | Validation Balanced Accuracy: 81.5032 % 
+2024-03-26 22:31:36,311 - INFO - Epoch: 19 |Total testing time: 0h:0m:59s | Test Loss: 0.3833 | Test Balanced Accuracy: 83.2371 %
+2024-03-26 22:31:37,064 - INFO - Saved checkpoint at epoch 19: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_19.pth
+2024-03-26 22:35:22,618 - INFO - Epoch: 20 |Total training time: 0h:1m:57s | Train Loss: 0.0978 | Train Balanced Accuracy: 96.6315 %
+2024-03-26 22:35:22,619 - INFO - Epoch: 20 |Total validation time:0h:0m:48s | Validation Loss: 0.3062 | Validation Balanced Accuracy: 80.9933 % 
+2024-03-26 22:35:22,619 - INFO - Epoch: 20 |Total testing time: 0h:0m:59s | Test Loss: 0.3801 | Test Balanced Accuracy: 83.4344 %
+2024-03-26 22:35:24,402 - INFO - Saved checkpoint at epoch 20: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_20.pth
+2024-03-26 22:39:10,898 - INFO - Epoch: 21 |Total training time: 0h:1m:56s | Train Loss: 0.0954 | Train Balanced Accuracy: 96.8293 %
+2024-03-26 22:39:10,898 - INFO - Epoch: 21 |Total validation time:0h:0m:49s | Validation Loss: 0.3024 | Validation Balanced Accuracy: 81.2848 % 
+2024-03-26 22:39:10,899 - INFO - Epoch: 21 |Total testing time: 0h:1m:0s | Test Loss: 0.3813 | Test Balanced Accuracy: 83.6125 %
+2024-03-26 22:39:14,391 - INFO - Saved checkpoint at epoch 21: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_21.pth
+2024-03-26 22:43:01,683 - INFO - Epoch: 22 |Total training time: 0h:1m:55s | Train Loss: 0.0928 | Train Balanced Accuracy: 97.0107 %
+2024-03-26 22:43:01,684 - INFO - Epoch: 22 |Total validation time:0h:0m:50s | Validation Loss: 0.3179 | Validation Balanced Accuracy: 79.8359 % 
+2024-03-26 22:43:01,684 - INFO - Epoch: 22 |Total testing time: 0h:1m:1s | Test Loss: 0.3939 | Test Balanced Accuracy: 82.4056 %
+2024-03-26 22:43:02,475 - INFO - Saved checkpoint at epoch 22: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_22.pth
+2024-03-26 22:46:50,321 - INFO - Epoch: 23 |Total training time: 0h:1m:56s | Train Loss: 0.0915 | Train Balanced Accuracy: 97.0107 %
+2024-03-26 22:46:50,322 - INFO - Epoch: 23 |Total validation time:0h:0m:48s | Validation Loss: 0.3062 | Validation Balanced Accuracy: 81.0516 % 
+2024-03-26 22:46:50,322 - INFO - Epoch: 23 |Total testing time: 0h:1m:2s | Test Loss: 0.3934 | Test Balanced Accuracy: 83.2134 %
+2024-03-26 22:46:51,072 - INFO - Saved checkpoint at epoch 23: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_23.pth
+2024-03-26 22:50:40,479 - INFO - Epoch: 24 |Total training time: 0h:2m:1s | Train Loss: 0.0906 | Train Balanced Accuracy: 97.0324 %
+2024-03-26 22:50:40,479 - INFO - Epoch: 24 |Total validation time:0h:0m:48s | Validation Loss: 0.3086 | Validation Balanced Accuracy: 81.4501 % 
+2024-03-26 22:50:40,479 - INFO - Epoch: 24 |Total testing time: 0h:0m:59s | Test Loss: 0.4023 | Test Balanced Accuracy: 83.0377 %
+2024-03-26 22:50:43,453 - INFO - Saved checkpoint at epoch 24: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_24.pth
+2024-03-26 22:54:28,749 - INFO - Epoch: 25 |Total training time: 0h:1m:55s | Train Loss: 0.0899 | Train Balanced Accuracy: 96.9824 %
+2024-03-26 22:54:28,749 - INFO - Epoch: 25 |Total validation time:0h:0m:49s | Validation Loss: 0.2979 | Validation Balanced Accuracy: 83.1761 % 
+2024-03-26 22:54:28,749 - INFO - Epoch: 25 |Total testing time: 0h:1m:0s | Test Loss: 0.3935 | Test Balanced Accuracy: 83.5925 %
+2024-03-26 22:54:29,931 - INFO - Saved checkpoint at epoch 25: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_25.pth
+2024-03-26 22:58:32,400 - INFO - Epoch: 26 |Total training time: 0h:1m:54s | Train Loss: 0.0894 | Train Balanced Accuracy: 96.9968 %
+2024-03-26 22:58:32,401 - INFO - Epoch: 26 |Total validation time:0h:0m:48s | Validation Loss: 0.3067 | Validation Balanced Accuracy: 82.1696 % 
+2024-03-26 22:58:32,401 - INFO - Epoch: 26 |Total testing time: 0h:1m:19s | Test Loss: 0.3959 | Test Balanced Accuracy: 83.2854 %
+2024-03-26 22:58:33,203 - INFO - Saved checkpoint at epoch 26: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_26.pth
+2024-03-26 23:02:15,599 - INFO - Epoch: 27 |Total training time: 0h:1m:54s | Train Loss: 0.0880 | Train Balanced Accuracy: 97.0795 %
+2024-03-26 23:02:15,600 - INFO - Epoch: 27 |Total validation time:0h:0m:48s | Validation Loss: 0.3085 | Validation Balanced Accuracy: 82.3205 % 
+2024-03-26 23:02:15,600 - INFO - Epoch: 27 |Total testing time: 0h:1m:0s | Test Loss: 0.4013 | Test Balanced Accuracy: 83.1774 %
+2024-03-26 23:02:17,251 - INFO - Saved checkpoint at epoch 27: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_27.pth
+2024-03-26 23:05:58,598 - INFO - Epoch: 28 |Total training time: 0h:1m:53s | Train Loss: 0.0892 | Train Balanced Accuracy: 96.8953 %
+2024-03-26 23:05:58,598 - INFO - Epoch: 28 |Total validation time:0h:0m:48s | Validation Loss: 0.3058 | Validation Balanced Accuracy: 82.4205 % 
+2024-03-26 23:05:58,598 - INFO - Epoch: 28 |Total testing time: 0h:0m:59s | Test Loss: 0.4049 | Test Balanced Accuracy: 83.1350 %
+2024-03-26 23:06:00,095 - INFO - Saved checkpoint at epoch 28: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_28.pth
+2024-03-26 23:09:45,841 - INFO - Epoch: 29 |Total training time: 0h:1m:54s | Train Loss: 0.0866 | Train Balanced Accuracy: 97.1260 %
+2024-03-26 23:09:45,842 - INFO - Epoch: 29 |Total validation time:0h:0m:49s | Validation Loss: 0.3313 | Validation Balanced Accuracy: 79.6747 % 
+2024-03-26 23:09:45,842 - INFO - Epoch: 29 |Total testing time: 0h:1m:1s | Test Loss: 0.4289 | Test Balanced Accuracy: 81.8159 %
+2024-03-26 23:09:46,527 - INFO - Saved checkpoint at epoch 29: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_29.pth
+2024-03-26 23:13:28,495 - INFO - Epoch: 30 |Total training time: 0h:1m:54s | Train Loss: 0.0862 | Train Balanced Accuracy: 97.1684 %
+2024-03-26 23:13:28,495 - INFO - Epoch: 30 |Total validation time:0h:0m:47s | Validation Loss: 0.3232 | Validation Balanced Accuracy: 80.3149 % 
+2024-03-26 23:13:28,495 - INFO - Epoch: 30 |Total testing time: 0h:0m:59s | Test Loss: 0.4196 | Test Balanced Accuracy: 82.1530 %
+2024-03-26 23:13:29,211 - INFO - Saved checkpoint at epoch 30: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_30.pth
+2024-03-26 23:17:14,945 - INFO - Epoch: 31 |Total training time: 0h:1m:56s | Train Loss: 0.0852 | Train Balanced Accuracy: 97.1714 %
+2024-03-26 23:17:14,946 - INFO - Epoch: 31 |Total validation time:0h:0m:49s | Validation Loss: 0.3187 | Validation Balanced Accuracy: 80.6240 % 
+2024-03-26 23:17:14,946 - INFO - Epoch: 31 |Total testing time: 0h:1m:0s | Test Loss: 0.4165 | Test Balanced Accuracy: 82.5513 %
+2024-03-26 23:17:15,691 - INFO - Saved checkpoint at epoch 31: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_31.pth
+2024-03-26 23:20:59,721 - INFO - Epoch: 32 |Total training time: 0h:1m:55s | Train Loss: 0.0844 | Train Balanced Accuracy: 97.2164 %
+2024-03-26 23:20:59,721 - INFO - Epoch: 32 |Total validation time:0h:0m:49s | Validation Loss: 0.3323 | Validation Balanced Accuracy: 79.7012 % 
+2024-03-26 23:20:59,721 - INFO - Epoch: 32 |Total testing time: 0h:0m:59s | Test Loss: 0.4283 | Test Balanced Accuracy: 81.9168 %
+2024-03-26 23:21:00,472 - INFO - Saved checkpoint at epoch 32: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_32.pth
+2024-03-26 23:24:42,695 - INFO - Epoch: 33 |Total training time: 0h:1m:55s | Train Loss: 0.0840 | Train Balanced Accuracy: 97.2198 %
+2024-03-26 23:24:42,696 - INFO - Epoch: 33 |Total validation time:0h:0m:48s | Validation Loss: 0.3100 | Validation Balanced Accuracy: 81.7763 % 
+2024-03-26 23:24:42,696 - INFO - Epoch: 33 |Total testing time: 0h:0m:58s | Test Loss: 0.4169 | Test Balanced Accuracy: 82.7893 %
+2024-03-26 23:24:43,378 - INFO - Saved checkpoint at epoch 33: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_33.pth
+2024-03-26 23:28:27,789 - INFO - Epoch: 34 |Total training time: 0h:1m:54s | Train Loss: 0.0833 | Train Balanced Accuracy: 97.2052 %
+2024-03-26 23:28:27,789 - INFO - Epoch: 34 |Total validation time:0h:0m:50s | Validation Loss: 0.3106 | Validation Balanced Accuracy: 82.2541 % 
+2024-03-26 23:28:27,789 - INFO - Epoch: 34 |Total testing time: 0h:0m:59s | Test Loss: 0.4196 | Test Balanced Accuracy: 82.7569 %
+2024-03-26 23:28:29,277 - INFO - Saved checkpoint at epoch 34: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_34.pth
+2024-03-26 23:32:20,790 - INFO - Epoch: 35 |Total training time: 0h:2m:0s | Train Loss: 0.0834 | Train Balanced Accuracy: 97.2650 %
+2024-03-26 23:32:20,790 - INFO - Epoch: 35 |Total validation time:0h:0m:50s | Validation Loss: 0.3343 | Validation Balanced Accuracy: 79.5260 % 
+2024-03-26 23:32:20,791 - INFO - Epoch: 35 |Total testing time: 0h:1m:0s | Test Loss: 0.4300 | Test Balanced Accuracy: 81.9560 %
+2024-03-26 23:32:21,513 - INFO - Saved checkpoint at epoch 35: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_35.pth
+2024-03-26 23:36:03,896 - INFO - Epoch: 36 |Total training time: 0h:1m:53s | Train Loss: 0.0817 | Train Balanced Accuracy: 97.3465 %
+2024-03-26 23:36:03,897 - INFO - Epoch: 36 |Total validation time:0h:0m:48s | Validation Loss: 0.3239 | Validation Balanced Accuracy: 80.4971 % 
+2024-03-26 23:36:03,897 - INFO - Epoch: 36 |Total testing time: 0h:1m:0s | Test Loss: 0.4265 | Test Balanced Accuracy: 82.3890 %
+2024-03-26 23:36:04,755 - INFO - Saved checkpoint at epoch 36: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_36.pth
+2024-03-26 23:39:55,886 - INFO - Epoch: 37 |Total training time: 0h:1m:54s | Train Loss: 0.0815 | Train Balanced Accuracy: 97.3180 %
+2024-03-26 23:39:55,887 - INFO - Epoch: 37 |Total validation time:0h:0m:48s | Validation Loss: 0.3294 | Validation Balanced Accuracy: 79.8175 % 
+2024-03-26 23:39:55,887 - INFO - Epoch: 37 |Total testing time: 0h:1m:7s | Test Loss: 0.4379 | Test Balanced Accuracy: 81.6810 %
+2024-03-26 23:39:56,843 - INFO - Saved checkpoint at epoch 37: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_37.pth
+2024-03-26 23:43:39,682 - INFO - Epoch: 38 |Total training time: 0h:1m:54s | Train Loss: 0.0806 | Train Balanced Accuracy: 97.3902 %
+2024-03-26 23:43:39,682 - INFO - Epoch: 38 |Total validation time:0h:0m:48s | Validation Loss: 0.3433 | Validation Balanced Accuracy: 79.1054 % 
+2024-03-26 23:43:39,682 - INFO - Epoch: 38 |Total testing time: 0h:0m:59s | Test Loss: 0.4377 | Test Balanced Accuracy: 81.5004 %
+2024-03-26 23:43:43,123 - INFO - Saved checkpoint at epoch 38: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_38.pth
+2024-03-26 23:47:31,876 - INFO - Epoch: 39 |Total training time: 0h:1m:56s | Train Loss: 0.0807 | Train Balanced Accuracy: 97.2916 %
+2024-03-26 23:47:31,876 - INFO - Epoch: 39 |Total validation time:0h:0m:52s | Validation Loss: 0.3160 | Validation Balanced Accuracy: 81.4819 % 
+2024-03-26 23:47:31,877 - INFO - Epoch: 39 |Total testing time: 0h:1m:0s | Test Loss: 0.4345 | Test Balanced Accuracy: 82.4828 %
+2024-03-26 23:47:32,642 - INFO - Saved checkpoint at epoch 39: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_39.pth
+2024-03-26 23:51:15,120 - INFO - Epoch: 40 |Total training time: 0h:1m:55s | Train Loss: 0.0808 | Train Balanced Accuracy: 97.3943 %
+2024-03-26 23:51:15,121 - INFO - Epoch: 40 |Total validation time:0h:0m:48s | Validation Loss: 0.3285 | Validation Balanced Accuracy: 80.1433 % 
+2024-03-26 23:51:15,121 - INFO - Epoch: 40 |Total testing time: 0h:0m:58s | Test Loss: 0.4463 | Test Balanced Accuracy: 81.6151 %
+2024-03-26 23:51:15,956 - INFO - Saved checkpoint at epoch 40: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_40.pth
+2024-03-26 23:54:58,587 - INFO - Epoch: 41 |Total training time: 0h:1m:54s | Train Loss: 0.0793 | Train Balanced Accuracy: 97.4028 %
+2024-03-26 23:54:58,587 - INFO - Epoch: 41 |Total validation time:0h:0m:48s | Validation Loss: 0.3260 | Validation Balanced Accuracy: 80.4879 % 
+2024-03-26 23:54:58,588 - INFO - Epoch: 41 |Total testing time: 0h:0m:59s | Test Loss: 0.4357 | Test Balanced Accuracy: 82.2758 %
+2024-03-26 23:54:59,485 - INFO - Saved checkpoint at epoch 41: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_41.pth
+2024-03-26 23:58:41,500 - INFO - Epoch: 42 |Total training time: 0h:1m:53s | Train Loss: 0.0789 | Train Balanced Accuracy: 97.4401 %
+2024-03-26 23:58:41,500 - INFO - Epoch: 42 |Total validation time:0h:0m:48s | Validation Loss: 0.3164 | Validation Balanced Accuracy: 81.9305 % 
+2024-03-26 23:58:41,501 - INFO - Epoch: 42 |Total testing time: 0h:0m:59s | Test Loss: 0.4393 | Test Balanced Accuracy: 82.3191 %
+2024-03-26 23:58:42,192 - INFO - Saved checkpoint at epoch 42: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_42.pth
+2024-03-27 00:02:25,179 - INFO - Epoch: 43 |Total training time: 0h:1m:54s | Train Loss: 0.0792 | Train Balanced Accuracy: 97.4478 %
+2024-03-27 00:02:25,180 - INFO - Epoch: 43 |Total validation time:0h:0m:48s | Validation Loss: 0.3458 | Validation Balanced Accuracy: 78.7287 % 
+2024-03-27 00:02:25,180 - INFO - Epoch: 43 |Total testing time: 0h:1m:0s | Test Loss: 0.4571 | Test Balanced Accuracy: 80.9395 %
+2024-03-27 00:02:28,295 - INFO - Saved checkpoint at epoch 43: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_43.pth
+2024-03-27 00:06:11,574 - INFO - Epoch: 44 |Total training time: 0h:1m:54s | Train Loss: 0.0784 | Train Balanced Accuracy: 97.3993 %
+2024-03-27 00:06:11,574 - INFO - Epoch: 44 |Total validation time:0h:0m:48s | Validation Loss: 0.3285 | Validation Balanced Accuracy: 80.4612 % 
+2024-03-27 00:06:11,575 - INFO - Epoch: 44 |Total testing time: 0h:0m:59s | Test Loss: 0.4514 | Test Balanced Accuracy: 81.6671 %
+2024-03-27 00:06:12,976 - INFO - Saved checkpoint at epoch 44: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_44.pth
+2024-03-27 00:10:02,460 - INFO - Epoch: 45 |Total training time: 0h:1m:59s | Train Loss: 0.0776 | Train Balanced Accuracy: 97.5132 %
+2024-03-27 00:10:02,461 - INFO - Epoch: 45 |Total validation time:0h:0m:49s | Validation Loss: 0.3307 | Validation Balanced Accuracy: 79.9872 % 
+2024-03-27 00:10:02,461 - INFO - Epoch: 45 |Total testing time: 0h:0m:59s | Test Loss: 0.4487 | Test Balanced Accuracy: 81.4858 %
+2024-03-27 00:10:03,205 - INFO - Saved checkpoint at epoch 45: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_45.pth
+2024-03-27 00:13:42,855 - INFO - Epoch: 46 |Total training time: 0h:1m:53s | Train Loss: 0.0785 | Train Balanced Accuracy: 97.3289 %
+2024-03-27 00:13:42,856 - INFO - Epoch: 46 |Total validation time:0h:0m:47s | Validation Loss: 0.3133 | Validation Balanced Accuracy: 82.5438 % 
+2024-03-27 00:13:42,856 - INFO - Epoch: 46 |Total testing time: 0h:0m:58s | Test Loss: 0.4467 | Test Balanced Accuracy: 82.4335 %
+2024-03-27 00:13:43,817 - INFO - Saved checkpoint at epoch 46: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_46.pth
+2024-03-27 00:17:27,560 - INFO - Epoch: 47 |Total training time: 0h:1m:53s | Train Loss: 0.0780 | Train Balanced Accuracy: 97.4860 %
+2024-03-27 00:17:27,561 - INFO - Epoch: 47 |Total validation time:0h:0m:47s | Validation Loss: 0.3285 | Validation Balanced Accuracy: 80.3422 % 
+2024-03-27 00:17:27,561 - INFO - Epoch: 47 |Total testing time: 0h:1m:2s | Test Loss: 0.4477 | Test Balanced Accuracy: 81.7918 %
+2024-03-27 00:17:28,235 - INFO - Saved checkpoint at epoch 47: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_47.pth
+2024-03-27 00:21:09,783 - INFO - Epoch: 48 |Total training time: 0h:1m:52s | Train Loss: 0.0768 | Train Balanced Accuracy: 97.4903 %
+2024-03-27 00:21:09,784 - INFO - Epoch: 48 |Total validation time:0h:0m:47s | Validation Loss: 0.3238 | Validation Balanced Accuracy: 80.9772 % 
+2024-03-27 00:21:09,784 - INFO - Epoch: 48 |Total testing time: 0h:1m:1s | Test Loss: 0.4449 | Test Balanced Accuracy: 82.1292 %
+2024-03-27 00:21:12,235 - INFO - Saved checkpoint at epoch 48: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_48.pth
+2024-03-27 00:24:50,534 - INFO - Epoch: 49 |Total training time: 0h:1m:53s | Train Loss: 0.0765 | Train Balanced Accuracy: 97.5117 %
+2024-03-27 00:24:50,534 - INFO - Epoch: 49 |Total validation time:0h:0m:46s | Validation Loss: 0.3328 | Validation Balanced Accuracy: 80.2256 % 
+2024-03-27 00:24:50,534 - INFO - Epoch: 49 |Total testing time: 0h:0m:58s | Test Loss: 0.4551 | Test Balanced Accuracy: 81.4849 %
+2024-03-27 00:24:51,250 - INFO - Saved checkpoint at epoch 49: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_49.pth
+2024-03-27 00:28:31,080 - INFO - Epoch: 50 |Total training time: 0h:1m:51s | Train Loss: 0.0759 | Train Balanced Accuracy: 97.5709 %
+2024-03-27 00:28:31,080 - INFO - Epoch: 50 |Total validation time:0h:0m:49s | Validation Loss: 0.3303 | Validation Balanced Accuracy: 80.5119 % 
+2024-03-27 00:28:31,080 - INFO - Epoch: 50 |Total testing time: 0h:0m:58s | Test Loss: 0.4528 | Test Balanced Accuracy: 81.9417 %
+2024-03-27 00:28:31,788 - INFO - Saved checkpoint at epoch 50: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_50.pth
+2024-03-27 00:32:11,588 - INFO - Epoch: 51 |Total training time: 0h:1m:52s | Train Loss: 0.0759 | Train Balanced Accuracy: 97.5645 %
+2024-03-27 00:32:11,589 - INFO - Epoch: 51 |Total validation time:0h:0m:47s | Validation Loss: 0.3270 | Validation Balanced Accuracy: 80.8680 % 
+2024-03-27 00:32:11,589 - INFO - Epoch: 51 |Total testing time: 0h:0m:59s | Test Loss: 0.4499 | Test Balanced Accuracy: 82.0876 %
+2024-03-27 00:32:12,958 - INFO - Saved checkpoint at epoch 51: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_51.pth
+2024-03-27 00:35:53,140 - INFO - Epoch: 52 |Total training time: 0h:1m:53s | Train Loss: 0.0762 | Train Balanced Accuracy: 97.4978 %
+2024-03-27 00:35:53,141 - INFO - Epoch: 52 |Total validation time:0h:0m:47s | Validation Loss: 0.3280 | Validation Balanced Accuracy: 80.9440 % 
+2024-03-27 00:35:53,141 - INFO - Epoch: 52 |Total testing time: 0h:0m:58s | Test Loss: 0.4529 | Test Balanced Accuracy: 81.9501 %
+2024-03-27 00:35:54,206 - INFO - Saved checkpoint at epoch 52: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_52.pth
+2024-03-27 00:39:29,533 - INFO - Epoch: 53 |Total training time: 0h:1m:51s | Train Loss: 0.0756 | Train Balanced Accuracy: 97.5576 %
+2024-03-27 00:39:29,533 - INFO - Epoch: 53 |Total validation time:0h:0m:46s | Validation Loss: 0.3360 | Validation Balanced Accuracy: 80.2319 % 
+2024-03-27 00:39:29,534 - INFO - Epoch: 53 |Total testing time: 0h:0m:57s | Test Loss: 0.4573 | Test Balanced Accuracy: 81.4624 %
+2024-03-27 00:39:31,410 - INFO - Saved checkpoint at epoch 53: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_53.pth
+2024-03-27 00:43:08,317 - INFO - Epoch: 54 |Total training time: 0h:1m:51s | Train Loss: 0.0755 | Train Balanced Accuracy: 97.5131 %
+2024-03-27 00:43:08,317 - INFO - Epoch: 54 |Total validation time:0h:0m:47s | Validation Loss: 0.3459 | Validation Balanced Accuracy: 79.1480 % 
+2024-03-27 00:43:08,317 - INFO - Epoch: 54 |Total testing time: 0h:0m:58s | Test Loss: 0.4674 | Test Balanced Accuracy: 80.8324 %
+2024-03-27 00:43:09,862 - INFO - Saved checkpoint at epoch 54: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_54.pth
+2024-03-27 00:46:50,617 - INFO - Epoch: 55 |Total training time: 0h:1m:52s | Train Loss: 0.0755 | Train Balanced Accuracy: 97.5339 %
+2024-03-27 00:46:50,618 - INFO - Epoch: 55 |Total validation time:0h:0m:49s | Validation Loss: 0.3435 | Validation Balanced Accuracy: 79.5408 % 
+2024-03-27 00:46:50,618 - INFO - Epoch: 55 |Total testing time: 0h:0m:58s | Test Loss: 0.4637 | Test Balanced Accuracy: 81.0797 %
+2024-03-27 00:46:51,363 - INFO - Saved checkpoint at epoch 55: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_55.pth
+2024-03-27 00:50:27,860 - INFO - Epoch: 56 |Total training time: 0h:1m:51s | Train Loss: 0.0748 | Train Balanced Accuracy: 97.6097 %
+2024-03-27 00:50:27,860 - INFO - Epoch: 56 |Total validation time:0h:0m:46s | Validation Loss: 0.3429 | Validation Balanced Accuracy: 79.3139 % 
+2024-03-27 00:50:27,860 - INFO - Epoch: 56 |Total testing time: 0h:0m:58s | Test Loss: 0.4664 | Test Balanced Accuracy: 81.0029 %
+2024-03-27 00:50:29,660 - INFO - Saved checkpoint at epoch 56: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_56.pth
+2024-03-27 00:54:06,517 - INFO - Epoch: 57 |Total training time: 0h:1m:50s | Train Loss: 0.0747 | Train Balanced Accuracy: 97.5910 %
+2024-03-27 00:54:06,518 - INFO - Epoch: 57 |Total validation time:0h:0m:48s | Validation Loss: 0.3504 | Validation Balanced Accuracy: 78.5634 % 
+2024-03-27 00:54:06,518 - INFO - Epoch: 57 |Total testing time: 0h:0m:57s | Test Loss: 0.4756 | Test Balanced Accuracy: 80.5691 %
+2024-03-27 00:54:09,699 - INFO - Saved checkpoint at epoch 57: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_57.pth
+2024-03-27 00:57:47,446 - INFO - Epoch: 58 |Total training time: 0h:1m:49s | Train Loss: 0.0748 | Train Balanced Accuracy: 97.6272 %
+2024-03-27 00:57:47,447 - INFO - Epoch: 58 |Total validation time:0h:0m:47s | Validation Loss: 0.3463 | Validation Balanced Accuracy: 79.2848 % 
+2024-03-27 00:57:47,447 - INFO - Epoch: 58 |Total testing time: 0h:1m:0s | Test Loss: 0.4679 | Test Balanced Accuracy: 80.9509 %
+2024-03-27 00:57:48,302 - INFO - Saved checkpoint at epoch 58: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_58.pth
+2024-03-27 01:01:25,831 - INFO - Epoch: 59 |Total training time: 0h:1m:52s | Train Loss: 0.0741 | Train Balanced Accuracy: 97.6098 %
+2024-03-27 01:01:25,832 - INFO - Epoch: 59 |Total validation time:0h:0m:47s | Validation Loss: 0.3421 | Validation Balanced Accuracy: 79.7780 % 
+2024-03-27 01:01:25,832 - INFO - Epoch: 59 |Total testing time: 0h:0m:58s | Test Loss: 0.4695 | Test Balanced Accuracy: 80.9574 %
+2024-03-27 01:01:26,583 - INFO - Saved checkpoint at epoch 59: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_59.pth
+2024-03-27 01:05:06,383 - INFO - Epoch: 60 |Total training time: 0h:1m:52s | Train Loss: 0.0740 | Train Balanced Accuracy: 97.5895 %
+2024-03-27 01:05:06,384 - INFO - Epoch: 60 |Total validation time:0h:0m:48s | Validation Loss: 0.3371 | Validation Balanced Accuracy: 79.9312 % 
+2024-03-27 01:05:06,384 - INFO - Epoch: 60 |Total testing time: 0h:0m:59s | Test Loss: 0.4657 | Test Balanced Accuracy: 81.2754 %
+2024-03-27 01:05:07,711 - INFO - Saved checkpoint at epoch 60: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_60.pth
+2024-03-27 01:08:49,441 - INFO - Epoch: 61 |Total training time: 0h:1m:55s | Train Loss: 0.0741 | Train Balanced Accuracy: 97.6333 %
+2024-03-27 01:08:49,442 - INFO - Epoch: 61 |Total validation time:0h:0m:47s | Validation Loss: 0.3681 | Validation Balanced Accuracy: 77.6267 % 
+2024-03-27 01:08:49,442 - INFO - Epoch: 61 |Total testing time: 0h:0m:59s | Test Loss: 0.4872 | Test Balanced Accuracy: 80.0273 %
+2024-03-27 01:08:50,147 - INFO - Saved checkpoint at epoch 61: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_61.pth
+2024-03-27 01:12:30,674 - INFO - Epoch: 62 |Total training time: 0h:1m:53s | Train Loss: 0.0743 | Train Balanced Accuracy: 97.5520 %
+2024-03-27 01:12:30,675 - INFO - Epoch: 62 |Total validation time:0h:0m:48s | Validation Loss: 0.3441 | Validation Balanced Accuracy: 79.5106 % 
+2024-03-27 01:12:30,675 - INFO - Epoch: 62 |Total testing time: 0h:0m:58s | Test Loss: 0.4758 | Test Balanced Accuracy: 80.6734 %
+2024-03-27 01:12:31,386 - INFO - Saved checkpoint at epoch 62: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_62.pth
+2024-03-27 01:16:10,278 - INFO - Epoch: 63 |Total training time: 0h:1m:52s | Train Loss: 0.0735 | Train Balanced Accuracy: 97.6473 %
+2024-03-27 01:16:10,278 - INFO - Epoch: 63 |Total validation time:0h:0m:47s | Validation Loss: 0.3408 | Validation Balanced Accuracy: 79.8323 % 
+2024-03-27 01:16:10,278 - INFO - Epoch: 63 |Total testing time: 0h:0m:58s | Test Loss: 0.4689 | Test Balanced Accuracy: 81.0102 %
+2024-03-27 01:16:10,994 - INFO - Saved checkpoint at epoch 63: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_63.pth
+2024-03-27 01:19:50,391 - INFO - Epoch: 64 |Total training time: 0h:1m:52s | Train Loss: 0.0731 | Train Balanced Accuracy: 97.6459 %
+2024-03-27 01:19:50,392 - INFO - Epoch: 64 |Total validation time:0h:0m:49s | Validation Loss: 0.3374 | Validation Balanced Accuracy: 79.9895 % 
+2024-03-27 01:19:50,392 - INFO - Epoch: 64 |Total testing time: 0h:0m:58s | Test Loss: 0.4680 | Test Balanced Accuracy: 81.3224 %
+2024-03-27 01:19:51,227 - INFO - Saved checkpoint at epoch 64: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_64.pth
+2024-03-27 01:23:29,110 - INFO - Epoch: 65 |Total training time: 0h:1m:52s | Train Loss: 0.0730 | Train Balanced Accuracy: 97.6682 %
+2024-03-27 01:23:29,111 - INFO - Epoch: 65 |Total validation time:0h:0m:47s | Validation Loss: 0.3432 | Validation Balanced Accuracy: 79.8581 % 
+2024-03-27 01:23:29,111 - INFO - Epoch: 65 |Total testing time: 0h:0m:57s | Test Loss: 0.4678 | Test Balanced Accuracy: 81.0871 %
+2024-03-27 01:23:30,178 - INFO - Saved checkpoint at epoch 65: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_65.pth
+2024-03-27 01:27:09,202 - INFO - Epoch: 66 |Total training time: 0h:1m:53s | Train Loss: 0.0729 | Train Balanced Accuracy: 97.6397 %
+2024-03-27 01:27:09,203 - INFO - Epoch: 66 |Total validation time:0h:0m:46s | Validation Loss: 0.3398 | Validation Balanced Accuracy: 79.9426 % 
+2024-03-27 01:27:09,203 - INFO - Epoch: 66 |Total testing time: 0h:0m:58s | Test Loss: 0.4716 | Test Balanced Accuracy: 81.1200 %
+2024-03-27 01:27:10,443 - INFO - Saved checkpoint at epoch 66: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_66.pth
+2024-03-27 01:30:50,572 - INFO - Epoch: 67 |Total training time: 0h:1m:53s | Train Loss: 0.0727 | Train Balanced Accuracy: 97.6562 %
+2024-03-27 01:30:50,572 - INFO - Epoch: 67 |Total validation time:0h:0m:48s | Validation Loss: 0.3395 | Validation Balanced Accuracy: 79.9374 % 
+2024-03-27 01:30:50,572 - INFO - Epoch: 67 |Total testing time: 0h:0m:58s | Test Loss: 0.4734 | Test Balanced Accuracy: 80.9708 %
+2024-03-27 01:30:52,905 - INFO - Saved checkpoint at epoch 67: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_67.pth
+2024-03-27 01:34:33,226 - INFO - Epoch: 68 |Total training time: 0h:1m:54s | Train Loss: 0.0730 | Train Balanced Accuracy: 97.6668 %
+2024-03-27 01:34:33,227 - INFO - Epoch: 68 |Total validation time:0h:0m:47s | Validation Loss: 0.3406 | Validation Balanced Accuracy: 79.7688 % 
+2024-03-27 01:34:33,227 - INFO - Epoch: 68 |Total testing time: 0h:0m:58s | Test Loss: 0.4706 | Test Balanced Accuracy: 81.2486 %
+2024-03-27 01:34:34,100 - INFO - Saved checkpoint at epoch 68: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_68.pth
+2024-03-27 01:38:14,411 - INFO - Epoch: 69 |Total training time: 0h:1m:51s | Train Loss: 0.0728 | Train Balanced Accuracy: 97.6466 %
+2024-03-27 01:38:14,412 - INFO - Epoch: 69 |Total validation time:0h:0m:50s | Validation Loss: 0.3338 | Validation Balanced Accuracy: 80.5370 % 
+2024-03-27 01:38:14,412 - INFO - Epoch: 69 |Total testing time: 0h:0m:58s | Test Loss: 0.4709 | Test Balanced Accuracy: 81.3309 %
+2024-03-27 01:38:15,250 - INFO - Saved checkpoint at epoch 69: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_69.pth
+2024-03-27 01:41:55,207 - INFO - Epoch: 70 |Total training time: 0h:1m:51s | Train Loss: 0.0723 | Train Balanced Accuracy: 97.6792 %
+2024-03-27 01:41:55,208 - INFO - Epoch: 70 |Total validation time:0h:0m:49s | Validation Loss: 0.3445 | Validation Balanced Accuracy: 79.6511 % 
+2024-03-27 01:41:55,208 - INFO - Epoch: 70 |Total testing time: 0h:0m:58s | Test Loss: 0.4727 | Test Balanced Accuracy: 80.9845 %
+2024-03-27 01:41:55,919 - INFO - Saved checkpoint at epoch 70: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_70.pth
+2024-03-27 01:45:32,944 - INFO - Epoch: 71 |Total training time: 0h:1m:51s | Train Loss: 0.0722 | Train Balanced Accuracy: 97.7111 %
+2024-03-27 01:45:32,945 - INFO - Epoch: 71 |Total validation time:0h:0m:46s | Validation Loss: 0.3425 | Validation Balanced Accuracy: 79.9186 % 
+2024-03-27 01:45:32,945 - INFO - Epoch: 71 |Total testing time: 0h:0m:58s | Test Loss: 0.4727 | Test Balanced Accuracy: 80.9747 %
+2024-03-27 01:45:33,691 - INFO - Saved checkpoint at epoch 71: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_71.pth
+2024-03-27 01:49:16,356 - INFO - Epoch: 72 |Total training time: 0h:1m:52s | Train Loss: 0.0721 | Train Balanced Accuracy: 97.6967 %
+2024-03-27 01:49:16,356 - INFO - Epoch: 72 |Total validation time:0h:0m:47s | Validation Loss: 0.3342 | Validation Balanced Accuracy: 80.6422 % 
+2024-03-27 01:49:16,357 - INFO - Epoch: 72 |Total testing time: 0h:1m:2s | Test Loss: 0.4702 | Test Balanced Accuracy: 81.4675 %
+2024-03-27 01:49:17,107 - INFO - Saved checkpoint at epoch 72: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_72.pth
+2024-03-27 01:52:53,775 - INFO - Epoch: 73 |Total training time: 0h:1m:51s | Train Loss: 0.0721 | Train Balanced Accuracy: 97.6854 %
+2024-03-27 01:52:53,776 - INFO - Epoch: 73 |Total validation time:0h:0m:46s | Validation Loss: 0.3428 | Validation Balanced Accuracy: 79.8758 % 
+2024-03-27 01:52:53,776 - INFO - Epoch: 73 |Total testing time: 0h:0m:58s | Test Loss: 0.4739 | Test Balanced Accuracy: 81.0295 %
+2024-03-27 01:52:54,472 - INFO - Saved checkpoint at epoch 73: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_73.pth
+2024-03-27 01:56:37,643 - INFO - Epoch: 74 |Total training time: 0h:1m:54s | Train Loss: 0.0719 | Train Balanced Accuracy: 97.6737 %
+2024-03-27 01:56:37,643 - INFO - Epoch: 74 |Total validation time:0h:0m:48s | Validation Loss: 0.3371 | Validation Balanced Accuracy: 80.1072 % 
+2024-03-27 01:56:37,643 - INFO - Epoch: 74 |Total testing time: 0h:0m:59s | Test Loss: 0.4716 | Test Balanced Accuracy: 81.2640 %
+2024-03-27 01:56:38,276 - INFO - Saved checkpoint at epoch 74: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_74.pth
+2024-03-27 02:00:15,553 - INFO - Epoch: 75 |Total training time: 0h:1m:51s | Train Loss: 0.0719 | Train Balanced Accuracy: 97.7125 %
+2024-03-27 02:00:15,554 - INFO - Epoch: 75 |Total validation time:0h:0m:47s | Validation Loss: 0.3461 | Validation Balanced Accuracy: 79.5928 % 
+2024-03-27 02:00:15,554 - INFO - Epoch: 75 |Total testing time: 0h:0m:58s | Test Loss: 0.4764 | Test Balanced Accuracy: 80.8369 %
+2024-03-27 02:00:16,588 - INFO - Saved checkpoint at epoch 75: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_75.pth
+2024-03-27 02:03:53,248 - INFO - Epoch: 76 |Total training time: 0h:1m:51s | Train Loss: 0.0717 | Train Balanced Accuracy: 97.6842 %
+2024-03-27 02:03:53,249 - INFO - Epoch: 76 |Total validation time:0h:0m:47s | Validation Loss: 0.3355 | Validation Balanced Accuracy: 80.3289 % 
+2024-03-27 02:03:53,249 - INFO - Epoch: 76 |Total testing time: 0h:0m:58s | Test Loss: 0.4704 | Test Balanced Accuracy: 81.3868 %
+2024-03-27 02:03:54,109 - INFO - Saved checkpoint at epoch 76: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_76.pth
+2024-03-27 02:07:28,600 - INFO - Epoch: 77 |Total training time: 0h:1m:49s | Train Loss: 0.0718 | Train Balanced Accuracy: 97.6854 %
+2024-03-27 02:07:28,601 - INFO - Epoch: 77 |Total validation time:0h:0m:46s | Validation Loss: 0.3352 | Validation Balanced Accuracy: 80.3175 % 
+2024-03-27 02:07:28,601 - INFO - Epoch: 77 |Total testing time: 0h:0m:58s | Test Loss: 0.4704 | Test Balanced Accuracy: 81.3937 %
+2024-03-27 02:07:29,264 - INFO - Saved checkpoint at epoch 77: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_77.pth
+2024-03-27 02:11:03,884 - INFO - Epoch: 78 |Total training time: 0h:1m:50s | Train Loss: 0.0717 | Train Balanced Accuracy: 97.6792 %
+2024-03-27 02:11:03,885 - INFO - Epoch: 78 |Total validation time:0h:0m:46s | Validation Loss: 0.3436 | Validation Balanced Accuracy: 79.7449 % 
+2024-03-27 02:11:03,885 - INFO - Epoch: 78 |Total testing time: 0h:0m:57s | Test Loss: 0.4765 | Test Balanced Accuracy: 80.9398 %
+2024-03-27 02:11:04,586 - INFO - Saved checkpoint at epoch 78: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_78.pth
+2024-03-27 02:14:39,350 - INFO - Epoch: 79 |Total training time: 0h:1m:49s | Train Loss: 0.0715 | Train Balanced Accuracy: 97.7189 %
+2024-03-27 02:14:39,351 - INFO - Epoch: 79 |Total validation time:0h:0m:47s | Validation Loss: 0.3382 | Validation Balanced Accuracy: 80.1098 % 
+2024-03-27 02:14:39,351 - INFO - Epoch: 79 |Total testing time: 0h:0m:57s | Test Loss: 0.4744 | Test Balanced Accuracy: 81.2291 %
+2024-03-27 02:14:40,689 - INFO - Saved checkpoint at epoch 79: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_79.pth
+2024-03-27 02:18:16,207 - INFO - Epoch: 80 |Total training time: 0h:1m:50s | Train Loss: 0.0715 | Train Balanced Accuracy: 97.6903 %
+2024-03-27 02:18:16,208 - INFO - Epoch: 80 |Total validation time:0h:0m:46s | Validation Loss: 0.3360 | Validation Balanced Accuracy: 80.3518 % 
+2024-03-27 02:18:16,208 - INFO - Epoch: 80 |Total testing time: 0h:0m:58s | Test Loss: 0.4718 | Test Balanced Accuracy: 81.3817 %
+2024-03-27 02:18:18,271 - INFO - Saved checkpoint at epoch 80: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_80.pth
+2024-03-27 02:21:54,733 - INFO - Epoch: 81 |Total training time: 0h:1m:51s | Train Loss: 0.0717 | Train Balanced Accuracy: 97.7472 %
+2024-03-27 02:21:54,733 - INFO - Epoch: 81 |Total validation time:0h:0m:46s | Validation Loss: 0.3368 | Validation Balanced Accuracy: 80.0906 % 
+2024-03-27 02:21:54,733 - INFO - Epoch: 81 |Total testing time: 0h:0m:58s | Test Loss: 0.4724 | Test Balanced Accuracy: 81.3040 %
+2024-03-27 02:21:55,366 - INFO - Saved checkpoint at epoch 81: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_81.pth
+2024-03-27 02:25:31,480 - INFO - Epoch: 82 |Total training time: 0h:1m:50s | Train Loss: 0.0716 | Train Balanced Accuracy: 97.7042 %
+2024-03-27 02:25:31,480 - INFO - Epoch: 82 |Total validation time:0h:0m:47s | Validation Loss: 0.3390 | Validation Balanced Accuracy: 79.9209 % 
+2024-03-27 02:25:31,480 - INFO - Epoch: 82 |Total testing time: 0h:0m:58s | Test Loss: 0.4743 | Test Balanced Accuracy: 81.2291 %
+2024-03-27 02:25:32,384 - INFO - Saved checkpoint at epoch 82: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_82.pth
+2024-03-27 02:29:10,843 - INFO - Epoch: 83 |Total training time: 0h:1m:52s | Train Loss: 0.0713 | Train Balanced Accuracy: 97.7279 %
+2024-03-27 02:29:10,844 - INFO - Epoch: 83 |Total validation time:0h:0m:48s | Validation Loss: 0.3451 | Validation Balanced Accuracy: 79.7157 % 
+2024-03-27 02:29:10,844 - INFO - Epoch: 83 |Total testing time: 0h:0m:57s | Test Loss: 0.4777 | Test Balanced Accuracy: 80.9049 %
+2024-03-27 02:29:11,564 - INFO - Saved checkpoint at epoch 83: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_83.pth
+2024-03-27 02:32:45,649 - INFO - Epoch: 84 |Total training time: 0h:1m:49s | Train Loss: 0.0713 | Train Balanced Accuracy: 97.7189 %
+2024-03-27 02:32:45,650 - INFO - Epoch: 84 |Total validation time:0h:0m:46s | Validation Loss: 0.3459 | Validation Balanced Accuracy: 79.5939 % 
+2024-03-27 02:32:45,650 - INFO - Epoch: 84 |Total testing time: 0h:0m:58s | Test Loss: 0.4790 | Test Balanced Accuracy: 80.8590 %
+2024-03-27 02:32:46,324 - INFO - Saved checkpoint at epoch 84: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_84.pth
+2024-03-27 02:36:25,981 - INFO - Epoch: 85 |Total training time: 0h:1m:48s | Train Loss: 0.0713 | Train Balanced Accuracy: 97.7320 %
+2024-03-27 02:36:25,981 - INFO - Epoch: 85 |Total validation time:0h:0m:47s | Validation Loss: 0.3437 | Validation Balanced Accuracy: 79.7043 % 
+2024-03-27 02:36:25,981 - INFO - Epoch: 85 |Total testing time: 0h:1m:2s | Test Loss: 0.4778 | Test Balanced Accuracy: 80.9110 %
+2024-03-27 02:36:26,720 - INFO - Saved checkpoint at epoch 85: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_85.pth
+2024-03-27 02:39:57,276 - INFO - Epoch: 86 |Total training time: 0h:1m:47s | Train Loss: 0.0712 | Train Balanced Accuracy: 97.7174 %
+2024-03-27 02:39:57,277 - INFO - Epoch: 86 |Total validation time:0h:0m:44s | Validation Loss: 0.3411 | Validation Balanced Accuracy: 79.9517 % 
+2024-03-27 02:39:57,277 - INFO - Epoch: 86 |Total testing time: 0h:0m:57s | Test Loss: 0.4761 | Test Balanced Accuracy: 81.0706 %
+2024-03-27 02:39:58,195 - INFO - Saved checkpoint at epoch 86: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_86.pth
+2024-03-27 02:43:34,233 - INFO - Epoch: 87 |Total training time: 0h:1m:50s | Train Loss: 0.0712 | Train Balanced Accuracy: 97.7035 %
+2024-03-27 02:43:34,234 - INFO - Epoch: 87 |Total validation time:0h:0m:48s | Validation Loss: 0.3406 | Validation Balanced Accuracy: 79.9260 % 
+2024-03-27 02:43:34,234 - INFO - Epoch: 87 |Total testing time: 0h:0m:57s | Test Loss: 0.4759 | Test Balanced Accuracy: 81.0667 %
+2024-03-27 02:43:35,061 - INFO - Saved checkpoint at epoch 87: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_87.pth
+2024-03-27 02:47:07,299 - INFO - Epoch: 88 |Total training time: 0h:1m:48s | Train Loss: 0.0711 | Train Balanced Accuracy: 97.6986 %
+2024-03-27 02:47:07,299 - INFO - Epoch: 88 |Total validation time:0h:0m:46s | Validation Loss: 0.3462 | Validation Balanced Accuracy: 79.5534 % 
+2024-03-27 02:47:07,299 - INFO - Epoch: 88 |Total testing time: 0h:0m:57s | Test Loss: 0.4793 | Test Balanced Accuracy: 80.7973 %
+2024-03-27 02:47:08,092 - INFO - Saved checkpoint at epoch 88: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_88.pth
+2024-03-27 02:50:48,669 - INFO - Epoch: 89 |Total training time: 0h:1m:52s | Train Loss: 0.0712 | Train Balanced Accuracy: 97.6993 %
+2024-03-27 02:50:48,670 - INFO - Epoch: 89 |Total validation time:0h:0m:49s | Validation Loss: 0.3412 | Validation Balanced Accuracy: 79.8969 % 
+2024-03-27 02:50:48,670 - INFO - Epoch: 89 |Total testing time: 0h:0m:58s | Test Loss: 0.4766 | Test Balanced Accuracy: 81.0636 %
+2024-03-27 02:50:49,338 - INFO - Saved checkpoint at epoch 89: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_89.pth
+2024-03-27 02:54:22,645 - INFO - Epoch: 90 |Total training time: 0h:1m:48s | Train Loss: 0.0711 | Train Balanced Accuracy: 97.7154 %
+2024-03-27 02:54:22,645 - INFO - Epoch: 90 |Total validation time:0h:0m:47s | Validation Loss: 0.3430 | Validation Balanced Accuracy: 79.7740 % 
+2024-03-27 02:54:22,645 - INFO - Epoch: 90 |Total testing time: 0h:0m:57s | Test Loss: 0.4777 | Test Balanced Accuracy: 80.9778 %
+2024-03-27 02:54:23,387 - INFO - Saved checkpoint at epoch 90: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_90.pth
+2024-03-27 02:57:58,997 - INFO - Epoch: 91 |Total training time: 0h:1m:51s | Train Loss: 0.0711 | Train Balanced Accuracy: 97.6953 %
+2024-03-27 02:57:58,998 - INFO - Epoch: 91 |Total validation time:0h:0m:47s | Validation Loss: 0.3415 | Validation Balanced Accuracy: 79.9083 % 
+2024-03-27 02:57:58,998 - INFO - Epoch: 91 |Total testing time: 0h:0m:56s | Test Loss: 0.4762 | Test Balanced Accuracy: 81.0318 %
+2024-03-27 02:57:59,894 - INFO - Saved checkpoint at epoch 91: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_91.pth
+2024-03-27 03:01:32,099 - INFO - Epoch: 92 |Total training time: 0h:1m:47s | Train Loss: 0.0711 | Train Balanced Accuracy: 97.7251 %
+2024-03-27 03:01:32,100 - INFO - Epoch: 92 |Total validation time:0h:0m:46s | Validation Loss: 0.3427 | Validation Balanced Accuracy: 79.7397 % 
+2024-03-27 03:01:32,100 - INFO - Epoch: 92 |Total testing time: 0h:0m:57s | Test Loss: 0.4772 | Test Balanced Accuracy: 80.9778 %
+2024-03-27 03:01:33,059 - INFO - Saved checkpoint at epoch 92: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_92.pth
+2024-03-27 03:05:08,445 - INFO - Epoch: 93 |Total training time: 0h:1m:51s | Train Loss: 0.0711 | Train Balanced Accuracy: 97.7056 %
+2024-03-27 03:05:08,446 - INFO - Epoch: 93 |Total validation time:0h:0m:47s | Validation Loss: 0.3404 | Validation Balanced Accuracy: 79.8917 % 
+2024-03-27 03:05:08,446 - INFO - Epoch: 93 |Total testing time: 0h:0m:56s | Test Loss: 0.4756 | Test Balanced Accuracy: 81.1464 %
+2024-03-27 03:05:09,560 - INFO - Saved checkpoint at epoch 93: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_93.pth
+2024-03-27 03:08:45,708 - INFO - Epoch: 94 |Total training time: 0h:1m:51s | Train Loss: 0.0710 | Train Balanced Accuracy: 97.6939 %
+2024-03-27 03:08:45,708 - INFO - Epoch: 94 |Total validation time:0h:0m:46s | Validation Loss: 0.3413 | Validation Balanced Accuracy: 79.9374 % 
+2024-03-27 03:08:45,708 - INFO - Epoch: 94 |Total testing time: 0h:0m:58s | Test Loss: 0.4763 | Test Balanced Accuracy: 81.0228 %
+2024-03-27 03:08:46,438 - INFO - Saved checkpoint at epoch 94: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_94.pth
+2024-03-27 03:12:28,248 - INFO - Epoch: 95 |Total training time: 0h:1m:54s | Train Loss: 0.0710 | Train Balanced Accuracy: 97.7196 %
+2024-03-27 03:12:28,249 - INFO - Epoch: 95 |Total validation time:0h:0m:49s | Validation Loss: 0.3424 | Validation Balanced Accuracy: 79.8906 % 
+2024-03-27 03:12:28,249 - INFO - Epoch: 95 |Total testing time: 0h:0m:58s | Test Loss: 0.4771 | Test Balanced Accuracy: 80.9829 %
+2024-03-27 03:12:28,975 - INFO - Saved checkpoint at epoch 95: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_95.pth
+2024-03-27 03:16:03,891 - INFO - Epoch: 96 |Total training time: 0h:1m:51s | Train Loss: 0.0710 | Train Balanced Accuracy: 97.7236 %
+2024-03-27 03:16:03,895 - INFO - Epoch: 96 |Total validation time:0h:0m:46s | Validation Loss: 0.3418 | Validation Balanced Accuracy: 79.9083 % 
+2024-03-27 03:16:03,895 - INFO - Epoch: 96 |Total testing time: 0h:0m:56s | Test Loss: 0.4766 | Test Balanced Accuracy: 80.9949 %
+2024-03-27 03:16:05,429 - INFO - Saved checkpoint at epoch 96: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_96.pth
+2024-03-27 03:19:42,379 - INFO - Epoch: 97 |Total training time: 0h:1m:52s | Train Loss: 0.0710 | Train Balanced Accuracy: 97.7208 %
+2024-03-27 03:19:42,380 - INFO - Epoch: 97 |Total validation time:0h:0m:46s | Validation Loss: 0.3420 | Validation Balanced Accuracy: 79.8677 % 
+2024-03-27 03:19:42,380 - INFO - Epoch: 97 |Total testing time: 0h:0m:58s | Test Loss: 0.4768 | Test Balanced Accuracy: 81.0038 %
+2024-03-27 03:19:43,256 - INFO - Saved checkpoint at epoch 97: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_97.pth
+2024-03-27 03:23:22,138 - INFO - Epoch: 98 |Total training time: 0h:1m:50s | Train Loss: 0.0710 | Train Balanced Accuracy: 97.7264 %
+2024-03-27 03:23:22,139 - INFO - Epoch: 98 |Total validation time:0h:0m:47s | Validation Loss: 0.3421 | Validation Balanced Accuracy: 79.8677 % 
+2024-03-27 03:23:22,139 - INFO - Epoch: 98 |Total testing time: 0h:1m:0s | Test Loss: 0.4768 | Test Balanced Accuracy: 81.0038 %
+2024-03-27 03:23:22,955 - INFO - Saved checkpoint at epoch 98: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_98.pth
+2024-03-27 03:26:57,651 - INFO - Epoch: 99 |Total training time: 0h:1m:49s | Train Loss: 0.0710 | Train Balanced Accuracy: 97.7264 %
+2024-03-27 03:26:57,651 - INFO - Epoch: 99 |Total validation time:0h:0m:46s | Validation Loss: 0.3421 | Validation Balanced Accuracy: 79.8821 % 
+2024-03-27 03:26:57,652 - INFO - Epoch: 99 |Total testing time: 0h:0m:58s | Test Loss: 0.4768 | Test Balanced Accuracy: 81.0038 %
+2024-03-27 03:26:59,691 - INFO - Saved checkpoint at epoch 99: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/grid_search_ddp/experiments/DD_GS_A_Adam_LR_0_003/runs/checkpoints/checkpoint_DD_GS_A_Adam_LR_0_003_epoch_99.pth
+2024-03-27 03:26:59,692 - INFO - Total training, validation and testing time: 6h:12m:52s.

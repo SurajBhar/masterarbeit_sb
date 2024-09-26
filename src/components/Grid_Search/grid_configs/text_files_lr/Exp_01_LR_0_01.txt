@@ -1,0 +1,15 @@
+experiment_name = "SGD_01_LR_0_01"
+batch_size = 1024
+num_workers = 10
+prefetch_factor = 4
+train_dir = "/net/polaris/storage/deeplearning/sur_data/rgb_daa/split_0/train"
+val_dir = "/net/polaris/storage/deeplearning/sur_data/rgb_daa/split_0/val"
+test_dir = "/net/polaris/storage/deeplearning/sur_data/rgb_daa/split_0/test"
+num_epochs = 80
+num_classes = 34
+optimizer = 'SGD'
+scheduler = 'CosineAnnealingLR'
+lr = 0.01
+momentum = 0.9
+weight_decay = 0
+save_every = 5

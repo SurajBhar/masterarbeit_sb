@@ -1,0 +1,11 @@
+pandas
+numpy
+seaborn
+scikit-learn
+matplotlib
+requests
+opencv
+torch==2.0.1
+cuda==11.7
+
+-e .

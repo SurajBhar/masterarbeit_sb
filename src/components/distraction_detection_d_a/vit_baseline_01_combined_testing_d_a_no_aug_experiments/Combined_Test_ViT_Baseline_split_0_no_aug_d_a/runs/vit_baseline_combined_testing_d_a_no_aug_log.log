@@ -1,0 +1,5 @@
+2024-04-23 17:27:59,342 - INFO - Testing best ViT B 16 model tarined on Kinect RGB Right Top DAA dataset for 100 epochs.
+2024-04-23 18:31:17,270 - INFO - This file contains logs for Generalisation for: Combined_Test_ViT_Baseline_split_0_no_aug_d_a
+2024-04-23 18:31:17,271 - INFO - Epoch: 0 |Total KIR testing time: 0h:4m:47s | KIR Test Loss: 1.9599 | KIR Test Balanced Accuracy: 49.9607 %
+2024-04-23 18:31:17,271 - INFO - Epoch: 0 |Total NIR testing time: 0h:58m:30s | NIR Test Loss: 2.6952 | NIR Test Balanced Accuracy: 49.7957 %
+2024-04-23 18:31:17,271 - INFO - Total combined testing time: 1h:3m:18s.

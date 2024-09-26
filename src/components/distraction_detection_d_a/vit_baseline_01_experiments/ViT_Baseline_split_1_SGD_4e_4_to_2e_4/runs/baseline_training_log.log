@@ -1,0 +1,508 @@
+2024-04-14 18:35:34,721 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-14 18:35:34,722 - INFO - Epoch: 0 |Total training time: 2h:38m:29s | Train Loss: 0.4653 | Train Balanced Accuracy: 72.0860 %
+2024-04-14 18:35:34,722 - INFO - Epoch: 0 |Total validation time:0h:19m:1s | Validation Loss: 0.4978 | Validation Balanced Accuracy: 62.1777 % 
+2024-04-14 18:35:34,722 - INFO - Epoch: 0 |Total testing time: 0h:21m:57s | Test Loss: 0.3857 | Test Balanced Accuracy: 57.2737 %
+2024-04-14 18:35:36,051 - INFO - Saved checkpoint at epoch 0: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_0.pth
+2024-04-14 20:39:05,129 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-14 20:39:05,130 - INFO - Epoch: 1 |Total training time: 1h:23m:3s | Train Loss: 0.3437 | Train Balanced Accuracy: 85.8946 %
+2024-04-14 20:39:05,130 - INFO - Epoch: 1 |Total validation time:0h:18m:52s | Validation Loss: 0.4737 | Validation Balanced Accuracy: 66.2760 % 
+2024-04-14 20:39:05,130 - INFO - Epoch: 1 |Total testing time: 0h:21m:33s | Test Loss: 0.3580 | Test Balanced Accuracy: 62.4539 %
+2024-04-14 20:39:06,476 - INFO - Saved checkpoint at epoch 1: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_1.pth
+2024-04-14 22:40:40,725 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-14 22:40:40,726 - INFO - Epoch: 2 |Total training time: 1h:20m:39s | Train Loss: 0.2984 | Train Balanced Accuracy: 88.6817 %
+2024-04-14 22:40:40,726 - INFO - Epoch: 2 |Total validation time:0h:18m:44s | Validation Loss: 0.4605 | Validation Balanced Accuracy: 66.4106 % 
+2024-04-14 22:40:40,726 - INFO - Epoch: 2 |Total testing time: 0h:22m:10s | Test Loss: 0.3414 | Test Balanced Accuracy: 64.3456 %
+2024-04-14 22:40:54,577 - INFO - Saved checkpoint at epoch 2: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_2.pth
+2024-04-15 00:36:19,507 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-15 00:36:19,507 - INFO - Epoch: 3 |Total training time: 1h:17m:11s | Train Loss: 0.2713 | Train Balanced Accuracy: 90.0088 %
+2024-04-15 00:36:19,507 - INFO - Epoch: 3 |Total validation time:0h:18m:15s | Validation Loss: 0.4513 | Validation Balanced Accuracy: 67.3386 % 
+2024-04-15 00:36:19,507 - INFO - Epoch: 3 |Total testing time: 0h:19m:57s | Test Loss: 0.3310 | Test Balanced Accuracy: 67.0308 %
+2024-04-15 00:36:20,516 - INFO - Saved checkpoint at epoch 3: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_3.pth2024-04-16 12:27:02,945 - INFO - Resuming training from epoch 4
+2024-04-16 13:47:07,243 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-16 13:47:07,244 - INFO - Epoch: 4 |Total training time: 0h:36m:57s | Train Loss: 0.2525 | Train Balanced Accuracy: 90.7996 %
+2024-04-16 13:47:07,244 - INFO - Epoch: 4 |Total validation time:0h:21m:24s | Validation Loss: 0.4469 | Validation Balanced Accuracy: 67.0658 % 
+2024-04-16 13:47:07,244 - INFO - Epoch: 4 |Total testing time: 0h:21m:42s | Test Loss: 0.3241 | Test Balanced Accuracy: 67.5403 %
+2024-04-16 13:47:07,893 - INFO - Saved checkpoint at epoch 4: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_4.pth
+2024-04-16 14:59:34,106 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-16 14:59:34,106 - INFO - Epoch: 5 |Total training time: 0h:59m:50s | Train Loss: 0.2386 | Train Balanced Accuracy: 91.4129 %
+2024-04-16 14:59:34,107 - INFO - Epoch: 5 |Total validation time:0h:3m:17s | Validation Loss: 0.4436 | Validation Balanced Accuracy: 66.9357 % 
+2024-04-16 14:59:34,109 - INFO - Epoch: 5 |Total testing time: 0h:9m:18s | Test Loss: 0.3182 | Test Balanced Accuracy: 68.6117 %
+2024-04-16 14:59:34,858 - INFO - Saved checkpoint at epoch 5: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_5.pth
+2024-04-16 15:54:11,351 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-16 15:54:11,352 - INFO - Epoch: 6 |Total training time: 0h:33m:41s | Train Loss: 0.2276 | Train Balanced Accuracy: 91.8790 %
+2024-04-16 15:54:11,352 - INFO - Epoch: 6 |Total validation time:0h:6m:28s | Validation Loss: 0.4409 | Validation Balanced Accuracy: 66.9908 % 
+2024-04-16 15:54:11,352 - INFO - Epoch: 6 |Total testing time: 0h:14m:26s | Test Loss: 0.3139 | Test Balanced Accuracy: 69.5560 %
+2024-04-16 15:54:12,112 - INFO - Saved checkpoint at epoch 6: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_6.pth
+2024-04-16 16:44:31,504 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-16 16:44:31,504 - INFO - Epoch: 7 |Total training time: 0h:37m:14s | Train Loss: 0.2186 | Train Balanced Accuracy: 92.2070 %
+2024-04-16 16:44:31,504 - INFO - Epoch: 7 |Total validation time:0h:7m:51s | Validation Loss: 0.4364 | Validation Balanced Accuracy: 67.6487 % 
+2024-04-16 16:44:31,504 - INFO - Epoch: 7 |Total testing time: 0h:5m:12s | Test Loss: 0.3102 | Test Balanced Accuracy: 70.9899 %
+2024-04-16 16:44:32,221 - INFO - Saved checkpoint at epoch 7: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_7.pth
+2024-04-16 17:29:59,337 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-16 17:29:59,337 - INFO - Epoch: 8 |Total training time: 0h:33m:1s | Train Loss: 0.2112 | Train Balanced Accuracy: 92.4910 %
+2024-04-16 17:29:59,337 - INFO - Epoch: 8 |Total validation time:0h:4m:53s | Validation Loss: 0.4344 | Validation Balanced Accuracy: 67.6143 % 
+2024-04-16 17:29:59,338 - INFO - Epoch: 8 |Total testing time: 0h:7m:32s | Test Loss: 0.3078 | Test Balanced Accuracy: 71.0789 %
+2024-04-16 17:30:00,022 - INFO - Saved checkpoint at epoch 8: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_8.pth
+2024-04-16 18:11:23,182 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-16 18:11:23,183 - INFO - Epoch: 9 |Total training time: 0h:30m:38s | Train Loss: 0.2048 | Train Balanced Accuracy: 92.7297 %
+2024-04-16 18:11:23,183 - INFO - Epoch: 9 |Total validation time:0h:4m:17s | Validation Loss: 0.4332 | Validation Balanced Accuracy: 67.4775 % 
+2024-04-16 18:11:23,183 - INFO - Epoch: 9 |Total testing time: 0h:6m:27s | Test Loss: 0.3057 | Test Balanced Accuracy: 71.1015 %
+2024-04-16 18:11:24,216 - INFO - Saved checkpoint at epoch 9: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_9.pth
+2024-04-16 18:43:05,849 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-16 18:43:05,849 - INFO - Epoch: 10 |Total training time: 0h:19m:21s | Train Loss: 0.1993 | Train Balanced Accuracy: 92.9326 %
+2024-04-16 18:43:05,849 - INFO - Epoch: 10 |Total validation time:0h:5m:51s | Validation Loss: 0.4316 | Validation Balanced Accuracy: 67.5015 % 
+2024-04-16 18:43:05,849 - INFO - Epoch: 10 |Total testing time: 0h:6m:28s | Test Loss: 0.3043 | Test Balanced Accuracy: 71.1797 %
+2024-04-16 18:43:07,062 - INFO - Saved checkpoint at epoch 10: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_10.pth
+2024-04-16 19:23:30,159 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-16 19:23:30,160 - INFO - Epoch: 11 |Total training time: 0h:26m:22s | Train Loss: 0.1944 | Train Balanced Accuracy: 93.1080 %
+2024-04-16 19:23:30,160 - INFO - Epoch: 11 |Total validation time:0h:6m:12s | Validation Loss: 0.4282 | Validation Balanced Accuracy: 67.8187 % 
+2024-04-16 19:23:30,160 - INFO - Epoch: 11 |Total testing time: 0h:7m:47s | Test Loss: 0.3016 | Test Balanced Accuracy: 72.1444 %
+2024-04-16 19:23:30,831 - INFO - Saved checkpoint at epoch 11: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_11.pth
+2024-04-16 20:03:54,388 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-16 20:03:54,389 - INFO - Epoch: 12 |Total training time: 0h:27m:46s | Train Loss: 0.1901 | Train Balanced Accuracy: 93.2618 %
+2024-04-16 20:03:54,389 - INFO - Epoch: 12 |Total validation time:0h:6m:26s | Validation Loss: 0.4241 | Validation Balanced Accuracy: 68.2882 % 
+2024-04-16 20:03:54,389 - INFO - Epoch: 12 |Total testing time: 0h:6m:10s | Test Loss: 0.2996 | Test Balanced Accuracy: 72.8149 %
+2024-04-16 20:03:55,309 - INFO - Saved checkpoint at epoch 12: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_12.pth
+2024-04-16 20:46:04,805 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-16 20:46:04,806 - INFO - Epoch: 13 |Total training time: 0h:31m:26s | Train Loss: 0.1862 | Train Balanced Accuracy: 93.4091 %
+2024-04-16 20:46:04,806 - INFO - Epoch: 13 |Total validation time:0h:4m:8s | Validation Loss: 0.4207 | Validation Balanced Accuracy: 68.8112 % 
+2024-04-16 20:46:04,806 - INFO - Epoch: 13 |Total testing time: 0h:6m:34s | Test Loss: 0.2980 | Test Balanced Accuracy: 73.3955 %
+2024-04-16 20:46:05,627 - INFO - Saved checkpoint at epoch 13: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_13.pth
+2024-04-16 21:23:41,429 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-16 21:23:41,429 - INFO - Epoch: 14 |Total training time: 0h:27m:14s | Train Loss: 0.1827 | Train Balanced Accuracy: 93.5422 %
+2024-04-16 21:23:41,432 - INFO - Epoch: 14 |Total validation time:0h:6m:38s | Validation Loss: 0.4228 | Validation Balanced Accuracy: 67.9426 % 
+2024-04-16 21:23:41,433 - INFO - Epoch: 14 |Total testing time: 0h:3m:43s | Test Loss: 0.2975 | Test Balanced Accuracy: 72.7339 %
+2024-04-16 21:23:43,277 - INFO - Saved checkpoint at epoch 14: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_14.pth
+2024-04-16 22:01:37,545 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-16 22:01:37,545 - INFO - Epoch: 15 |Total training time: 0h:25m:51s | Train Loss: 0.1795 | Train Balanced Accuracy: 93.6532 %
+2024-04-16 22:01:37,545 - INFO - Epoch: 15 |Total validation time:0h:5m:44s | Validation Loss: 0.4185 | Validation Balanced Accuracy: 68.5191 % 
+2024-04-16 22:01:37,545 - INFO - Epoch: 15 |Total testing time: 0h:6m:17s | Test Loss: 0.2954 | Test Balanced Accuracy: 73.5568 %
+2024-04-16 22:01:39,024 - INFO - Saved checkpoint at epoch 15: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_15.pth
+2024-04-16 22:32:12,244 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-16 22:32:12,245 - INFO - Epoch: 16 |Total training time: 0h:19m:53s | Train Loss: 0.1766 | Train Balanced Accuracy: 93.7679 %
+2024-04-16 22:32:12,245 - INFO - Epoch: 16 |Total validation time:0h:6m:9s | Validation Loss: 0.4164 | Validation Balanced Accuracy: 68.6946 % 
+2024-04-16 22:32:12,245 - INFO - Epoch: 16 |Total testing time: 0h:4m:30s | Test Loss: 0.2945 | Test Balanced Accuracy: 73.7328 %
+2024-04-16 22:32:12,954 - INFO - Saved checkpoint at epoch 16: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_16.pth
+2024-04-16 23:04:18,581 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-16 23:04:18,581 - INFO - Epoch: 17 |Total training time: 0h:20m:2s | Train Loss: 0.1739 | Train Balanced Accuracy: 93.8926 %
+2024-04-16 23:04:18,582 - INFO - Epoch: 17 |Total validation time:0h:5m:35s | Validation Loss: 0.4209 | Validation Balanced Accuracy: 67.5741 % 
+2024-04-16 23:04:18,582 - INFO - Epoch: 17 |Total testing time: 0h:6m:27s | Test Loss: 0.2951 | Test Balanced Accuracy: 72.5766 %
+2024-04-16 23:04:19,334 - INFO - Saved checkpoint at epoch 17: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_17.pth
+2024-04-16 23:42:20,141 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-16 23:42:20,142 - INFO - Epoch: 18 |Total training time: 0h:24m:11s | Train Loss: 0.1714 | Train Balanced Accuracy: 93.9777 %
+2024-04-16 23:42:20,142 - INFO - Epoch: 18 |Total validation time:0h:5m:35s | Validation Loss: 0.4161 | Validation Balanced Accuracy: 68.2827 % 
+2024-04-16 23:42:20,142 - INFO - Epoch: 18 |Total testing time: 0h:8m:14s | Test Loss: 0.2929 | Test Balanced Accuracy: 73.5677 %
+2024-04-16 23:42:21,244 - INFO - Saved checkpoint at epoch 18: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_18.pth
+2024-04-17 00:16:17,301 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-17 00:16:17,302 - INFO - Epoch: 19 |Total training time: 0h:19m:9s | Train Loss: 0.1690 | Train Balanced Accuracy: 94.0731 %
+2024-04-17 00:16:17,302 - INFO - Epoch: 19 |Total validation time:0h:5m:57s | Validation Loss: 0.4151 | Validation Balanced Accuracy: 68.2634 % 
+2024-04-17 00:16:17,303 - INFO - Epoch: 19 |Total testing time: 0h:8m:49s | Test Loss: 0.2921 | Test Balanced Accuracy: 73.6019 %
+2024-04-17 00:16:18,092 - INFO - Saved checkpoint at epoch 19: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_19.pth
+2024-04-17 01:06:00,830 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-17 01:06:00,830 - INFO - Epoch: 20 |Total training time: 0h:30m:36s | Train Loss: 0.1669 | Train Balanced Accuracy: 94.1704 %
+2024-04-17 01:06:00,830 - INFO - Epoch: 20 |Total validation time:0h:10m:9s | Validation Loss: 0.4152 | Validation Balanced Accuracy: 68.0564 % 
+2024-04-17 01:06:00,830 - INFO - Epoch: 20 |Total testing time: 0h:8m:56s | Test Loss: 0.2917 | Test Balanced Accuracy: 73.4739 %
+2024-04-17 01:06:01,665 - INFO - Saved checkpoint at epoch 20: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_20.pth
+2024-04-17 01:51:22,949 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-17 01:51:22,950 - INFO - Epoch: 21 |Total training time: 0h:35m:7s | Train Loss: 0.1649 | Train Balanced Accuracy: 94.2340 %
+2024-04-17 01:51:22,950 - INFO - Epoch: 21 |Total validation time:0h:6m:33s | Validation Loss: 0.4136 | Validation Balanced Accuracy: 68.2160 % 
+2024-04-17 01:51:22,950 - INFO - Epoch: 21 |Total testing time: 0h:3m:40s | Test Loss: 0.2909 | Test Balanced Accuracy: 73.7173 %
+2024-04-17 01:51:23,861 - INFO - Saved checkpoint at epoch 21: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_21.pth
+2024-04-17 02:57:00,773 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-17 02:57:00,774 - INFO - Epoch: 22 |Total training time: 0h:41m:21s | Train Loss: 0.1629 | Train Balanced Accuracy: 94.3249 %
+2024-04-17 02:57:00,774 - INFO - Epoch: 22 |Total validation time:0h:10m:57s | Validation Loss: 0.4135 | Validation Balanced Accuracy: 68.0126 % 
+2024-04-17 02:57:00,774 - INFO - Epoch: 22 |Total testing time: 0h:13m:17s | Test Loss: 0.2905 | Test Balanced Accuracy: 73.6000 %
+2024-04-17 02:57:01,497 - INFO - Saved checkpoint at epoch 22: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_22.pth
+2024-04-17 04:02:00,698 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-17 04:02:00,699 - INFO - Epoch: 23 |Total training time: 0h:50m:39s | Train Loss: 0.1612 | Train Balanced Accuracy: 94.3946 %
+2024-04-17 04:02:00,699 - INFO - Epoch: 23 |Total validation time:0h:5m:14s | Validation Loss: 0.4129 | Validation Balanced Accuracy: 68.0255 % 
+2024-04-17 04:02:00,699 - INFO - Epoch: 23 |Total testing time: 0h:9m:5s | Test Loss: 0.2899 | Test Balanced Accuracy: 73.6636 %
+2024-04-17 04:02:01,549 - INFO - Saved checkpoint at epoch 23: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_23.pth
+2024-04-17 04:54:15,543 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-17 04:54:15,543 - INFO - Epoch: 24 |Total training time: 0h:37m:45s | Train Loss: 0.1595 | Train Balanced Accuracy: 94.4445 %
+2024-04-17 04:54:15,543 - INFO - Epoch: 24 |Total validation time:0h:6m:44s | Validation Loss: 0.4097 | Validation Balanced Accuracy: 68.5826 % 
+2024-04-17 04:54:15,543 - INFO - Epoch: 24 |Total testing time: 0h:7m:43s | Test Loss: 0.2885 | Test Balanced Accuracy: 74.2187 %
+2024-04-17 04:54:16,204 - INFO - Saved checkpoint at epoch 24: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_24.pth
+2024-04-17 05:30:12,682 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-17 05:30:12,683 - INFO - Epoch: 25 |Total training time: 0h:23m:4s | Train Loss: 0.1579 | Train Balanced Accuracy: 94.5284 %
+2024-04-17 05:30:12,683 - INFO - Epoch: 25 |Total validation time:0h:7m:35s | Validation Loss: 0.4098 | Validation Balanced Accuracy: 68.4654 % 
+2024-04-17 05:30:12,683 - INFO - Epoch: 25 |Total testing time: 0h:5m:16s | Test Loss: 0.2885 | Test Balanced Accuracy: 74.0438 %
+2024-04-17 05:30:13,409 - INFO - Saved checkpoint at epoch 25: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_25.pth
+2024-04-17 06:21:52,714 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-17 06:21:52,714 - INFO - Epoch: 26 |Total training time: 0h:41m:44s | Train Loss: 0.1564 | Train Balanced Accuracy: 94.5924 %
+2024-04-17 06:21:52,714 - INFO - Epoch: 26 |Total validation time:0h:7m:15s | Validation Loss: 0.4063 | Validation Balanced Accuracy: 69.0723 % 
+2024-04-17 06:21:52,714 - INFO - Epoch: 26 |Total testing time: 0h:2m:39s | Test Loss: 0.2871 | Test Balanced Accuracy: 74.6107 %
+2024-04-17 06:21:53,391 - INFO - Saved checkpoint at epoch 26: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_26.pth
+2024-04-17 07:05:45,369 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-17 07:05:45,370 - INFO - Epoch: 27 |Total training time: 0h:31m:17s | Train Loss: 0.1549 | Train Balanced Accuracy: 94.6618 %
+2024-04-17 07:05:45,370 - INFO - Epoch: 27 |Total validation time:0h:3m:58s | Validation Loss: 0.4091 | Validation Balanced Accuracy: 68.4346 % 
+2024-04-17 07:05:45,370 - INFO - Epoch: 27 |Total testing time: 0h:8m:36s | Test Loss: 0.2879 | Test Balanced Accuracy: 74.0194 %
+2024-04-17 07:05:46,080 - INFO - Saved checkpoint at epoch 27: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_27.pth
+2024-04-17 07:59:36,925 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-17 07:59:36,925 - INFO - Epoch: 28 |Total training time: 0h:41m:55s | Train Loss: 0.1535 | Train Balanced Accuracy: 94.6991 %
+2024-04-17 07:59:36,925 - INFO - Epoch: 28 |Total validation time:0h:8m:26s | Validation Loss: 0.4066 | Validation Balanced Accuracy: 68.9076 % 
+2024-04-17 07:59:36,928 - INFO - Epoch: 28 |Total testing time: 0h:3m:28s | Test Loss: 0.2869 | Test Balanced Accuracy: 74.4084 %
+2024-04-17 07:59:37,766 - INFO - Saved checkpoint at epoch 28: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_28.pth
+2024-04-17 08:44:44,772 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-17 08:44:44,772 - INFO - Epoch: 29 |Total training time: 0h:28m:58s | Train Loss: 0.1522 | Train Balanced Accuracy: 94.7554 %
+2024-04-17 08:44:44,772 - INFO - Epoch: 29 |Total validation time:0h:7m:37s | Validation Loss: 0.4045 | Validation Balanced Accuracy: 69.2113 % 
+2024-04-17 08:44:44,773 - INFO - Epoch: 29 |Total testing time: 0h:8m:31s | Test Loss: 0.2862 | Test Balanced Accuracy: 74.6576 %
+2024-04-17 08:44:45,491 - INFO - Saved checkpoint at epoch 29: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_29.pth
+2024-04-17 09:29:15,432 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-17 09:29:15,433 - INFO - Epoch: 30 |Total training time: 0h:34m:0s | Train Loss: 0.1510 | Train Balanced Accuracy: 94.8113 %
+2024-04-17 09:29:15,433 - INFO - Epoch: 30 |Total validation time:0h:2m:7s | Validation Loss: 0.4028 | Validation Balanced Accuracy: 69.4849 % 
+2024-04-17 09:29:15,433 - INFO - Epoch: 30 |Total testing time: 0h:8m:21s | Test Loss: 0.2854 | Test Balanced Accuracy: 74.9381 %
+2024-04-17 09:29:16,173 - INFO - Saved checkpoint at epoch 30: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_30.pth
+2024-04-17 10:06:20,617 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-17 10:06:20,618 - INFO - Epoch: 31 |Total training time: 0h:22m:45s | Train Loss: 0.1498 | Train Balanced Accuracy: 94.8703 %
+2024-04-17 10:06:20,618 - INFO - Epoch: 31 |Total validation time:0h:6m:37s | Validation Loss: 0.4034 | Validation Balanced Accuracy: 69.3299 % 
+2024-04-17 10:06:20,618 - INFO - Epoch: 31 |Total testing time: 0h:7m:41s | Test Loss: 0.2852 | Test Balanced Accuracy: 74.8668 %
+2024-04-17 10:06:21,527 - INFO - Saved checkpoint at epoch 31: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_31.pth
+2024-04-17 10:47:26,778 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-17 10:47:26,778 - INFO - Epoch: 32 |Total training time: 0h:26m:29s | Train Loss: 0.1487 | Train Balanced Accuracy: 94.9222 %
+2024-04-17 10:47:26,778 - INFO - Epoch: 32 |Total validation time:0h:7m:11s | Validation Loss: 0.4017 | Validation Balanced Accuracy: 69.5699 % 
+2024-04-17 10:47:26,780 - INFO - Epoch: 32 |Total testing time: 0h:7m:24s | Test Loss: 0.2845 | Test Balanced Accuracy: 75.1463 %
+2024-04-17 10:47:31,733 - INFO - Saved checkpoint at epoch 32: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_32.pth
+2024-04-17 11:35:14,310 - INFO - Resuming training from epoch 33
+2024-04-17 13:57:42,612 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-17 13:57:42,613 - INFO - Epoch: 33 |Total training time: 1h:6m:38s | Train Loss: 0.1476 | Train Balanced Accuracy: 94.9731 %
+2024-04-17 13:57:42,613 - INFO - Epoch: 33 |Total validation time:0h:32m:31s | Validation Loss: 0.4058 | Validation Balanced Accuracy: 68.7865 % 
+2024-04-17 13:57:42,615 - INFO - Epoch: 33 |Total testing time: 0h:43m:17s | Test Loss: 0.2855 | Test Balanced Accuracy: 74.3518 %
+2024-04-17 13:57:45,959 - INFO - Saved checkpoint at epoch 33: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_33.pth
+2024-04-17 16:31:49,817 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-17 16:31:49,818 - INFO - Epoch: 34 |Total training time: 2h:2m:4s | Train Loss: 0.1465 | Train Balanced Accuracy: 95.0225 %
+2024-04-17 16:31:49,818 - INFO - Epoch: 34 |Total validation time:0h:17m:25s | Validation Loss: 0.4002 | Validation Balanced Accuracy: 69.7471 % 
+2024-04-17 16:31:49,818 - INFO - Epoch: 34 |Total testing time: 0h:14m:34s | Test Loss: 0.2836 | Test Balanced Accuracy: 75.4269 %
+2024-04-17 16:31:52,420 - INFO - Saved checkpoint at epoch 34: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_34.pth
+2024-04-17 18:08:50,866 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-17 18:08:50,867 - INFO - Epoch: 35 |Total training time: 1h:9m:16s | Train Loss: 0.1455 | Train Balanced Accuracy: 95.0614 %
+2024-04-17 18:08:50,867 - INFO - Epoch: 35 |Total validation time:0h:13m:17s | Validation Loss: 0.3999 | Validation Balanced Accuracy: 69.8113 % 
+2024-04-17 18:08:50,867 - INFO - Epoch: 35 |Total testing time: 0h:14m:24s | Test Loss: 0.2834 | Test Balanced Accuracy: 75.4171 %
+2024-04-17 18:08:53,084 - INFO - Saved checkpoint at epoch 35: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_35.pth
+2024-04-17 19:04:05,427 - INFO - Resuming training from epoch 36
+2024-04-18 23:15:21,998 - INFO - Resuming training from epoch 36
+2024-04-19 01:28:15,868 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-19 01:28:15,869 - INFO - Epoch: 36 |Total training time: 1h:29m:17s | Train Loss: 0.1446 | Train Balanced Accuracy: 95.1006 %
+2024-04-19 01:28:15,869 - INFO - Epoch: 36 |Total validation time:0h:21m:41s | Validation Loss: 0.4035 | Validation Balanced Accuracy: 69.1331 % 
+2024-04-19 01:28:15,869 - INFO - Epoch: 36 |Total testing time: 0h:21m:54s | Test Loss: 0.2842 | Test Balanced Accuracy: 74.8190 %
+2024-04-19 01:28:20,456 - INFO - Saved checkpoint at epoch 36: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_36.pth
+2024-04-19 02:40:25,325 - INFO - Resuming training from epoch 37
+2024-04-19 03:35:53,414 - INFO - Resuming training from epoch 37
+2024-04-19 09:04:50,500 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-19 09:04:50,504 - INFO - Epoch: 37 |Total training time: 4h:0m:33s | Train Loss: 0.1436 | Train Balanced Accuracy: 95.1474 %
+2024-04-19 09:04:50,504 - INFO - Epoch: 37 |Total validation time:0h:40m:54s | Validation Loss: 0.4035 | Validation Balanced Accuracy: 69.1179 % 
+2024-04-19 09:04:50,504 - INFO - Epoch: 37 |Total testing time: 0h:47m:28s | Test Loss: 0.2838 | Test Balanced Accuracy: 74.8669 %
+2024-04-19 09:04:53,700 - INFO - Saved checkpoint at epoch 37: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_37.pth
+2024-04-19 09:40:07,207 - INFO - Resuming training from epoch 38
+2024-04-19 10:47:47,454 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-19 10:47:47,454 - INFO - Epoch: 38 |Total training time: 0h:47m:9s | Train Loss: 0.1428 | Train Balanced Accuracy: 95.1775 %
+2024-04-19 10:47:47,454 - INFO - Epoch: 38 |Total validation time:0h:9m:25s | Validation Loss: 0.3985 | Validation Balanced Accuracy: 70.0508 % 
+2024-04-19 10:47:47,455 - INFO - Epoch: 38 |Total testing time: 0h:11m:5s | Test Loss: 0.2824 | Test Balanced Accuracy: 75.6742 %
+2024-04-19 10:47:48,095 - INFO - Saved checkpoint at epoch 38: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_38.pth
+2024-04-19 10:59:38,246 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-19 10:59:38,247 - INFO - Epoch: 39 |Total training time: 0h:7m:56s | Train Loss: 0.1419 | Train Balanced Accuracy: 95.2128 %
+2024-04-19 10:59:38,247 - INFO - Epoch: 39 |Total validation time:0h:1m:48s | Validation Loss: 0.4012 | Validation Balanced Accuracy: 69.5623 % 
+2024-04-19 10:59:38,247 - INFO - Epoch: 39 |Total testing time: 0h:2m:5s | Test Loss: 0.2829 | Test Balanced Accuracy: 75.2510 %
+2024-04-19 10:59:38,943 - INFO - Saved checkpoint at epoch 39: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_39.pth
+2024-04-19 11:11:02,111 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-19 11:11:02,112 - INFO - Epoch: 40 |Total training time: 0h:7m:27s | Train Loss: 0.1411 | Train Balanced Accuracy: 95.2451 %
+2024-04-19 11:11:02,112 - INFO - Epoch: 40 |Total validation time:0h:1m:51s | Validation Loss: 0.3967 | Validation Balanced Accuracy: 70.3405 % 
+2024-04-19 11:11:02,112 - INFO - Epoch: 40 |Total testing time: 0h:2m:4s | Test Loss: 0.2813 | Test Balanced Accuracy: 75.9918 %
+2024-04-19 11:11:02,685 - INFO - Saved checkpoint at epoch 40: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_40.pth
+2024-04-19 11:22:13,761 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-19 11:22:13,762 - INFO - Epoch: 41 |Total training time: 0h:7m:25s | Train Loss: 0.1403 | Train Balanced Accuracy: 95.2821 %
+2024-04-19 11:22:13,763 - INFO - Epoch: 41 |Total validation time:0h:1m:47s | Validation Loss: 0.3947 | Validation Balanced Accuracy: 70.6297 % 
+2024-04-19 11:22:13,763 - INFO - Epoch: 41 |Total testing time: 0h:1m:58s | Test Loss: 0.2806 | Test Balanced Accuracy: 76.2655 %
+2024-04-19 11:22:14,874 - INFO - Saved checkpoint at epoch 41: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_41.pth
+2024-04-19 11:33:19,233 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-19 11:33:19,236 - INFO - Epoch: 42 |Total training time: 0h:7m:19s | Train Loss: 0.1395 | Train Balanced Accuracy: 95.3153 %
+2024-04-19 11:33:19,237 - INFO - Epoch: 42 |Total validation time:0h:1m:46s | Validation Loss: 0.3970 | Validation Balanced Accuracy: 70.2366 % 
+2024-04-19 11:33:19,238 - INFO - Epoch: 42 |Total testing time: 0h:1m:57s | Test Loss: 0.2809 | Test Balanced Accuracy: 76.0143 %
+2024-04-19 11:35:05,434 - INFO - Saved checkpoint at epoch 42: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_42.pth
+2024-04-19 11:46:54,376 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-19 11:46:54,377 - INFO - Epoch: 43 |Total training time: 0h:7m:58s | Train Loss: 0.1388 | Train Balanced Accuracy: 95.3481 %
+2024-04-19 11:46:54,377 - INFO - Epoch: 43 |Total validation time:0h:1m:50s | Validation Loss: 0.3973 | Validation Balanced Accuracy: 70.1710 % 
+2024-04-19 11:46:54,377 - INFO - Epoch: 43 |Total testing time: 0h:1m:59s | Test Loss: 0.2811 | Test Balanced Accuracy: 75.8863 %
+2024-04-19 11:46:55,068 - INFO - Saved checkpoint at epoch 43: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_43.pth
+2024-04-19 11:58:26,757 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-19 11:58:26,758 - INFO - Epoch: 44 |Total training time: 0h:7m:24s | Train Loss: 0.1380 | Train Balanced Accuracy: 95.3750 %
+2024-04-19 11:58:26,758 - INFO - Epoch: 44 |Total validation time:0h:1m:59s | Validation Loss: 0.3952 | Validation Balanced Accuracy: 70.5270 % 
+2024-04-19 11:58:26,758 - INFO - Epoch: 44 |Total testing time: 0h:2m:7s | Test Loss: 0.2804 | Test Balanced Accuracy: 76.1502 %
+2024-04-19 11:58:27,528 - INFO - Saved checkpoint at epoch 44: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_44.pth
+2024-04-19 12:09:55,784 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-19 12:09:55,785 - INFO - Epoch: 45 |Total training time: 0h:7m:31s | Train Loss: 0.1373 | Train Balanced Accuracy: 95.4001 %
+2024-04-19 12:09:55,785 - INFO - Epoch: 45 |Total validation time:0h:1m:51s | Validation Loss: 0.3922 | Validation Balanced Accuracy: 71.0408 % 
+2024-04-19 12:09:55,785 - INFO - Epoch: 45 |Total testing time: 0h:2m:5s | Test Loss: 0.2793 | Test Balanced Accuracy: 76.6525 %
+2024-04-19 12:09:56,472 - INFO - Saved checkpoint at epoch 45: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_45.pth
+2024-04-19 12:21:14,281 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-19 12:21:14,282 - INFO - Epoch: 46 |Total training time: 0h:7m:20s | Train Loss: 0.1367 | Train Balanced Accuracy: 95.4365 %
+2024-04-19 12:21:14,282 - INFO - Epoch: 46 |Total validation time:0h:1m:51s | Validation Loss: 0.3926 | Validation Balanced Accuracy: 70.9756 % 
+2024-04-19 12:21:14,282 - INFO - Epoch: 46 |Total testing time: 0h:2m:6s | Test Loss: 0.2792 | Test Balanced Accuracy: 76.6232 %
+2024-04-19 12:21:22,328 - INFO - Saved checkpoint at epoch 46: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_46.pth
+2024-04-19 12:32:50,352 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-19 12:32:50,352 - INFO - Epoch: 47 |Total training time: 0h:7m:25s | Train Loss: 0.1360 | Train Balanced Accuracy: 95.4645 %
+2024-04-19 12:32:50,352 - INFO - Epoch: 47 |Total validation time:0h:1m:54s | Validation Loss: 0.3957 | Validation Balanced Accuracy: 70.4517 % 
+2024-04-19 12:32:50,353 - INFO - Epoch: 47 |Total testing time: 0h:2m:7s | Test Loss: 0.2800 | Test Balanced Accuracy: 76.1854 %
+2024-04-19 12:32:53,346 - INFO - Saved checkpoint at epoch 47: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_47.pth
+2024-04-19 12:44:22,683 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-19 12:44:22,684 - INFO - Epoch: 48 |Total training time: 0h:7m:32s | Train Loss: 0.1354 | Train Balanced Accuracy: 95.4731 %
+2024-04-19 12:44:22,684 - INFO - Epoch: 48 |Total validation time:0h:1m:48s | Validation Loss: 0.3937 | Validation Balanced Accuracy: 70.7586 % 
+2024-04-19 12:44:22,684 - INFO - Epoch: 48 |Total testing time: 0h:2m:7s | Test Loss: 0.2792 | Test Balanced Accuracy: 76.5001 %
+2024-04-19 12:44:27,180 - INFO - Saved checkpoint at epoch 48: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_48.pth
+2024-04-19 12:55:54,725 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-19 12:55:54,725 - INFO - Epoch: 49 |Total training time: 0h:7m:29s | Train Loss: 0.1348 | Train Balanced Accuracy: 95.5118 %
+2024-04-19 12:55:54,725 - INFO - Epoch: 49 |Total validation time:0h:1m:50s | Validation Loss: 0.3956 | Validation Balanced Accuracy: 70.4655 % 
+2024-04-19 12:55:54,725 - INFO - Epoch: 49 |Total testing time: 0h:2m:7s | Test Loss: 0.2799 | Test Balanced Accuracy: 76.1629 %
+2024-04-19 12:55:55,938 - INFO - Saved checkpoint at epoch 49: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_49.pth
+2024-04-19 13:07:25,691 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-19 13:07:25,691 - INFO - Epoch: 50 |Total training time: 0h:7m:27s | Train Loss: 0.1342 | Train Balanced Accuracy: 95.5162 %
+2024-04-19 13:07:25,691 - INFO - Epoch: 50 |Total validation time:0h:1m:51s | Validation Loss: 0.3919 | Validation Balanced Accuracy: 71.0813 % 
+2024-04-19 13:07:25,692 - INFO - Epoch: 50 |Total testing time: 0h:2m:10s | Test Loss: 0.2786 | Test Balanced Accuracy: 76.7131 %
+2024-04-19 13:07:27,982 - INFO - Saved checkpoint at epoch 50: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_50.pth
+2024-04-19 13:18:48,571 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-19 13:18:48,571 - INFO - Epoch: 51 |Total training time: 0h:7m:24s | Train Loss: 0.1336 | Train Balanced Accuracy: 95.5462 %
+2024-04-19 13:18:48,571 - INFO - Epoch: 51 |Total validation time:0h:1m:49s | Validation Loss: 0.3924 | Validation Balanced Accuracy: 70.9547 % 
+2024-04-19 13:18:48,571 - INFO - Epoch: 51 |Total testing time: 0h:2m:6s | Test Loss: 0.2785 | Test Balanced Accuracy: 76.6838 %
+2024-04-19 13:18:52,664 - INFO - Saved checkpoint at epoch 51: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_51.pth
+2024-04-19 13:30:18,681 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-19 13:30:18,681 - INFO - Epoch: 52 |Total training time: 0h:7m:26s | Train Loss: 0.1330 | Train Balanced Accuracy: 95.5639 %
+2024-04-19 13:30:18,681 - INFO - Epoch: 52 |Total validation time:0h:1m:51s | Validation Loss: 0.3920 | Validation Balanced Accuracy: 71.0144 % 
+2024-04-19 13:30:18,682 - INFO - Epoch: 52 |Total testing time: 0h:2m:7s | Test Loss: 0.2783 | Test Balanced Accuracy: 76.7650 %
+2024-04-19 13:30:28,516 - INFO - Saved checkpoint at epoch 52: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_52.pth
+2024-04-19 13:42:01,801 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-19 13:42:01,801 - INFO - Epoch: 53 |Total training time: 0h:7m:31s | Train Loss: 0.1324 | Train Balanced Accuracy: 95.5757 %
+2024-04-19 13:42:01,801 - INFO - Epoch: 53 |Total validation time:0h:1m:55s | Validation Loss: 0.3897 | Validation Balanced Accuracy: 71.4658 % 
+2024-04-19 13:42:01,802 - INFO - Epoch: 53 |Total testing time: 0h:2m:5s | Test Loss: 0.2774 | Test Balanced Accuracy: 77.1246 %
+2024-04-19 13:42:04,171 - INFO - Saved checkpoint at epoch 53: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_53.pth
+2024-04-22 13:28:57,224 - INFO - Resuming training from epoch 54
+2024-04-22 14:52:05,467 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-22 14:52:05,468 - INFO - Epoch: 54 |Total training time: 0h:48m:39s | Train Loss: 0.1319 | Train Balanced Accuracy: 95.6073 %
+2024-04-22 14:52:05,469 - INFO - Epoch: 54 |Total validation time:0h:17m:39s | Validation Loss: 0.3920 | Validation Balanced Accuracy: 71.0507 % 
+2024-04-22 14:52:05,469 - INFO - Epoch: 54 |Total testing time: 0h:16m:49s | Test Loss: 0.2781 | Test Balanced Accuracy: 76.7816 %
+2024-04-22 14:52:06,165 - INFO - Saved checkpoint at epoch 54: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_54.pth
+2024-04-22 16:04:16,073 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-22 16:04:16,074 - INFO - Epoch: 55 |Total training time: 0h:49m:43s | Train Loss: 0.1314 | Train Balanced Accuracy: 95.6226 %
+2024-04-22 16:04:16,074 - INFO - Epoch: 55 |Total validation time:0h:13m:27s | Validation Loss: 0.3895 | Validation Balanced Accuracy: 71.4803 % 
+2024-04-22 16:04:16,074 - INFO - Epoch: 55 |Total testing time: 0h:8m:58s | Test Loss: 0.2772 | Test Balanced Accuracy: 77.1764 %
+2024-04-22 16:04:16,722 - INFO - Saved checkpoint at epoch 55: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_55.pth
+2024-04-22 16:39:22,672 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-22 16:39:22,672 - INFO - Epoch: 56 |Total training time: 0h:21m:30s | Train Loss: 0.1309 | Train Balanced Accuracy: 95.6468 %
+2024-04-22 16:39:22,672 - INFO - Epoch: 56 |Total validation time:0h:6m:32s | Validation Loss: 0.3953 | Validation Balanced Accuracy: 70.5999 % 
+2024-04-22 16:39:22,672 - INFO - Epoch: 56 |Total testing time: 0h:7m:2s | Test Loss: 0.2789 | Test Balanced Accuracy: 76.4034 %
+2024-04-22 16:39:23,361 - INFO - Saved checkpoint at epoch 56: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_56.pth
+2024-04-22 17:00:15,436 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-22 17:00:15,436 - INFO - Epoch: 57 |Total training time: 0h:11m:59s | Train Loss: 0.1304 | Train Balanced Accuracy: 95.6642 %
+2024-04-22 17:00:15,436 - INFO - Epoch: 57 |Total validation time:0h:4m:18s | Validation Loss: 0.3903 | Validation Balanced Accuracy: 71.3604 % 
+2024-04-22 17:00:15,436 - INFO - Epoch: 57 |Total testing time: 0h:4m:33s | Test Loss: 0.2773 | Test Balanced Accuracy: 77.1031 %
+2024-04-22 17:00:16,651 - INFO - Saved checkpoint at epoch 57: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_57.pth
+2024-04-22 17:21:57,343 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-22 17:21:57,344 - INFO - Epoch: 58 |Total training time: 0h:12m:22s | Train Loss: 0.1299 | Train Balanced Accuracy: 95.6771 %
+2024-04-22 17:21:57,344 - INFO - Epoch: 58 |Total validation time:0h:4m:29s | Validation Loss: 0.3902 | Validation Balanced Accuracy: 71.3873 % 
+2024-04-22 17:21:57,344 - INFO - Epoch: 58 |Total testing time: 0h:4m:48s | Test Loss: 0.2772 | Test Balanced Accuracy: 77.1295 %
+2024-04-22 17:21:58,085 - INFO - Saved checkpoint at epoch 58: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_58.pth
+2024-04-22 17:43:07,044 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-22 17:43:07,045 - INFO - Epoch: 59 |Total training time: 0h:12m:10s | Train Loss: 0.1294 | Train Balanced Accuracy: 95.7047 %
+2024-04-22 17:43:07,045 - INFO - Epoch: 59 |Total validation time:0h:4m:33s | Validation Loss: 0.3920 | Validation Balanced Accuracy: 71.1091 % 
+2024-04-22 17:43:07,045 - INFO - Epoch: 59 |Total testing time: 0h:4m:25s | Test Loss: 0.2776 | Test Balanced Accuracy: 76.9184 %
+2024-04-22 17:43:07,775 - INFO - Saved checkpoint at epoch 59: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_59.pth
+2024-04-22 18:03:51,147 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-22 18:03:51,148 - INFO - Epoch: 60 |Total training time: 0h:12m:8s | Train Loss: 0.1290 | Train Balanced Accuracy: 95.7194 %
+2024-04-22 18:03:51,148 - INFO - Epoch: 60 |Total validation time:0h:4m:4s | Validation Loss: 0.3895 | Validation Balanced Accuracy: 71.5397 % 
+2024-04-22 18:03:51,148 - INFO - Epoch: 60 |Total testing time: 0h:4m:30s | Test Loss: 0.2766 | Test Balanced Accuracy: 77.3631 %
+2024-04-22 18:03:51,812 - INFO - Saved checkpoint at epoch 60: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_60.pth
+2024-04-22 18:24:22,403 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-22 18:24:22,404 - INFO - Epoch: 61 |Total training time: 0h:11m:46s | Train Loss: 0.1285 | Train Balanced Accuracy: 95.7324 %
+2024-04-22 18:24:22,404 - INFO - Epoch: 61 |Total validation time:0h:4m:10s | Validation Loss: 0.3871 | Validation Balanced Accuracy: 71.8634 % 
+2024-04-22 18:24:22,404 - INFO - Epoch: 61 |Total testing time: 0h:4m:33s | Test Loss: 0.2757 | Test Balanced Accuracy: 77.7912 %
+2024-04-22 18:24:23,101 - INFO - Saved checkpoint at epoch 61: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_61.pth
+2024-04-22 18:45:00,961 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-22 18:45:00,962 - INFO - Epoch: 62 |Total training time: 0h:11m:49s | Train Loss: 0.1281 | Train Balanced Accuracy: 95.7459 %
+2024-04-22 18:45:00,962 - INFO - Epoch: 62 |Total validation time:0h:4m:13s | Validation Loss: 0.3908 | Validation Balanced Accuracy: 71.3271 % 
+2024-04-22 18:45:00,962 - INFO - Epoch: 62 |Total testing time: 0h:4m:34s | Test Loss: 0.2768 | Test Balanced Accuracy: 77.1862 %
+2024-04-22 18:45:01,787 - INFO - Saved checkpoint at epoch 62: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_62.pth
+2024-04-22 19:12:42,127 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-22 19:12:42,128 - INFO - Epoch: 63 |Total training time: 0h:11m:20s | Train Loss: 0.1277 | Train Balanced Accuracy: 95.7657 %
+2024-04-22 19:12:42,128 - INFO - Epoch: 63 |Total validation time:0h:7m:29s | Validation Loss: 0.3911 | Validation Balanced Accuracy: 71.2478 % 
+2024-04-22 19:12:42,128 - INFO - Epoch: 63 |Total testing time: 0h:8m:50s | Test Loss: 0.2769 | Test Balanced Accuracy: 77.1657 %
+2024-04-22 19:12:43,522 - INFO - Saved checkpoint at epoch 63: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_63.pth
+2024-04-22 20:03:29,831 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-22 20:03:29,832 - INFO - Epoch: 64 |Total training time: 0h:30m:7s | Train Loss: 0.1273 | Train Balanced Accuracy: 95.7808 %
+2024-04-22 20:03:29,832 - INFO - Epoch: 64 |Total validation time:0h:11m:50s | Validation Loss: 0.3871 | Validation Balanced Accuracy: 71.8538 % 
+2024-04-22 20:03:29,832 - INFO - Epoch: 64 |Total testing time: 0h:8m:47s | Test Loss: 0.2756 | Test Balanced Accuracy: 77.7590 %
+2024-04-22 20:03:30,618 - INFO - Saved checkpoint at epoch 64: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_64.pth
+2024-04-22 20:41:57,009 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-22 20:41:57,009 - INFO - Epoch: 65 |Total training time: 0h:29m:43s | Train Loss: 0.1269 | Train Balanced Accuracy: 95.7965 %
+2024-04-22 20:41:57,009 - INFO - Epoch: 65 |Total validation time:0h:4m:7s | Validation Loss: 0.3908 | Validation Balanced Accuracy: 71.3008 % 
+2024-04-22 20:41:57,009 - INFO - Epoch: 65 |Total testing time: 0h:4m:35s | Test Loss: 0.2765 | Test Balanced Accuracy: 77.3299 %
+2024-04-22 20:41:57,817 - INFO - Saved checkpoint at epoch 65: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_65.pth
+2024-04-22 21:10:32,516 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-22 21:10:32,517 - INFO - Epoch: 66 |Total training time: 0h:11m:41s | Train Loss: 0.1265 | Train Balanced Accuracy: 95.8017 %
+2024-04-22 21:10:32,517 - INFO - Epoch: 66 |Total validation time:0h:7m:53s | Validation Loss: 0.3892 | Validation Balanced Accuracy: 71.5106 % 
+2024-04-22 21:10:32,517 - INFO - Epoch: 66 |Total testing time: 0h:9m:0s | Test Loss: 0.2760 | Test Balanced Accuracy: 77.5704 %
+2024-04-22 21:10:33,764 - INFO - Saved checkpoint at epoch 66: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_66.pth
+2024-04-22 21:51:50,249 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-22 21:51:50,250 - INFO - Epoch: 67 |Total training time: 0h:33m:2s | Train Loss: 0.1261 | Train Balanced Accuracy: 95.8173 %
+2024-04-22 21:51:50,250 - INFO - Epoch: 67 |Total validation time:0h:3m:58s | Validation Loss: 0.3880 | Validation Balanced Accuracy: 71.6888 % 
+2024-04-22 21:51:50,250 - INFO - Epoch: 67 |Total testing time: 0h:4m:16s | Test Loss: 0.2755 | Test Balanced Accuracy: 77.7639 %
+2024-04-22 21:51:51,247 - INFO - Saved checkpoint at epoch 67: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_67.pth
+2024-04-22 22:19:41,359 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-22 22:19:41,360 - INFO - Epoch: 68 |Total training time: 0h:11m:26s | Train Loss: 0.1257 | Train Balanced Accuracy: 95.8318 %
+2024-04-22 22:19:41,360 - INFO - Epoch: 68 |Total validation time:0h:7m:33s | Validation Loss: 0.3895 | Validation Balanced Accuracy: 71.4659 % 
+2024-04-22 22:19:41,360 - INFO - Epoch: 68 |Total testing time: 0h:8m:49s | Test Loss: 0.2760 | Test Balanced Accuracy: 77.5782 %
+2024-04-22 22:19:42,076 - INFO - Saved checkpoint at epoch 68: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_68.pth
+2024-04-22 22:58:24,767 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-22 22:58:24,768 - INFO - Epoch: 69 |Total training time: 0h:31m:9s | Train Loss: 0.1254 | Train Balanced Accuracy: 95.8541 %
+2024-04-22 22:58:24,768 - INFO - Epoch: 69 |Total validation time:0h:3m:39s | Validation Loss: 0.3886 | Validation Balanced Accuracy: 71.6136 % 
+2024-04-22 22:58:24,768 - INFO - Epoch: 69 |Total testing time: 0h:3m:53s | Test Loss: 0.2755 | Test Balanced Accuracy: 77.7306 %
+2024-04-22 22:58:25,394 - INFO - Saved checkpoint at epoch 69: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_69.pth
+2024-04-22 23:17:48,292 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-22 23:17:48,293 - INFO - Epoch: 70 |Total training time: 0h:11m:1s | Train Loss: 0.1250 | Train Balanced Accuracy: 95.8620 %
+2024-04-22 23:17:48,293 - INFO - Epoch: 70 |Total validation time:0h:3m:41s | Validation Loss: 0.3899 | Validation Balanced Accuracy: 71.3624 % 
+2024-04-22 23:17:48,293 - INFO - Epoch: 70 |Total testing time: 0h:4m:39s | Test Loss: 0.2758 | Test Balanced Accuracy: 77.5733 %
+2024-04-22 23:17:49,045 - INFO - Saved checkpoint at epoch 70: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_70.pth
+2024-04-22 23:44:59,274 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-22 23:44:59,275 - INFO - Epoch: 71 |Total training time: 0h:11m:13s | Train Loss: 0.1247 | Train Balanced Accuracy: 95.8776 %
+2024-04-22 23:44:59,275 - INFO - Epoch: 71 |Total validation time:0h:7m:21s | Validation Loss: 0.3864 | Validation Balanced Accuracy: 71.9732 % 
+2024-04-22 23:44:59,275 - INFO - Epoch: 71 |Total testing time: 0h:8m:36s | Test Loss: 0.2746 | Test Balanced Accuracy: 78.1011 %
+2024-04-22 23:45:00,603 - INFO - Saved checkpoint at epoch 71: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_71.pth
+2024-04-23 00:22:09,712 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-23 00:22:09,713 - INFO - Epoch: 72 |Total training time: 0h:29m:35s | Train Loss: 0.1243 | Train Balanced Accuracy: 95.8869 %
+2024-04-23 00:22:09,713 - INFO - Epoch: 72 |Total validation time:0h:3m:38s | Validation Loss: 0.3873 | Validation Balanced Accuracy: 71.8236 % 
+2024-04-23 00:22:09,713 - INFO - Epoch: 72 |Total testing time: 0h:3m:55s | Test Loss: 0.2747 | Test Balanced Accuracy: 78.0297 %
+2024-04-23 00:22:10,624 - INFO - Saved checkpoint at epoch 72: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_72.pth
+2024-04-23 00:49:16,100 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-23 00:49:16,101 - INFO - Epoch: 73 |Total training time: 0h:11m:1s | Train Loss: 0.1240 | Train Balanced Accuracy: 95.8990 %
+2024-04-23 00:49:16,101 - INFO - Epoch: 73 |Total validation time:0h:7m:25s | Validation Loss: 0.3883 | Validation Balanced Accuracy: 71.6514 % 
+2024-04-23 00:49:16,101 - INFO - Epoch: 73 |Total testing time: 0h:8m:38s | Test Loss: 0.2749 | Test Balanced Accuracy: 77.9388 %
+2024-04-23 00:49:16,858 - INFO - Saved checkpoint at epoch 73: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_73.pth
+2024-04-23 01:27:19,723 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-23 01:27:19,724 - INFO - Epoch: 74 |Total training time: 0h:30m:29s | Train Loss: 0.1236 | Train Balanced Accuracy: 95.9138 %
+2024-04-23 01:27:19,724 - INFO - Epoch: 74 |Total validation time:0h:3m:38s | Validation Loss: 0.3880 | Validation Balanced Accuracy: 71.7028 % 
+2024-04-23 01:27:19,724 - INFO - Epoch: 74 |Total testing time: 0h:3m:55s | Test Loss: 0.2748 | Test Balanced Accuracy: 77.9936 %
+2024-04-23 01:27:21,568 - INFO - Saved checkpoint at epoch 74: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_74.pth
+2024-04-23 01:54:24,526 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-23 01:54:24,526 - INFO - Epoch: 75 |Total training time: 0h:11m:4s | Train Loss: 0.1233 | Train Balanced Accuracy: 95.9292 %
+2024-04-23 01:54:24,526 - INFO - Epoch: 75 |Total validation time:0h:7m:20s | Validation Loss: 0.3882 | Validation Balanced Accuracy: 71.6691 % 
+2024-04-23 01:54:24,526 - INFO - Epoch: 75 |Total testing time: 0h:8m:37s | Test Loss: 0.2747 | Test Balanced Accuracy: 77.9994 %
+2024-04-23 01:54:25,332 - INFO - Saved checkpoint at epoch 75: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_75.pth
+2024-04-23 02:31:28,429 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-23 02:31:28,430 - INFO - Epoch: 76 |Total training time: 0h:29m:32s | Train Loss: 0.1230 | Train Balanced Accuracy: 95.9402 %
+2024-04-23 02:31:28,430 - INFO - Epoch: 76 |Total validation time:0h:3m:36s | Validation Loss: 0.3853 | Validation Balanced Accuracy: 72.0988 % 
+2024-04-23 02:31:28,430 - INFO - Epoch: 76 |Total testing time: 0h:3m:54s | Test Loss: 0.2738 | Test Balanced Accuracy: 78.3864 %
+2024-04-23 02:31:29,097 - INFO - Saved checkpoint at epoch 76: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_76.pth
+2024-04-23 02:58:32,015 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-23 02:58:32,016 - INFO - Epoch: 77 |Total training time: 0h:11m:3s | Train Loss: 0.1227 | Train Balanced Accuracy: 95.9432 %
+2024-04-23 02:58:32,016 - INFO - Epoch: 77 |Total validation time:0h:7m:21s | Validation Loss: 0.3855 | Validation Balanced Accuracy: 72.0848 % 
+2024-04-23 02:58:32,016 - INFO - Epoch: 77 |Total testing time: 0h:8m:37s | Test Loss: 0.2737 | Test Balanced Accuracy: 78.3845 %
+2024-04-23 02:58:33,350 - INFO - Saved checkpoint at epoch 77: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_77.pth
+2024-04-23 03:35:42,398 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-23 03:35:42,399 - INFO - Epoch: 78 |Total training time: 0h:29m:34s | Train Loss: 0.1224 | Train Balanced Accuracy: 95.9617 %
+2024-04-23 03:35:42,399 - INFO - Epoch: 78 |Total validation time:0h:3m:38s | Validation Loss: 0.3868 | Validation Balanced Accuracy: 71.8760 % 
+2024-04-23 03:35:42,399 - INFO - Epoch: 78 |Total testing time: 0h:3m:56s | Test Loss: 0.2740 | Test Balanced Accuracy: 78.2623 %
+2024-04-23 03:35:43,183 - INFO - Saved checkpoint at epoch 78: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_78.pth
+2024-04-23 04:02:46,531 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-23 04:02:46,532 - INFO - Epoch: 79 |Total training time: 0h:11m:3s | Train Loss: 0.1221 | Train Balanced Accuracy: 95.9747 %
+2024-04-23 04:02:46,532 - INFO - Epoch: 79 |Total validation time:0h:7m:23s | Validation Loss: 0.3878 | Validation Balanced Accuracy: 71.7233 % 
+2024-04-23 04:02:46,532 - INFO - Epoch: 79 |Total testing time: 0h:8m:36s | Test Loss: 0.2743 | Test Balanced Accuracy: 78.1441 %
+2024-04-23 04:02:47,533 - INFO - Saved checkpoint at epoch 79: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_79.pth
+2024-04-23 04:39:52,957 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-23 04:39:52,958 - INFO - Epoch: 80 |Total training time: 0h:29m:28s | Train Loss: 0.1218 | Train Balanced Accuracy: 95.9809 %
+2024-04-23 04:39:52,958 - INFO - Epoch: 80 |Total validation time:0h:3m:41s | Validation Loss: 0.3856 | Validation Balanced Accuracy: 72.0571 % 
+2024-04-23 04:39:52,958 - INFO - Epoch: 80 |Total testing time: 0h:3m:55s | Test Loss: 0.2735 | Test Balanced Accuracy: 78.4549 %
+2024-04-23 04:39:54,211 - INFO - Saved checkpoint at epoch 80: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_80.pth
+2024-04-23 05:06:52,523 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-23 05:06:52,524 - INFO - Epoch: 81 |Total training time: 0h:11m:3s | Train Loss: 0.1215 | Train Balanced Accuracy: 95.9826 %
+2024-04-23 05:06:52,524 - INFO - Epoch: 81 |Total validation time:0h:7m:21s | Validation Loss: 0.3860 | Validation Balanced Accuracy: 72.0050 % 
+2024-04-23 05:06:52,524 - INFO - Epoch: 81 |Total testing time: 0h:8m:34s | Test Loss: 0.2736 | Test Balanced Accuracy: 78.3923 %
+2024-04-23 05:06:53,493 - INFO - Saved checkpoint at epoch 81: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_81.pth
+2024-04-23 05:43:59,959 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-23 05:43:59,960 - INFO - Epoch: 82 |Total training time: 0h:29m:32s | Train Loss: 0.1213 | Train Balanced Accuracy: 95.9960 %
+2024-04-23 05:43:59,960 - INFO - Epoch: 82 |Total validation time:0h:3m:37s | Validation Loss: 0.3850 | Validation Balanced Accuracy: 72.1471 % 
+2024-04-23 05:43:59,960 - INFO - Epoch: 82 |Total testing time: 0h:3m:55s | Test Loss: 0.2733 | Test Balanced Accuracy: 78.5360 %
+2024-04-23 05:44:00,925 - INFO - Saved checkpoint at epoch 82: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_82.pth
+2024-04-23 06:11:02,198 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-23 06:11:02,199 - INFO - Epoch: 83 |Total training time: 0h:11m:2s | Train Loss: 0.1210 | Train Balanced Accuracy: 96.0145 %
+2024-04-23 06:11:02,199 - INFO - Epoch: 83 |Total validation time:0h:7m:23s | Validation Loss: 0.3852 | Validation Balanced Accuracy: 72.1386 % 
+2024-04-23 06:11:02,199 - INFO - Epoch: 83 |Total testing time: 0h:8m:35s | Test Loss: 0.2733 | Test Balanced Accuracy: 78.5624 %
+2024-04-23 06:11:04,477 - INFO - Saved checkpoint at epoch 83: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_83.pth
+2024-04-23 06:48:19,070 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-23 06:48:19,071 - INFO - Epoch: 84 |Total training time: 0h:29m:38s | Train Loss: 0.1207 | Train Balanced Accuracy: 96.0226 %
+2024-04-23 06:48:19,071 - INFO - Epoch: 84 |Total validation time:0h:3m:41s | Validation Loss: 0.3876 | Validation Balanced Accuracy: 71.8282 % 
+2024-04-23 06:48:19,071 - INFO - Epoch: 84 |Total testing time: 0h:3m:54s | Test Loss: 0.2739 | Test Balanced Accuracy: 78.2614 %
+2024-04-23 06:48:19,726 - INFO - Saved checkpoint at epoch 84: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_84.pth
+2024-04-23 07:15:14,698 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-23 07:15:14,699 - INFO - Epoch: 85 |Total training time: 0h:11m:3s | Train Loss: 0.1205 | Train Balanced Accuracy: 96.0246 %
+2024-04-23 07:15:14,699 - INFO - Epoch: 85 |Total validation time:0h:7m:19s | Validation Loss: 0.3838 | Validation Balanced Accuracy: 72.3211 % 
+2024-04-23 07:15:14,699 - INFO - Epoch: 85 |Total testing time: 0h:8m:32s | Test Loss: 0.2727 | Test Balanced Accuracy: 78.8449 %
+2024-04-23 07:15:15,441 - INFO - Saved checkpoint at epoch 85: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_85.pth
+2024-04-23 07:52:24,758 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-23 07:52:24,759 - INFO - Epoch: 86 |Total training time: 0h:29m:37s | Train Loss: 0.1202 | Train Balanced Accuracy: 96.0357 %
+2024-04-23 07:52:24,759 - INFO - Epoch: 86 |Total validation time:0h:3m:37s | Validation Loss: 0.3844 | Validation Balanced Accuracy: 72.2506 % 
+2024-04-23 07:52:24,759 - INFO - Epoch: 86 |Total testing time: 0h:3m:53s | Test Loss: 0.2728 | Test Balanced Accuracy: 78.7852 %
+2024-04-23 07:52:25,452 - INFO - Saved checkpoint at epoch 86: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_86.pth
+2024-04-23 08:19:29,048 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-23 08:19:29,049 - INFO - Epoch: 87 |Total training time: 0h:11m:3s | Train Loss: 0.1200 | Train Balanced Accuracy: 96.0369 %
+2024-04-23 08:19:29,049 - INFO - Epoch: 87 |Total validation time:0h:7m:25s | Validation Loss: 0.3820 | Validation Balanced Accuracy: 72.5602 % 
+2024-04-23 08:19:29,049 - INFO - Epoch: 87 |Total testing time: 0h:8m:34s | Test Loss: 0.2721 | Test Balanced Accuracy: 79.1156 %
+2024-04-23 08:19:29,787 - INFO - Saved checkpoint at epoch 87: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_87.pth
+2024-04-23 08:56:56,301 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-23 08:56:56,302 - INFO - Epoch: 88 |Total training time: 0h:29m:44s | Train Loss: 0.1197 | Train Balanced Accuracy: 96.0519 %
+2024-04-23 08:56:56,302 - INFO - Epoch: 88 |Total validation time:0h:3m:43s | Validation Loss: 0.3833 | Validation Balanced Accuracy: 72.3957 % 
+2024-04-23 08:56:56,302 - INFO - Epoch: 88 |Total testing time: 0h:3m:57s | Test Loss: 0.2725 | Test Balanced Accuracy: 78.9670 %
+2024-04-23 08:56:56,981 - INFO - Saved checkpoint at epoch 88: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_88.pth
+2024-04-23 09:24:29,402 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-23 09:24:29,403 - INFO - Epoch: 89 |Total training time: 0h:11m:7s | Train Loss: 0.1195 | Train Balanced Accuracy: 96.0701 %
+2024-04-23 09:24:29,403 - INFO - Epoch: 89 |Total validation time:0h:7m:29s | Validation Loss: 0.3866 | Validation Balanced Accuracy: 71.9736 % 
+2024-04-23 09:24:29,403 - INFO - Epoch: 89 |Total testing time: 0h:8m:56s | Test Loss: 0.2732 | Test Balanced Accuracy: 78.5399 %
+2024-04-23 09:24:30,307 - INFO - Saved checkpoint at epoch 89: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_89.pth
+2024-04-23 10:03:20,985 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-23 10:03:20,985 - INFO - Epoch: 90 |Total training time: 0h:30m:2s | Train Loss: 0.1192 | Train Balanced Accuracy: 96.0716 %
+2024-04-23 10:03:20,985 - INFO - Epoch: 90 |Total validation time:0h:4m:9s | Validation Loss: 0.3856 | Validation Balanced Accuracy: 72.0730 % 
+2024-04-23 10:03:20,985 - INFO - Epoch: 90 |Total testing time: 0h:4m:38s | Test Loss: 0.2728 | Test Balanced Accuracy: 78.7413 %
+2024-04-23 10:03:21,704 - INFO - Saved checkpoint at epoch 90: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_90.pth
+2024-04-23 10:24:10,882 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-23 10:24:10,883 - INFO - Epoch: 91 |Total training time: 0h:11m:52s | Train Loss: 0.1190 | Train Balanced Accuracy: 96.0894 %
+2024-04-23 10:24:10,885 - INFO - Epoch: 91 |Total validation time:0h:4m:19s | Validation Loss: 0.3851 | Validation Balanced Accuracy: 72.1507 % 
+2024-04-23 10:24:10,885 - INFO - Epoch: 91 |Total testing time: 0h:4m:36s | Test Loss: 0.2725 | Test Balanced Accuracy: 78.8927 %
+2024-04-23 10:24:11,524 - INFO - Saved checkpoint at epoch 91: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_91.pth
+2024-04-23 10:44:54,727 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-23 10:44:54,727 - INFO - Epoch: 92 |Total training time: 0h:11m:53s | Train Loss: 0.1188 | Train Balanced Accuracy: 96.0976 %
+2024-04-23 10:44:54,727 - INFO - Epoch: 92 |Total validation time:0h:4m:16s | Validation Loss: 0.3870 | Validation Balanced Accuracy: 71.9202 % 
+2024-04-23 10:44:54,729 - INFO - Epoch: 92 |Total testing time: 0h:4m:32s | Test Loss: 0.2730 | Test Balanced Accuracy: 78.6074 %
+2024-04-23 10:44:55,549 - INFO - Saved checkpoint at epoch 92: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_92.pth
+2024-04-23 11:05:50,930 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-23 11:05:50,931 - INFO - Epoch: 93 |Total training time: 0h:11m:55s | Train Loss: 0.1186 | Train Balanced Accuracy: 96.0986 %
+2024-04-23 11:05:50,931 - INFO - Epoch: 93 |Total validation time:0h:4m:19s | Validation Loss: 0.3854 | Validation Balanced Accuracy: 72.1304 % 
+2024-04-23 11:05:50,931 - INFO - Epoch: 93 |Total testing time: 0h:4m:40s | Test Loss: 0.2726 | Test Balanced Accuracy: 78.8781 %
+2024-04-23 11:05:52,268 - INFO - Saved checkpoint at epoch 93: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_93.pth
+2024-04-23 11:26:44,121 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-23 11:26:44,121 - INFO - Epoch: 94 |Total training time: 0h:11m:53s | Train Loss: 0.1184 | Train Balanced Accuracy: 96.1111 %
+2024-04-23 11:26:44,123 - INFO - Epoch: 94 |Total validation time:0h:4m:22s | Validation Loss: 0.3870 | Validation Balanced Accuracy: 71.9307 % 
+2024-04-23 11:26:44,123 - INFO - Epoch: 94 |Total testing time: 0h:4m:35s | Test Loss: 0.2730 | Test Balanced Accuracy: 78.6543 %
+2024-04-23 11:26:46,170 - INFO - Saved checkpoint at epoch 94: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_94.pth
+2024-04-23 11:47:29,933 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-23 11:47:29,934 - INFO - Epoch: 95 |Total training time: 0h:11m:48s | Train Loss: 0.1181 | Train Balanced Accuracy: 96.1073 %
+2024-04-23 11:47:29,934 - INFO - Epoch: 95 |Total validation time:0h:4m:18s | Validation Loss: 0.3864 | Validation Balanced Accuracy: 72.0115 % 
+2024-04-23 11:47:29,936 - INFO - Epoch: 95 |Total testing time: 0h:4m:36s | Test Loss: 0.2727 | Test Balanced Accuracy: 78.7774 %
+2024-04-23 11:47:31,570 - INFO - Saved checkpoint at epoch 95: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_95.pth
+2024-04-23 12:11:28,912 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-23 12:11:28,912 - INFO - Epoch: 96 |Total training time: 0h:11m:55s | Train Loss: 0.1179 | Train Balanced Accuracy: 96.1179 %
+2024-04-23 12:11:28,912 - INFO - Epoch: 96 |Total validation time:0h:4m:19s | Validation Loss: 0.3824 | Validation Balanced Accuracy: 72.5627 % 
+2024-04-23 12:11:28,917 - INFO - Epoch: 96 |Total testing time: 0h:7m:42s | Test Loss: 0.2714 | Test Balanced Accuracy: 79.3003 %
+2024-04-23 12:11:30,074 - INFO - Saved checkpoint at epoch 96: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_96.pth
+2024-04-23 12:40:43,865 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-23 12:40:43,866 - INFO - Epoch: 97 |Total training time: 0h:12m:31s | Train Loss: 0.1177 | Train Balanced Accuracy: 96.1322 %
+2024-04-23 12:40:43,866 - INFO - Epoch: 97 |Total validation time:0h:7m:26s | Validation Loss: 0.3842 | Validation Balanced Accuracy: 72.3149 % 
+2024-04-23 12:40:43,868 - INFO - Epoch: 97 |Total testing time: 0h:9m:16s | Test Loss: 0.2719 | Test Balanced Accuracy: 79.1508 %
+2024-04-23 12:40:45,410 - INFO - Saved checkpoint at epoch 97: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_97.pth
+2024-04-23 13:20:21,427 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-23 13:20:21,427 - INFO - Epoch: 98 |Total training time: 0h:30m:31s | Train Loss: 0.1175 | Train Balanced Accuracy: 96.1367 %
+2024-04-23 13:20:21,428 - INFO - Epoch: 98 |Total validation time:0h:4m:22s | Validation Loss: 0.3850 | Validation Balanced Accuracy: 72.2139 % 
+2024-04-23 13:20:21,428 - INFO - Epoch: 98 |Total testing time: 0h:4m:42s | Test Loss: 0.2721 | Test Balanced Accuracy: 79.1088 %
+2024-04-23 13:20:22,273 - INFO - Saved checkpoint at epoch 98: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_98.pth
+2024-04-23 13:52:02,335 - INFO - This file contains logs for: ViT_Baseline_split_1_SGD_4e_4_to_2e_4
+2024-04-23 13:52:02,336 - INFO - Epoch: 99 |Total training time: 0h:13m:19s | Train Loss: 0.1173 | Train Balanced Accuracy: 96.1290 %
+2024-04-23 13:52:02,336 - INFO - Epoch: 99 |Total validation time:0h:9m:8s | Validation Loss: 0.3817 | Validation Balanced Accuracy: 72.6951 % 
+2024-04-23 13:52:02,336 - INFO - Epoch: 99 |Total testing time: 0h:9m:11s | Test Loss: 0.2711 | Test Balanced Accuracy: 79.4928 %
+2024-04-23 13:52:02,966 - INFO - Saved checkpoint at epoch 99: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Baseline_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Baseline_split_1_SGD_4e_4_to_2e_4_epoch_99.pth
+2024-04-23 13:52:02,967 - INFO - Total training, validation and testing time: 24h:23m:6s.

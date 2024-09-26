@@ -1,0 +1,41 @@
+Info Type,Info
+Dataset Directory,/net/polaris/storage/deeplearning/sur_data/rgb_daa/split_0/test
+Output CSV File,/home/sur06423/thesis/dino_v2/dinov2_experiments/dataset_eda/class_image_counts_and_ratios_split_0_test.csv
+,
+Total Testing Images,87315
+,
+Class Name,Number of Images,Class Ratio
+opening_door_outside,157,0.0017980873847563419
+entering_car,293,0.0033556662658191607
+closing_door_inside,91,0.0010422035160052683
+fastening_seat_belt,719,0.008234553055030637
+using_multimedia_display,1508,0.017270801122373017
+pressing_automation_button,407,0.0046612838572982875
+sitting_still,30775,0.35245948576991354
+placing_an_object,3978,0.04555918227108744
+opening_backpack,196,0.0022447460344728856
+fetching_an_object,5219,0.05977208956078566
+opening_laptop,545,0.006241768310141442
+working_on_laptop,2313,0.026490293763958082
+interacting_with_phone,3515,0.040256542403939756
+closing_laptop,238,0.0027257630418599326
+eating,10184,0.1166351715054687
+opening_bottle,1201,0.013754795854091508
+drinking,911,0.01043348794594285
+closing_bottle,701,0.008028402909007616
+preparing_food,601,0.006883124319990838
+reading_newspaper,6886,0.07886388363969536
+writing,2219,0.02541373189028231
+looking_or_moving_around (e.g. searching),692,0.007925327835996107
+taking_off_sunglasses,218,0.0024967073240565766
+putting_on_sunglasses,207,0.0023707266792647314
+talking_on_phone,3829,0.04385271717345244
+reading_magazine,5109,0.05851228311286721
+putting_on_jacket,2296,0.02629559640382523
+taking_off_jacket,940,0.010765618736757717
+unfastening_seat_belt,613,0.007020557750672851
+opening_door_inside,250,0.002863196472541946
+exiting_car,317,0.003630533127183187
+closing_door_outside,63,0.0007215255110805703
+taking_laptop_from_backpack,63,0.0007215255110805703
+putting_laptop_into_backpack,61,0.0006986199393002347

@@ -1,0 +1,9 @@
+experiment_name = "Combined_Test_Dinov2_ViT_split_2_no_aug_d_a"
+batch_size = 1024
+num_workers = 10
+prefetch_factor = 4
+num_classes = 2
+checkpoint_path = "/home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/scripts_linear/dinov2_daa_experiments/Dinov2_split_2_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_split_2_SGD_4e_4_to_2e_4_epoch_99.pth"
+kir_test_dir = "/net/polaris/storage/deeplearning/sur_data/binary_kinect_ir_daa/split_2/test"
+nir_test_dir = "/net/polaris/storage/deeplearning/sur_data/binary_nir_ftop_daa/split_2/test"
+

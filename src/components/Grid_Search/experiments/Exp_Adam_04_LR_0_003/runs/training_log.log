@@ -1,0 +1,337 @@
+2024-03-02 01:14:58,088 - INFO - Total training time for epoch 0: 0h:6m:29s.
+2024-03-02 01:14:58,089 - INFO - Total validation time for epoch 0: 0h:1m:55s.
+2024-03-02 01:14:58,089 - INFO - Epoch: 0 | Train Loss: 2.0253 | Train Balanced Accuracy: 13.4561 %
+2024-03-02 01:14:58,089 - INFO - Epoch: 0 | Validation Loss: 4.3958 | Validation Balanced Accuracy: 11.5833 % 
+2024-03-02 01:17:06,099 - INFO - Total training time for epoch 1: 0h:1m:26s.
+2024-03-02 01:17:06,100 - INFO - Total validation time for epoch 1: 0h:0m:41s.
+2024-03-02 01:17:06,100 - INFO - Epoch: 1 | Train Loss: 1.2005 | Train Balanced Accuracy: 35.5676 %
+2024-03-02 01:17:06,100 - INFO - Epoch: 1 | Validation Loss: 4.7945 | Validation Balanced Accuracy: 15.7139 % 
+2024-03-02 01:19:10,088 - INFO - Total training time for epoch 2: 0h:1m:22s.
+2024-03-02 01:19:10,088 - INFO - Total validation time for epoch 2: 0h:0m:41s.
+2024-03-02 01:19:10,088 - INFO - Epoch: 2 | Train Loss: 0.9592 | Train Balanced Accuracy: 49.6178 %
+2024-03-02 01:19:10,089 - INFO - Epoch: 2 | Validation Loss: 4.8820 | Validation Balanced Accuracy: 14.8954 % 
+2024-03-02 01:21:13,799 - INFO - Total training time for epoch 3: 0h:1m:22s.
+2024-03-02 01:21:13,799 - INFO - Total validation time for epoch 3: 0h:0m:41s.
+2024-03-02 01:21:13,799 - INFO - Epoch: 3 | Train Loss: 0.8373 | Train Balanced Accuracy: 56.7255 %
+2024-03-02 01:21:13,799 - INFO - Epoch: 3 | Validation Loss: 5.1401 | Validation Balanced Accuracy: 17.0342 % 
+2024-03-02 01:23:18,117 - INFO - Total training time for epoch 4: 0h:1m:22s.
+2024-03-02 01:23:18,118 - INFO - Total validation time for epoch 4: 0h:0m:41s.
+2024-03-02 01:23:18,118 - INFO - Epoch: 4 | Train Loss: 0.7557 | Train Balanced Accuracy: 61.3736 %
+2024-03-02 01:23:18,118 - INFO - Epoch: 4 | Validation Loss: 5.2328 | Validation Balanced Accuracy: 17.7624 % 
+2024-03-02 01:23:22,588 - INFO - Saved checkpoint at epoch 4: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/Grid_Search/experiments/Exp_Adam_04_LR_0_003/runs/checkpoints/checkpoint_Exp_Adam_04_LR_0_003_epoch_4.pth
+2024-03-02 01:25:32,875 - INFO - Total training time for epoch 5: 0h:1m:27s.
+2024-03-02 01:25:32,876 - INFO - Total validation time for epoch 5: 0h:0m:42s.
+2024-03-02 01:25:32,876 - INFO - Epoch: 5 | Train Loss: 0.6942 | Train Balanced Accuracy: 64.4234 %
+2024-03-02 01:25:32,876 - INFO - Epoch: 5 | Validation Loss: 5.4315 | Validation Balanced Accuracy: 16.7823 % 
+2024-03-02 01:27:38,194 - INFO - Total training time for epoch 6: 0h:1m:23s.
+2024-03-02 01:27:38,195 - INFO - Total validation time for epoch 6: 0h:0m:41s.
+2024-03-02 01:27:38,195 - INFO - Epoch: 6 | Train Loss: 0.6514 | Train Balanced Accuracy: 67.3962 %
+2024-03-02 01:27:38,195 - INFO - Epoch: 6 | Validation Loss: 5.5323 | Validation Balanced Accuracy: 17.7722 % 
+2024-03-02 01:29:42,615 - INFO - Total training time for epoch 7: 0h:1m:23s.
+2024-03-02 01:29:42,615 - INFO - Total validation time for epoch 7: 0h:0m:41s.
+2024-03-02 01:29:42,615 - INFO - Epoch: 7 | Train Loss: 0.6122 | Train Balanced Accuracy: 69.5303 %
+2024-03-02 01:29:42,615 - INFO - Epoch: 7 | Validation Loss: 5.6408 | Validation Balanced Accuracy: 18.2900 % 
+2024-03-02 01:31:45,814 - INFO - Total training time for epoch 8: 0h:1m:21s.
+2024-03-02 01:31:45,815 - INFO - Total validation time for epoch 8: 0h:0m:41s.
+2024-03-02 01:31:45,815 - INFO - Epoch: 8 | Train Loss: 0.5827 | Train Balanced Accuracy: 70.6479 %
+2024-03-02 01:31:45,817 - INFO - Epoch: 8 | Validation Loss: 5.7773 | Validation Balanced Accuracy: 17.3047 % 
+2024-03-02 01:33:50,084 - INFO - Total training time for epoch 9: 0h:1m:22s.
+2024-03-02 01:33:50,085 - INFO - Total validation time for epoch 9: 0h:0m:41s.
+2024-03-02 01:33:50,085 - INFO - Epoch: 9 | Train Loss: 0.5566 | Train Balanced Accuracy: 73.0055 %
+2024-03-02 01:33:50,085 - INFO - Epoch: 9 | Validation Loss: 5.9343 | Validation Balanced Accuracy: 17.9679 % 
+2024-03-02 01:33:56,743 - INFO - Saved checkpoint at epoch 9: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/Grid_Search/experiments/Exp_Adam_04_LR_0_003/runs/checkpoints/checkpoint_Exp_Adam_04_LR_0_003_epoch_9.pth
+2024-03-02 01:36:04,301 - INFO - Total training time for epoch 10: 0h:1m:25s.
+2024-03-02 01:36:04,302 - INFO - Total validation time for epoch 10: 0h:0m:42s.
+2024-03-02 01:36:04,302 - INFO - Epoch: 10 | Train Loss: 0.5372 | Train Balanced Accuracy: 74.4400 %
+2024-03-02 01:36:04,302 - INFO - Epoch: 10 | Validation Loss: 5.9203 | Validation Balanced Accuracy: 17.6924 % 
+2024-03-02 01:38:07,856 - INFO - Total training time for epoch 11: 0h:1m:22s.
+2024-03-02 01:38:07,857 - INFO - Total validation time for epoch 11: 0h:0m:41s.
+2024-03-02 01:38:07,857 - INFO - Epoch: 11 | Train Loss: 0.5138 | Train Balanced Accuracy: 76.4510 %
+2024-03-02 01:38:07,857 - INFO - Epoch: 11 | Validation Loss: 6.0987 | Validation Balanced Accuracy: 18.3179 % 
+2024-03-02 01:40:11,017 - INFO - Total training time for epoch 12: 0h:1m:22s.
+2024-03-02 01:40:11,018 - INFO - Total validation time for epoch 12: 0h:0m:41s.
+2024-03-02 01:40:11,018 - INFO - Epoch: 12 | Train Loss: 0.4985 | Train Balanced Accuracy: 76.6021 %
+2024-03-02 01:40:11,018 - INFO - Epoch: 12 | Validation Loss: 6.0173 | Validation Balanced Accuracy: 17.5646 % 
+2024-03-02 01:42:13,977 - INFO - Total training time for epoch 13: 0h:1m:21s.
+2024-03-02 01:42:13,977 - INFO - Total validation time for epoch 13: 0h:0m:41s.
+2024-03-02 01:42:13,978 - INFO - Epoch: 13 | Train Loss: 0.4797 | Train Balanced Accuracy: 78.2544 %
+2024-03-02 01:42:13,978 - INFO - Epoch: 13 | Validation Loss: 6.1450 | Validation Balanced Accuracy: 18.1892 % 
+2024-03-02 01:44:18,184 - INFO - Total training time for epoch 14: 0h:1m:22s.
+2024-03-02 01:44:18,184 - INFO - Total validation time for epoch 14: 0h:0m:41s.
+2024-03-02 01:44:18,185 - INFO - Epoch: 14 | Train Loss: 0.4678 | Train Balanced Accuracy: 78.9707 %
+2024-03-02 01:44:18,185 - INFO - Epoch: 14 | Validation Loss: 6.1256 | Validation Balanced Accuracy: 18.4145 % 
+2024-03-02 01:44:24,623 - INFO - Saved checkpoint at epoch 14: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/Grid_Search/experiments/Exp_Adam_04_LR_0_003/runs/checkpoints/checkpoint_Exp_Adam_04_LR_0_003_epoch_14.pth
+2024-03-02 01:46:27,918 - INFO - Total training time for epoch 15: 0h:1m:21s.
+2024-03-02 01:46:27,919 - INFO - Total validation time for epoch 15: 0h:0m:41s.
+2024-03-02 01:46:27,919 - INFO - Epoch: 15 | Train Loss: 0.4542 | Train Balanced Accuracy: 79.9213 %
+2024-03-02 01:46:27,919 - INFO - Epoch: 15 | Validation Loss: 6.3479 | Validation Balanced Accuracy: 17.4456 % 
+2024-03-02 01:48:32,773 - INFO - Total training time for epoch 16: 0h:1m:23s.
+2024-03-02 01:48:32,774 - INFO - Total validation time for epoch 16: 0h:0m:41s.
+2024-03-02 01:48:32,774 - INFO - Epoch: 16 | Train Loss: 0.4408 | Train Balanced Accuracy: 81.0686 %
+2024-03-02 01:48:32,774 - INFO - Epoch: 16 | Validation Loss: 6.3902 | Validation Balanced Accuracy: 17.8612 % 
+2024-03-02 01:50:37,838 - INFO - Total training time for epoch 17: 0h:1m:23s.
+2024-03-02 01:50:37,840 - INFO - Total validation time for epoch 17: 0h:0m:41s.
+2024-03-02 01:50:37,840 - INFO - Epoch: 17 | Train Loss: 0.4306 | Train Balanced Accuracy: 81.3560 %
+2024-03-02 01:50:37,840 - INFO - Epoch: 17 | Validation Loss: 6.4460 | Validation Balanced Accuracy: 17.2608 % 
+2024-03-02 01:52:42,275 - INFO - Total training time for epoch 18: 0h:1m:22s.
+2024-03-02 01:52:42,276 - INFO - Total validation time for epoch 18: 0h:0m:41s.
+2024-03-02 01:52:42,276 - INFO - Epoch: 18 | Train Loss: 0.4207 | Train Balanced Accuracy: 81.8736 %
+2024-03-02 01:52:42,276 - INFO - Epoch: 18 | Validation Loss: 6.5762 | Validation Balanced Accuracy: 16.4643 % 
+2024-03-02 01:54:47,432 - INFO - Total training time for epoch 19: 0h:1m:23s.
+2024-03-02 01:54:47,432 - INFO - Total validation time for epoch 19: 0h:0m:41s.
+2024-03-02 01:54:47,433 - INFO - Epoch: 19 | Train Loss: 0.4123 | Train Balanced Accuracy: 82.3785 %
+2024-03-02 01:54:47,433 - INFO - Epoch: 19 | Validation Loss: 6.5790 | Validation Balanced Accuracy: 17.6419 % 
+2024-03-02 01:54:54,804 - INFO - Saved checkpoint at epoch 19: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/Grid_Search/experiments/Exp_Adam_04_LR_0_003/runs/checkpoints/checkpoint_Exp_Adam_04_LR_0_003_epoch_19.pth
+2024-03-02 01:57:01,738 - INFO - Total training time for epoch 20: 0h:1m:25s.
+2024-03-02 01:57:01,738 - INFO - Total validation time for epoch 20: 0h:0m:41s.
+2024-03-02 01:57:01,739 - INFO - Epoch: 20 | Train Loss: 0.3966 | Train Balanced Accuracy: 84.1466 %
+2024-03-02 01:57:01,739 - INFO - Epoch: 20 | Validation Loss: 6.5378 | Validation Balanced Accuracy: 17.7964 % 
+2024-03-02 01:59:06,570 - INFO - Total training time for epoch 21: 0h:1m:23s.
+2024-03-02 01:59:06,571 - INFO - Total validation time for epoch 21: 0h:0m:41s.
+2024-03-02 01:59:06,571 - INFO - Epoch: 21 | Train Loss: 0.3926 | Train Balanced Accuracy: 84.6267 %
+2024-03-02 01:59:06,571 - INFO - Epoch: 21 | Validation Loss: 6.5486 | Validation Balanced Accuracy: 17.7559 % 
+2024-03-02 02:01:10,986 - INFO - Total training time for epoch 22: 0h:1m:22s.
+2024-03-02 02:01:10,986 - INFO - Total validation time for epoch 22: 0h:0m:41s.
+2024-03-02 02:01:10,986 - INFO - Epoch: 22 | Train Loss: 0.3916 | Train Balanced Accuracy: 84.1266 %
+2024-03-02 02:01:10,986 - INFO - Epoch: 22 | Validation Loss: 6.5762 | Validation Balanced Accuracy: 17.8444 % 
+2024-03-02 02:03:15,721 - INFO - Total training time for epoch 23: 0h:1m:23s.
+2024-03-02 02:03:15,722 - INFO - Total validation time for epoch 23: 0h:0m:41s.
+2024-03-02 02:03:15,722 - INFO - Epoch: 23 | Train Loss: 0.3906 | Train Balanced Accuracy: 84.7922 %
+2024-03-02 02:03:15,722 - INFO - Epoch: 23 | Validation Loss: 6.5646 | Validation Balanced Accuracy: 18.0966 % 
+2024-03-02 02:05:20,900 - INFO - Total training time for epoch 24: 0h:1m:23s.
+2024-03-02 02:05:20,901 - INFO - Total validation time for epoch 24: 0h:0m:41s.
+2024-03-02 02:05:20,901 - INFO - Epoch: 24 | Train Loss: 0.3897 | Train Balanced Accuracy: 84.6373 %
+2024-03-02 02:05:20,901 - INFO - Epoch: 24 | Validation Loss: 6.5651 | Validation Balanced Accuracy: 18.0043 % 
+2024-03-02 02:05:22,537 - INFO - Saved checkpoint at epoch 24: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/Grid_Search/experiments/Exp_Adam_04_LR_0_003/runs/checkpoints/checkpoint_Exp_Adam_04_LR_0_003_epoch_24.pth
+2024-03-02 02:07:26,662 - INFO - Total training time for epoch 25: 0h:1m:22s.
+2024-03-02 02:07:26,663 - INFO - Total validation time for epoch 25: 0h:0m:41s.
+2024-03-02 02:07:26,663 - INFO - Epoch: 25 | Train Loss: 0.3887 | Train Balanced Accuracy: 84.6072 %
+2024-03-02 02:07:26,663 - INFO - Epoch: 25 | Validation Loss: 6.5988 | Validation Balanced Accuracy: 17.6714 % 
+2024-03-02 02:09:30,826 - INFO - Total training time for epoch 26: 0h:1m:22s.
+2024-03-02 02:09:30,827 - INFO - Total validation time for epoch 26: 0h:0m:41s.
+2024-03-02 02:09:30,827 - INFO - Epoch: 26 | Train Loss: 0.3879 | Train Balanced Accuracy: 84.9788 %
+2024-03-02 02:09:30,827 - INFO - Epoch: 26 | Validation Loss: 6.5676 | Validation Balanced Accuracy: 17.7692 % 
+2024-03-02 02:11:34,919 - INFO - Total training time for epoch 27: 0h:1m:22s.
+2024-03-02 02:11:34,920 - INFO - Total validation time for epoch 27: 0h:0m:41s.
+2024-03-02 02:11:34,920 - INFO - Epoch: 27 | Train Loss: 0.3871 | Train Balanced Accuracy: 84.9217 %
+2024-03-02 02:11:34,920 - INFO - Epoch: 27 | Validation Loss: 6.5934 | Validation Balanced Accuracy: 18.0995 % 
+2024-03-02 02:13:39,023 - INFO - Total training time for epoch 28: 0h:1m:22s.
+2024-03-02 02:13:39,023 - INFO - Total validation time for epoch 28: 0h:0m:41s.
+2024-03-02 02:13:39,023 - INFO - Epoch: 28 | Train Loss: 0.3861 | Train Balanced Accuracy: 85.0015 %
+2024-03-02 02:13:39,023 - INFO - Epoch: 28 | Validation Loss: 6.6031 | Validation Balanced Accuracy: 18.1008 % 
+2024-03-02 02:15:43,747 - INFO - Total training time for epoch 29: 0h:1m:22s.
+2024-03-02 02:15:43,747 - INFO - Total validation time for epoch 29: 0h:0m:41s.
+2024-03-02 02:15:43,747 - INFO - Epoch: 29 | Train Loss: 0.3851 | Train Balanced Accuracy: 84.7590 %
+2024-03-02 02:15:43,747 - INFO - Epoch: 29 | Validation Loss: 6.6006 | Validation Balanced Accuracy: 17.9108 % 
+2024-03-02 02:15:52,375 - INFO - Saved checkpoint at epoch 29: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/Grid_Search/experiments/Exp_Adam_04_LR_0_003/runs/checkpoints/checkpoint_Exp_Adam_04_LR_0_003_epoch_29.pth
+2024-03-02 02:17:56,189 - INFO - Total training time for epoch 30: 0h:1m:22s.
+2024-03-02 02:17:56,189 - INFO - Total validation time for epoch 30: 0h:0m:41s.
+2024-03-02 02:17:56,190 - INFO - Epoch: 30 | Train Loss: 0.3846 | Train Balanced Accuracy: 85.2349 %
+2024-03-02 02:17:56,190 - INFO - Epoch: 30 | Validation Loss: 6.6185 | Validation Balanced Accuracy: 17.7784 % 
+2024-03-02 02:20:00,480 - INFO - Total training time for epoch 31: 0h:1m:22s.
+2024-03-02 02:20:00,481 - INFO - Total validation time for epoch 31: 0h:0m:41s.
+2024-03-02 02:20:00,482 - INFO - Epoch: 31 | Train Loss: 0.3836 | Train Balanced Accuracy: 84.8443 %
+2024-03-02 02:20:00,482 - INFO - Epoch: 31 | Validation Loss: 6.5924 | Validation Balanced Accuracy: 17.9862 % 
+2024-03-02 02:22:04,936 - INFO - Total training time for epoch 32: 0h:1m:22s.
+2024-03-02 02:22:04,937 - INFO - Total validation time for epoch 32: 0h:0m:41s.
+2024-03-02 02:22:04,937 - INFO - Epoch: 32 | Train Loss: 0.3826 | Train Balanced Accuracy: 85.2563 %
+2024-03-02 02:22:04,937 - INFO - Epoch: 32 | Validation Loss: 6.6331 | Validation Balanced Accuracy: 17.9789 % 
+2024-03-02 02:24:10,113 - INFO - Total training time for epoch 33: 0h:1m:23s.
+2024-03-02 02:24:10,114 - INFO - Total validation time for epoch 33: 0h:0m:41s.
+2024-03-02 02:24:10,114 - INFO - Epoch: 33 | Train Loss: 0.3818 | Train Balanced Accuracy: 85.3916 %
+2024-03-02 02:24:10,114 - INFO - Epoch: 33 | Validation Loss: 6.6262 | Validation Balanced Accuracy: 17.8805 % 
+2024-03-02 02:26:14,737 - INFO - Total training time for epoch 34: 0h:1m:23s.
+2024-03-02 02:26:14,738 - INFO - Total validation time for epoch 34: 0h:0m:41s.
+2024-03-02 02:26:14,738 - INFO - Epoch: 34 | Train Loss: 0.3810 | Train Balanced Accuracy: 85.1258 %
+2024-03-02 02:26:14,738 - INFO - Epoch: 34 | Validation Loss: 6.6382 | Validation Balanced Accuracy: 17.6153 % 
+2024-03-02 02:26:21,007 - INFO - Saved checkpoint at epoch 34: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/Grid_Search/experiments/Exp_Adam_04_LR_0_003/runs/checkpoints/checkpoint_Exp_Adam_04_LR_0_003_epoch_34.pth
+2024-03-02 02:28:25,065 - INFO - Total training time for epoch 35: 0h:1m:22s.
+2024-03-02 02:28:25,066 - INFO - Total validation time for epoch 35: 0h:0m:41s.
+2024-03-02 02:28:25,066 - INFO - Epoch: 35 | Train Loss: 0.3803 | Train Balanced Accuracy: 85.2443 %
+2024-03-02 02:28:25,066 - INFO - Epoch: 35 | Validation Loss: 6.6337 | Validation Balanced Accuracy: 17.9418 % 
+2024-03-02 02:30:31,002 - INFO - Total training time for epoch 36: 0h:1m:24s.
+2024-03-02 02:30:31,003 - INFO - Total validation time for epoch 36: 0h:0m:41s.
+2024-03-02 02:30:31,003 - INFO - Epoch: 36 | Train Loss: 0.3791 | Train Balanced Accuracy: 85.3140 %
+2024-03-02 02:30:31,003 - INFO - Epoch: 36 | Validation Loss: 6.6498 | Validation Balanced Accuracy: 17.7281 % 
+2024-03-02 02:32:35,618 - INFO - Total training time for epoch 37: 0h:1m:22s.
+2024-03-02 02:32:35,619 - INFO - Total validation time for epoch 37: 0h:0m:41s.
+2024-03-02 02:32:35,619 - INFO - Epoch: 37 | Train Loss: 0.3781 | Train Balanced Accuracy: 85.3361 %
+2024-03-02 02:32:35,619 - INFO - Epoch: 37 | Validation Loss: 6.6231 | Validation Balanced Accuracy: 17.8796 % 
+2024-03-02 02:34:40,653 - INFO - Total training time for epoch 38: 0h:1m:23s.
+2024-03-02 02:34:40,654 - INFO - Total validation time for epoch 38: 0h:0m:41s.
+2024-03-02 02:34:40,654 - INFO - Epoch: 38 | Train Loss: 0.3772 | Train Balanced Accuracy: 85.6978 %
+2024-03-02 02:34:40,654 - INFO - Epoch: 38 | Validation Loss: 6.6655 | Validation Balanced Accuracy: 18.0287 % 
+2024-03-02 02:36:45,898 - INFO - Total training time for epoch 39: 0h:1m:23s.
+2024-03-02 02:36:45,899 - INFO - Total validation time for epoch 39: 0h:0m:42s.
+2024-03-02 02:36:45,899 - INFO - Epoch: 39 | Train Loss: 0.3762 | Train Balanced Accuracy: 85.4407 %
+2024-03-02 02:36:45,899 - INFO - Epoch: 39 | Validation Loss: 6.6684 | Validation Balanced Accuracy: 17.8841 % 
+2024-03-02 02:36:51,583 - INFO - Saved checkpoint at epoch 39: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/Grid_Search/experiments/Exp_Adam_04_LR_0_003/runs/checkpoints/checkpoint_Exp_Adam_04_LR_0_003_epoch_39.pth
+2024-03-02 02:38:55,058 - INFO - Total training time for epoch 40: 0h:1m:21s.
+2024-03-02 02:38:55,058 - INFO - Total validation time for epoch 40: 0h:0m:41s.
+2024-03-02 02:38:55,058 - INFO - Epoch: 40 | Train Loss: 0.3746 | Train Balanced Accuracy: 85.7935 %
+2024-03-02 02:38:55,058 - INFO - Epoch: 40 | Validation Loss: 6.6700 | Validation Balanced Accuracy: 17.9241 % 
+2024-03-02 02:40:58,479 - INFO - Total training time for epoch 41: 0h:1m:22s.
+2024-03-02 02:40:58,480 - INFO - Total validation time for epoch 41: 0h:0m:41s.
+2024-03-02 02:40:58,480 - INFO - Epoch: 41 | Train Loss: 0.3744 | Train Balanced Accuracy: 85.7358 %
+2024-03-02 02:40:58,480 - INFO - Epoch: 41 | Validation Loss: 6.6656 | Validation Balanced Accuracy: 17.9313 % 
+2024-03-02 02:43:01,894 - INFO - Total training time for epoch 42: 0h:1m:22s.
+2024-03-02 02:43:01,895 - INFO - Total validation time for epoch 42: 0h:0m:41s.
+2024-03-02 02:43:01,895 - INFO - Epoch: 42 | Train Loss: 0.3743 | Train Balanced Accuracy: 85.7467 %
+2024-03-02 02:43:01,896 - INFO - Epoch: 42 | Validation Loss: 6.6630 | Validation Balanced Accuracy: 17.9305 % 
+2024-03-02 02:45:05,309 - INFO - Total training time for epoch 43: 0h:1m:22s.
+2024-03-02 02:45:05,309 - INFO - Total validation time for epoch 43: 0h:0m:40s.
+2024-03-02 02:45:05,309 - INFO - Epoch: 43 | Train Loss: 0.3742 | Train Balanced Accuracy: 85.8246 %
+2024-03-02 02:45:05,309 - INFO - Epoch: 43 | Validation Loss: 6.6655 | Validation Balanced Accuracy: 17.9728 % 
+2024-03-02 02:47:10,067 - INFO - Total training time for epoch 44: 0h:1m:23s.
+2024-03-02 02:47:10,068 - INFO - Total validation time for epoch 44: 0h:0m:41s.
+2024-03-02 02:47:10,068 - INFO - Epoch: 44 | Train Loss: 0.3741 | Train Balanced Accuracy: 85.8177 %
+2024-03-02 02:47:10,068 - INFO - Epoch: 44 | Validation Loss: 6.6666 | Validation Balanced Accuracy: 17.9653 % 
+2024-03-02 02:47:13,925 - INFO - Saved checkpoint at epoch 44: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/Grid_Search/experiments/Exp_Adam_04_LR_0_003/runs/checkpoints/checkpoint_Exp_Adam_04_LR_0_003_epoch_44.pth
+2024-03-02 02:49:17,634 - INFO - Total training time for epoch 45: 0h:1m:22s.
+2024-03-02 02:49:17,634 - INFO - Total validation time for epoch 45: 0h:0m:41s.
+2024-03-02 02:49:17,635 - INFO - Epoch: 45 | Train Loss: 0.3740 | Train Balanced Accuracy: 85.8125 %
+2024-03-02 02:49:17,635 - INFO - Epoch: 45 | Validation Loss: 6.6665 | Validation Balanced Accuracy: 17.7954 % 
+2024-03-02 02:51:22,583 - INFO - Total training time for epoch 46: 0h:1m:23s.
+2024-03-02 02:51:22,585 - INFO - Total validation time for epoch 46: 0h:0m:41s.
+2024-03-02 02:51:22,585 - INFO - Epoch: 46 | Train Loss: 0.3739 | Train Balanced Accuracy: 85.7743 %
+2024-03-02 02:51:22,587 - INFO - Epoch: 46 | Validation Loss: 6.6646 | Validation Balanced Accuracy: 18.0023 % 
+2024-03-02 02:53:27,956 - INFO - Total training time for epoch 47: 0h:1m:24s.
+2024-03-02 02:53:27,957 - INFO - Total validation time for epoch 47: 0h:0m:41s.
+2024-03-02 02:53:27,957 - INFO - Epoch: 47 | Train Loss: 0.3739 | Train Balanced Accuracy: 85.7455 %
+2024-03-02 02:53:27,957 - INFO - Epoch: 47 | Validation Loss: 6.6658 | Validation Balanced Accuracy: 17.9728 % 
+2024-03-02 02:55:32,708 - INFO - Total training time for epoch 48: 0h:1m:23s.
+2024-03-02 02:55:32,709 - INFO - Total validation time for epoch 48: 0h:0m:41s.
+2024-03-02 02:55:32,709 - INFO - Epoch: 48 | Train Loss: 0.3737 | Train Balanced Accuracy: 85.7988 %
+2024-03-02 02:55:32,709 - INFO - Epoch: 48 | Validation Loss: 6.6698 | Validation Balanced Accuracy: 17.9633 % 
+2024-03-02 02:57:37,363 - INFO - Total training time for epoch 49: 0h:1m:22s.
+2024-03-02 02:57:37,364 - INFO - Total validation time for epoch 49: 0h:0m:41s.
+2024-03-02 02:57:37,364 - INFO - Epoch: 49 | Train Loss: 0.3736 | Train Balanced Accuracy: 85.7921 %
+2024-03-02 02:57:37,364 - INFO - Epoch: 49 | Validation Loss: 6.6691 | Validation Balanced Accuracy: 17.9153 % 
+2024-03-02 02:57:39,741 - INFO - Saved checkpoint at epoch 49: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/Grid_Search/experiments/Exp_Adam_04_LR_0_003/runs/checkpoints/checkpoint_Exp_Adam_04_LR_0_003_epoch_49.pth
+2024-03-02 02:59:47,160 - INFO - Total training time for epoch 50: 0h:1m:25s.
+2024-03-02 02:59:47,161 - INFO - Total validation time for epoch 50: 0h:0m:41s.
+2024-03-02 02:59:47,162 - INFO - Epoch: 50 | Train Loss: 0.3735 | Train Balanced Accuracy: 85.7966 %
+2024-03-02 02:59:47,162 - INFO - Epoch: 50 | Validation Loss: 6.6706 | Validation Balanced Accuracy: 17.9772 % 
+2024-03-02 03:01:52,201 - INFO - Total training time for epoch 51: 0h:1m:22s.
+2024-03-02 03:01:52,202 - INFO - Total validation time for epoch 51: 0h:0m:42s.
+2024-03-02 03:01:52,202 - INFO - Epoch: 51 | Train Loss: 0.3734 | Train Balanced Accuracy: 85.8112 %
+2024-03-02 03:01:52,202 - INFO - Epoch: 51 | Validation Loss: 6.6702 | Validation Balanced Accuracy: 17.7923 % 
+2024-03-02 03:03:56,861 - INFO - Total training time for epoch 52: 0h:1m:23s.
+2024-03-02 03:03:56,862 - INFO - Total validation time for epoch 52: 0h:0m:41s.
+2024-03-02 03:03:56,862 - INFO - Epoch: 52 | Train Loss: 0.3733 | Train Balanced Accuracy: 85.7830 %
+2024-03-02 03:03:56,862 - INFO - Epoch: 52 | Validation Loss: 6.6717 | Validation Balanced Accuracy: 17.7492 % 
+2024-03-02 03:06:01,394 - INFO - Total training time for epoch 53: 0h:1m:22s.
+2024-03-02 03:06:01,394 - INFO - Total validation time for epoch 53: 0h:0m:41s.
+2024-03-02 03:06:01,395 - INFO - Epoch: 53 | Train Loss: 0.3732 | Train Balanced Accuracy: 85.7871 %
+2024-03-02 03:06:01,395 - INFO - Epoch: 53 | Validation Loss: 6.6745 | Validation Balanced Accuracy: 17.7923 % 
+2024-03-02 03:08:06,346 - INFO - Total training time for epoch 54: 0h:1m:23s.
+2024-03-02 03:08:06,347 - INFO - Total validation time for epoch 54: 0h:0m:41s.
+2024-03-02 03:08:06,347 - INFO - Epoch: 54 | Train Loss: 0.3731 | Train Balanced Accuracy: 85.7060 %
+2024-03-02 03:08:06,347 - INFO - Epoch: 54 | Validation Loss: 6.6731 | Validation Balanced Accuracy: 17.7998 % 
+2024-03-02 03:08:12,171 - INFO - Saved checkpoint at epoch 54: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/Grid_Search/experiments/Exp_Adam_04_LR_0_003/runs/checkpoints/checkpoint_Exp_Adam_04_LR_0_003_epoch_54.pth
+2024-03-02 03:10:17,280 - INFO - Total training time for epoch 55: 0h:1m:23s.
+2024-03-02 03:10:17,281 - INFO - Total validation time for epoch 55: 0h:0m:41s.
+2024-03-02 03:10:17,281 - INFO - Epoch: 55 | Train Loss: 0.3730 | Train Balanced Accuracy: 85.8202 %
+2024-03-02 03:10:17,281 - INFO - Epoch: 55 | Validation Loss: 6.6743 | Validation Balanced Accuracy: 17.7891 % 
+2024-03-02 03:12:22,084 - INFO - Total training time for epoch 56: 0h:1m:22s.
+2024-03-02 03:12:22,085 - INFO - Total validation time for epoch 56: 0h:0m:41s.
+2024-03-02 03:12:22,085 - INFO - Epoch: 56 | Train Loss: 0.3729 | Train Balanced Accuracy: 85.8525 %
+2024-03-02 03:12:22,085 - INFO - Epoch: 56 | Validation Loss: 6.6793 | Validation Balanced Accuracy: 17.7888 % 
+2024-03-02 03:14:26,179 - INFO - Total training time for epoch 57: 0h:1m:22s.
+2024-03-02 03:14:26,180 - INFO - Total validation time for epoch 57: 0h:0m:41s.
+2024-03-02 03:14:26,180 - INFO - Epoch: 57 | Train Loss: 0.3728 | Train Balanced Accuracy: 85.8210 %
+2024-03-02 03:14:26,180 - INFO - Epoch: 57 | Validation Loss: 6.6745 | Validation Balanced Accuracy: 17.7998 % 
+2024-03-02 03:16:30,210 - INFO - Total training time for epoch 58: 0h:1m:22s.
+2024-03-02 03:16:30,210 - INFO - Total validation time for epoch 58: 0h:0m:41s.
+2024-03-02 03:16:30,210 - INFO - Epoch: 58 | Train Loss: 0.3727 | Train Balanced Accuracy: 85.8737 %
+2024-03-02 03:16:30,210 - INFO - Epoch: 58 | Validation Loss: 6.6718 | Validation Balanced Accuracy: 17.8072 % 
+2024-03-02 03:18:34,384 - INFO - Total training time for epoch 59: 0h:1m:22s.
+2024-03-02 03:18:34,385 - INFO - Total validation time for epoch 59: 0h:0m:41s.
+2024-03-02 03:18:34,385 - INFO - Epoch: 59 | Train Loss: 0.3726 | Train Balanced Accuracy: 85.8271 %
+2024-03-02 03:18:34,385 - INFO - Epoch: 59 | Validation Loss: 6.6816 | Validation Balanced Accuracy: 17.9609 % 
+2024-03-02 03:18:35,774 - INFO - Saved checkpoint at epoch 59: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/Grid_Search/experiments/Exp_Adam_04_LR_0_003/runs/checkpoints/checkpoint_Exp_Adam_04_LR_0_003_epoch_59.pth
+2024-03-02 03:20:39,349 - INFO - Total training time for epoch 60: 0h:1m:21s.
+2024-03-02 03:20:39,350 - INFO - Total validation time for epoch 60: 0h:0m:41s.
+2024-03-02 03:20:39,350 - INFO - Epoch: 60 | Train Loss: 0.3724 | Train Balanced Accuracy: 85.8182 %
+2024-03-02 03:20:39,350 - INFO - Epoch: 60 | Validation Loss: 6.6797 | Validation Balanced Accuracy: 17.9577 % 
+2024-03-02 03:22:44,183 - INFO - Total training time for epoch 61: 0h:1m:23s.
+2024-03-02 03:22:44,184 - INFO - Total validation time for epoch 61: 0h:0m:41s.
+2024-03-02 03:22:44,184 - INFO - Epoch: 61 | Train Loss: 0.3724 | Train Balanced Accuracy: 85.8199 %
+2024-03-02 03:22:44,185 - INFO - Epoch: 61 | Validation Loss: 6.6785 | Validation Balanced Accuracy: 17.9623 % 
+2024-03-02 03:24:48,464 - INFO - Total training time for epoch 62: 0h:1m:22s.
+2024-03-02 03:24:48,465 - INFO - Total validation time for epoch 62: 0h:0m:41s.
+2024-03-02 03:24:48,465 - INFO - Epoch: 62 | Train Loss: 0.3724 | Train Balanced Accuracy: 85.8498 %
+2024-03-02 03:24:48,465 - INFO - Epoch: 62 | Validation Loss: 6.6808 | Validation Balanced Accuracy: 17.9653 % 
+2024-03-02 03:26:53,232 - INFO - Total training time for epoch 63: 0h:1m:22s.
+2024-03-02 03:26:53,233 - INFO - Total validation time for epoch 63: 0h:0m:42s.
+2024-03-02 03:26:53,233 - INFO - Epoch: 63 | Train Loss: 0.3724 | Train Balanced Accuracy: 85.8381 %
+2024-03-02 03:26:53,233 - INFO - Epoch: 63 | Validation Loss: 6.6786 | Validation Balanced Accuracy: 17.7937 % 
+2024-03-02 03:28:58,765 - INFO - Total training time for epoch 64: 0h:1m:23s.
+2024-03-02 03:28:58,766 - INFO - Total validation time for epoch 64: 0h:0m:42s.
+2024-03-02 03:28:58,766 - INFO - Epoch: 64 | Train Loss: 0.3724 | Train Balanced Accuracy: 85.8653 %
+2024-03-02 03:28:58,766 - INFO - Epoch: 64 | Validation Loss: 6.6806 | Validation Balanced Accuracy: 17.9653 % 
+2024-03-02 03:29:01,246 - INFO - Saved checkpoint at epoch 64: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/Grid_Search/experiments/Exp_Adam_04_LR_0_003/runs/checkpoints/checkpoint_Exp_Adam_04_LR_0_003_epoch_64.pth
+2024-03-02 03:31:04,960 - INFO - Total training time for epoch 65: 0h:1m:21s.
+2024-03-02 03:31:04,961 - INFO - Total validation time for epoch 65: 0h:0m:41s.
+2024-03-02 03:31:04,961 - INFO - Epoch: 65 | Train Loss: 0.3724 | Train Balanced Accuracy: 85.8834 %
+2024-03-02 03:31:04,961 - INFO - Epoch: 65 | Validation Loss: 6.6789 | Validation Balanced Accuracy: 17.7879 % 
+2024-03-02 03:33:09,970 - INFO - Total training time for epoch 66: 0h:1m:23s.
+2024-03-02 03:33:09,971 - INFO - Total validation time for epoch 66: 0h:0m:41s.
+2024-03-02 03:33:09,971 - INFO - Epoch: 66 | Train Loss: 0.3725 | Train Balanced Accuracy: 85.8827 %
+2024-03-02 03:33:09,971 - INFO - Epoch: 66 | Validation Loss: 6.6816 | Validation Balanced Accuracy: 17.9684 % 
+2024-03-02 03:35:14,378 - INFO - Total training time for epoch 67: 0h:1m:22s.
+2024-03-02 03:35:14,379 - INFO - Total validation time for epoch 67: 0h:0m:41s.
+2024-03-02 03:35:14,379 - INFO - Epoch: 67 | Train Loss: 0.3724 | Train Balanced Accuracy: 85.8784 %
+2024-03-02 03:35:14,379 - INFO - Epoch: 67 | Validation Loss: 6.6798 | Validation Balanced Accuracy: 17.9684 % 
+2024-03-02 03:37:18,277 - INFO - Total training time for epoch 68: 0h:1m:22s.
+2024-03-02 03:37:18,278 - INFO - Total validation time for epoch 68: 0h:0m:41s.
+2024-03-02 03:37:18,278 - INFO - Epoch: 68 | Train Loss: 0.3723 | Train Balanced Accuracy: 85.8645 %
+2024-03-02 03:37:18,278 - INFO - Epoch: 68 | Validation Loss: 6.6813 | Validation Balanced Accuracy: 17.7954 % 
+2024-03-02 03:39:23,961 - INFO - Total training time for epoch 69: 0h:1m:23s.
+2024-03-02 03:39:23,961 - INFO - Total validation time for epoch 69: 0h:0m:41s.
+2024-03-02 03:39:23,962 - INFO - Epoch: 69 | Train Loss: 0.3723 | Train Balanced Accuracy: 85.8860 %
+2024-03-02 03:39:23,962 - INFO - Epoch: 69 | Validation Loss: 6.6792 | Validation Balanced Accuracy: 17.9590 % 
+2024-03-02 03:39:29,364 - INFO - Saved checkpoint at epoch 69: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/Grid_Search/experiments/Exp_Adam_04_LR_0_003/runs/checkpoints/checkpoint_Exp_Adam_04_LR_0_003_epoch_69.pth
+2024-03-02 03:41:33,338 - INFO - Total training time for epoch 70: 0h:1m:22s.
+2024-03-02 03:41:33,339 - INFO - Total validation time for epoch 70: 0h:0m:41s.
+2024-03-02 03:41:33,339 - INFO - Epoch: 70 | Train Loss: 0.3724 | Train Balanced Accuracy: 85.9065 %
+2024-03-02 03:41:33,339 - INFO - Epoch: 70 | Validation Loss: 6.6803 | Validation Balanced Accuracy: 17.9684 % 
+2024-03-02 03:43:38,108 - INFO - Total training time for epoch 71: 0h:1m:23s.
+2024-03-02 03:43:38,109 - INFO - Total validation time for epoch 71: 0h:0m:41s.
+2024-03-02 03:43:38,109 - INFO - Epoch: 71 | Train Loss: 0.3723 | Train Balanced Accuracy: 85.8894 %
+2024-03-02 03:43:38,109 - INFO - Epoch: 71 | Validation Loss: 6.6819 | Validation Balanced Accuracy: 17.9728 % 
+2024-03-02 03:45:42,612 - INFO - Total training time for epoch 72: 0h:1m:22s.
+2024-03-02 03:45:42,612 - INFO - Total validation time for epoch 72: 0h:0m:41s.
+2024-03-02 03:45:42,612 - INFO - Epoch: 72 | Train Loss: 0.3723 | Train Balanced Accuracy: 85.8846 %
+2024-03-02 03:45:42,612 - INFO - Epoch: 72 | Validation Loss: 6.6789 | Validation Balanced Accuracy: 17.9697 % 
+2024-03-02 03:47:47,382 - INFO - Total training time for epoch 73: 0h:1m:22s.
+2024-03-02 03:47:47,383 - INFO - Total validation time for epoch 73: 0h:0m:42s.
+2024-03-02 03:47:47,383 - INFO - Epoch: 73 | Train Loss: 0.3723 | Train Balanced Accuracy: 85.8905 %
+2024-03-02 03:47:47,383 - INFO - Epoch: 73 | Validation Loss: 6.6794 | Validation Balanced Accuracy: 17.9728 % 
+2024-03-02 03:49:52,034 - INFO - Total training time for epoch 74: 0h:1m:23s.
+2024-03-02 03:49:52,035 - INFO - Total validation time for epoch 74: 0h:0m:41s.
+2024-03-02 03:49:52,035 - INFO - Epoch: 74 | Train Loss: 0.3723 | Train Balanced Accuracy: 85.8808 %
+2024-03-02 03:49:52,035 - INFO - Epoch: 74 | Validation Loss: 6.6789 | Validation Balanced Accuracy: 17.9653 % 
+2024-03-02 03:49:53,537 - INFO - Saved checkpoint at epoch 74: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/Grid_Search/experiments/Exp_Adam_04_LR_0_003/runs/checkpoints/checkpoint_Exp_Adam_04_LR_0_003_epoch_74.pth
+2024-03-02 03:51:57,374 - INFO - Total training time for epoch 75: 0h:1m:22s.
+2024-03-02 03:51:57,375 - INFO - Total validation time for epoch 75: 0h:0m:41s.
+2024-03-02 03:51:57,375 - INFO - Epoch: 75 | Train Loss: 0.3723 | Train Balanced Accuracy: 85.8938 %
+2024-03-02 03:51:57,375 - INFO - Epoch: 75 | Validation Loss: 6.6789 | Validation Balanced Accuracy: 17.9684 % 
+2024-03-02 03:54:02,051 - INFO - Total training time for epoch 76: 0h:1m:22s.
+2024-03-02 03:54:02,052 - INFO - Total validation time for epoch 76: 0h:0m:42s.
+2024-03-02 03:54:02,052 - INFO - Epoch: 76 | Train Loss: 0.3722 | Train Balanced Accuracy: 85.9090 %
+2024-03-02 03:54:02,052 - INFO - Epoch: 76 | Validation Loss: 6.6791 | Validation Balanced Accuracy: 17.9697 % 
+2024-03-02 03:56:05,939 - INFO - Total training time for epoch 77: 0h:1m:22s.
+2024-03-02 03:56:05,940 - INFO - Total validation time for epoch 77: 0h:0m:41s.
+2024-03-02 03:56:05,940 - INFO - Epoch: 77 | Train Loss: 0.3722 | Train Balanced Accuracy: 85.9105 %
+2024-03-02 03:56:05,940 - INFO - Epoch: 77 | Validation Loss: 6.6793 | Validation Balanced Accuracy: 17.9724 % 
+2024-03-02 03:58:10,820 - INFO - Total training time for epoch 78: 0h:1m:23s.
+2024-03-02 03:58:10,821 - INFO - Total validation time for epoch 78: 0h:0m:41s.
+2024-03-02 03:58:10,821 - INFO - Epoch: 78 | Train Loss: 0.3722 | Train Balanced Accuracy: 85.9010 %
+2024-03-02 03:58:10,821 - INFO - Epoch: 78 | Validation Loss: 6.6803 | Validation Balanced Accuracy: 17.7998 % 
+2024-03-02 04:00:14,643 - INFO - Total training time for epoch 79: 0h:1m:22s.
+2024-03-02 04:00:14,644 - INFO - Total validation time for epoch 79: 0h:0m:41s.
+2024-03-02 04:00:14,644 - INFO - Epoch: 79 | Train Loss: 0.3722 | Train Balanced Accuracy: 85.9056 %
+2024-03-02 04:00:14,644 - INFO - Epoch: 79 | Validation Loss: 6.6807 | Validation Balanced Accuracy: 17.9728 % 
+2024-03-02 04:00:26,412 - INFO - Saved checkpoint at epoch 79: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/Grid_Search/experiments/Exp_Adam_04_LR_0_003/runs/checkpoints/checkpoint_Exp_Adam_04_LR_0_003_epoch_79.pth
+2024-03-02 04:00:26,413 - INFO - Total training and validation time: 2h:53m:52s.

@@ -1,0 +1,12 @@
+# Ignore all .pkl file
+*.pkl
+*.pickle
+
+# Ignore all .pt files
+*.pt
+
+# Ignore all .pth files
+*.pth
+
+# Ignore all folders named 'checkpoints'
+checkpoints/

@@ -1,0 +1,502 @@
+2024-05-04 15:07:56,798 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-04 15:07:56,799 - INFO - Epoch: 0 |Total training time: 1h:2m:59s | Train Loss: 0.4830 | Train Balanced Accuracy: 77.6113 %
+2024-05-04 15:07:56,799 - INFO - Epoch: 0 |Total validation time:0h:20m:57s | Validation Loss: 0.2406 | Validation Balanced Accuracy: 94.0451 % 
+2024-05-04 15:07:56,799 - INFO - Epoch: 0 |Total testing time: 0h:25m:47s | Test Loss: 0.3061 | Test Balanced Accuracy: 88.1472 %
+2024-05-04 15:07:57,636 - INFO - Saved checkpoint at epoch 0: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_0.pth
+2024-05-04 16:32:37,048 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-04 16:32:37,049 - INFO - Epoch: 1 |Total training time: 0h:38m:8s | Train Loss: 0.3686 | Train Balanced Accuracy: 84.8767 %
+2024-05-04 16:32:37,049 - INFO - Epoch: 1 |Total validation time:0h:21m:19s | Validation Loss: 0.2020 | Validation Balanced Accuracy: 94.8767 % 
+2024-05-04 16:32:37,049 - INFO - Epoch: 1 |Total testing time: 0h:25m:11s | Test Loss: 0.2839 | Test Balanced Accuracy: 88.4287 %
+2024-05-04 16:32:37,798 - INFO - Saved checkpoint at epoch 1: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_1.pth
+2024-05-04 17:54:15,166 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-04 17:54:15,167 - INFO - Epoch: 2 |Total training time: 0h:35m:41s | Train Loss: 0.3412 | Train Balanced Accuracy: 85.8539 %
+2024-05-04 17:54:15,167 - INFO - Epoch: 2 |Total validation time:0h:20m:35s | Validation Loss: 0.1854 | Validation Balanced Accuracy: 95.1416 % 
+2024-05-04 17:54:15,167 - INFO - Epoch: 2 |Total testing time: 0h:25m:20s | Test Loss: 0.2594 | Test Balanced Accuracy: 89.2022 %
+2024-05-04 17:54:16,066 - INFO - Saved checkpoint at epoch 2: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_2.pth
+2024-05-04 19:17:06,757 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-04 19:17:06,759 - INFO - Epoch: 3 |Total training time: 0h:35m:31s | Train Loss: 0.3264 | Train Balanced Accuracy: 86.3981 %
+2024-05-04 19:17:06,760 - INFO - Epoch: 3 |Total validation time:0h:18m:47s | Validation Loss: 0.1770 | Validation Balanced Accuracy: 95.2172 % 
+2024-05-04 19:17:06,761 - INFO - Epoch: 3 |Total testing time: 0h:28m:31s | Test Loss: 0.2528 | Test Balanced Accuracy: 89.3179 %
+2024-05-04 19:17:51,502 - INFO - Saved checkpoint at epoch 3: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_3.pth
+2024-05-04 21:00:07,665 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-04 21:00:07,666 - INFO - Epoch: 4 |Total training time: 0h:49m:40s | Train Loss: 0.3162 | Train Balanced Accuracy: 86.8046 %
+2024-05-04 21:00:07,666 - INFO - Epoch: 4 |Total validation time:0h:23m:44s | Validation Loss: 0.1705 | Validation Balanced Accuracy: 95.3056 % 
+2024-05-04 21:00:07,666 - INFO - Epoch: 4 |Total testing time: 0h:28m:51s | Test Loss: 0.2511 | Test Balanced Accuracy: 89.3052 %
+2024-05-04 21:00:08,451 - INFO - Saved checkpoint at epoch 4: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_4.pth
+2024-05-04 22:21:28,101 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-04 22:21:28,101 - INFO - Epoch: 5 |Total training time: 0h:38m:3s | Train Loss: 0.3110 | Train Balanced Accuracy: 86.9918 %
+2024-05-04 22:21:28,102 - INFO - Epoch: 5 |Total validation time:0h:20m:57s | Validation Loss: 0.1674 | Validation Balanced Accuracy: 95.3624 % 
+2024-05-04 22:21:28,102 - INFO - Epoch: 5 |Total testing time: 0h:22m:18s | Test Loss: 0.2451 | Test Balanced Accuracy: 89.3957 %
+2024-05-04 22:21:29,311 - INFO - Saved checkpoint at epoch 5: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_5.pth
+2024-05-04 23:39:04,747 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-04 23:39:04,748 - INFO - Epoch: 6 |Total training time: 0h:31m:58s | Train Loss: 0.3063 | Train Balanced Accuracy: 87.1433 %
+2024-05-04 23:39:04,748 - INFO - Epoch: 6 |Total validation time:0h:22m:58s | Validation Loss: 0.1633 | Validation Balanced Accuracy: 95.4466 % 
+2024-05-04 23:39:04,749 - INFO - Epoch: 6 |Total testing time: 0h:22m:38s | Test Loss: 0.2462 | Test Balanced Accuracy: 89.4228 %
+2024-05-04 23:39:05,856 - INFO - Saved checkpoint at epoch 6: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_6.pth
+2024-05-05 00:20:01,745 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 00:20:01,745 - INFO - Epoch: 7 |Total training time: 0h:28m:42s | Train Loss: 0.3025 | Train Balanced Accuracy: 87.2633 %
+2024-05-05 00:20:01,745 - INFO - Epoch: 7 |Total validation time:0h:5m:34s | Validation Loss: 0.1605 | Validation Balanced Accuracy: 95.4199 % 
+2024-05-05 00:20:01,746 - INFO - Epoch: 7 |Total testing time: 0h:6m:39s | Test Loss: 0.2511 | Test Balanced Accuracy: 89.2640 %
+2024-05-05 00:20:02,570 - INFO - Saved checkpoint at epoch 7: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_7.pth
+2024-05-05 01:02:25,329 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 01:02:25,330 - INFO - Epoch: 8 |Total training time: 0h:30m:41s | Train Loss: 0.2976 | Train Balanced Accuracy: 87.5925 %
+2024-05-05 01:02:25,330 - INFO - Epoch: 8 |Total validation time:0h:5m:24s | Validation Loss: 0.1588 | Validation Balanced Accuracy: 95.5272 % 
+2024-05-05 01:02:25,330 - INFO - Epoch: 8 |Total testing time: 0h:6m:16s | Test Loss: 0.2446 | Test Balanced Accuracy: 89.3996 %
+2024-05-05 01:02:26,076 - INFO - Saved checkpoint at epoch 8: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_8.pth
+2024-05-05 01:41:21,016 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 01:41:21,017 - INFO - Epoch: 9 |Total training time: 0h:26m:50s | Train Loss: 0.2962 | Train Balanced Accuracy: 87.5680 %
+2024-05-05 01:41:21,017 - INFO - Epoch: 9 |Total validation time:0h:5m:35s | Validation Loss: 0.1576 | Validation Balanced Accuracy: 95.5107 % 
+2024-05-05 01:41:21,017 - INFO - Epoch: 9 |Total testing time: 0h:6m:29s | Test Loss: 0.2436 | Test Balanced Accuracy: 89.4115 %
+2024-05-05 01:41:21,793 - INFO - Saved checkpoint at epoch 9: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_9.pth
+2024-05-05 02:21:30,318 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 02:21:30,319 - INFO - Epoch: 10 |Total training time: 0h:28m:26s | Train Loss: 0.2921 | Train Balanced Accuracy: 87.7657 %
+2024-05-05 02:21:30,319 - INFO - Epoch: 10 |Total validation time:0h:5m:26s | Validation Loss: 0.1561 | Validation Balanced Accuracy: 95.5345 % 
+2024-05-05 02:21:30,319 - INFO - Epoch: 10 |Total testing time: 0h:6m:15s | Test Loss: 0.2416 | Test Balanced Accuracy: 89.4743 %
+2024-05-05 02:21:30,978 - INFO - Saved checkpoint at epoch 10: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_10.pth
+2024-05-05 02:58:56,181 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 02:58:56,183 - INFO - Epoch: 11 |Total training time: 0h:25m:16s | Train Loss: 0.2895 | Train Balanced Accuracy: 87.9080 %
+2024-05-05 02:58:56,183 - INFO - Epoch: 11 |Total validation time:0h:5m:34s | Validation Loss: 0.1543 | Validation Balanced Accuracy: 95.5490 % 
+2024-05-05 02:58:56,183 - INFO - Epoch: 11 |Total testing time: 0h:6m:33s | Test Loss: 0.2464 | Test Balanced Accuracy: 89.4288 %
+2024-05-05 02:58:57,199 - INFO - Saved checkpoint at epoch 11: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_11.pth
+2024-05-05 03:39:35,341 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 03:39:35,342 - INFO - Epoch: 12 |Total training time: 0h:28m:56s | Train Loss: 0.2881 | Train Balanced Accuracy: 87.9377 %
+2024-05-05 03:39:35,342 - INFO - Epoch: 12 |Total validation time:0h:5m:24s | Validation Loss: 0.1548 | Validation Balanced Accuracy: 95.5240 % 
+2024-05-05 03:39:35,342 - INFO - Epoch: 12 |Total testing time: 0h:6m:17s | Test Loss: 0.2398 | Test Balanced Accuracy: 89.5605 %
+2024-05-05 03:39:36,442 - INFO - Saved checkpoint at epoch 12: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_12.pth
+2024-05-05 04:16:47,799 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 04:16:47,800 - INFO - Epoch: 13 |Total training time: 0h:25m:22s | Train Loss: 0.2872 | Train Balanced Accuracy: 87.9886 %
+2024-05-05 04:16:47,800 - INFO - Epoch: 13 |Total validation time:0h:5m:23s | Validation Loss: 0.1551 | Validation Balanced Accuracy: 95.4822 % 
+2024-05-05 04:16:47,801 - INFO - Epoch: 13 |Total testing time: 0h:6m:25s | Test Loss: 0.2384 | Test Balanced Accuracy: 89.5695 %
+2024-05-05 04:16:48,425 - INFO - Saved checkpoint at epoch 13: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_13.pth
+2024-05-05 04:56:33,320 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 04:56:33,322 - INFO - Epoch: 14 |Total training time: 0h:28m:10s | Train Loss: 0.2855 | Train Balanced Accuracy: 88.0500 %
+2024-05-05 04:56:33,323 - INFO - Epoch: 14 |Total validation time:0h:5m:22s | Validation Loss: 0.1537 | Validation Balanced Accuracy: 95.5477 % 
+2024-05-05 04:56:33,327 - INFO - Epoch: 14 |Total testing time: 0h:6m:12s | Test Loss: 0.2403 | Test Balanced Accuracy: 89.5772 %
+2024-05-05 04:57:53,890 - INFO - Saved checkpoint at epoch 14: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_14.pth
+2024-05-05 05:34:33,360 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 05:34:33,361 - INFO - Epoch: 15 |Total training time: 0h:24m:49s | Train Loss: 0.2834 | Train Balanced Accuracy: 88.2267 %
+2024-05-05 05:34:33,361 - INFO - Epoch: 15 |Total validation time:0h:5m:22s | Validation Loss: 0.1510 | Validation Balanced Accuracy: 95.5859 % 
+2024-05-05 05:34:33,361 - INFO - Epoch: 15 |Total testing time: 0h:6m:26s | Test Loss: 0.2451 | Test Balanced Accuracy: 89.5365 %
+2024-05-05 05:34:34,133 - INFO - Saved checkpoint at epoch 15: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_15.pth
+2024-05-05 06:14:33,065 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 06:14:33,066 - INFO - Epoch: 16 |Total training time: 0h:28m:32s | Train Loss: 0.2834 | Train Balanced Accuracy: 88.2071 %
+2024-05-05 06:14:33,066 - INFO - Epoch: 16 |Total validation time:0h:5m:16s | Validation Loss: 0.1512 | Validation Balanced Accuracy: 95.5842 % 
+2024-05-05 06:14:33,066 - INFO - Epoch: 16 |Total testing time: 0h:6m:9s | Test Loss: 0.2409 | Test Balanced Accuracy: 89.5702 %
+2024-05-05 06:14:34,092 - INFO - Saved checkpoint at epoch 16: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_16.pth
+2024-05-05 06:51:17,293 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 06:51:17,294 - INFO - Epoch: 17 |Total training time: 0h:24m:56s | Train Loss: 0.2828 | Train Balanced Accuracy: 88.2097 %
+2024-05-05 06:51:17,294 - INFO - Epoch: 17 |Total validation time:0h:5m:23s | Validation Loss: 0.1521 | Validation Balanced Accuracy: 95.4892 % 
+2024-05-05 06:51:17,294 - INFO - Epoch: 17 |Total testing time: 0h:6m:22s | Test Loss: 0.2378 | Test Balanced Accuracy: 89.6664 %
+2024-05-05 06:51:18,063 - INFO - Saved checkpoint at epoch 17: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_17.pth
+2024-05-05 07:31:25,911 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 07:31:25,912 - INFO - Epoch: 18 |Total training time: 0h:28m:34s | Train Loss: 0.2804 | Train Balanced Accuracy: 88.3393 %
+2024-05-05 07:31:25,912 - INFO - Epoch: 18 |Total validation time:0h:5m:23s | Validation Loss: 0.1520 | Validation Balanced Accuracy: 95.4804 % 
+2024-05-05 07:31:25,912 - INFO - Epoch: 18 |Total testing time: 0h:6m:9s | Test Loss: 0.2368 | Test Balanced Accuracy: 89.6480 %
+2024-05-05 07:31:26,582 - INFO - Saved checkpoint at epoch 18: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_18.pth
+2024-05-05 08:08:29,714 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 08:08:29,715 - INFO - Epoch: 19 |Total training time: 0h:25m:4s | Train Loss: 0.2790 | Train Balanced Accuracy: 88.3606 %
+2024-05-05 08:08:29,715 - INFO - Epoch: 19 |Total validation time:0h:5m:26s | Validation Loss: 0.1538 | Validation Balanced Accuracy: 95.2223 % 
+2024-05-05 08:08:29,715 - INFO - Epoch: 19 |Total testing time: 0h:6m:32s | Test Loss: 0.2349 | Test Balanced Accuracy: 89.6111 %
+2024-05-05 08:08:30,741 - INFO - Saved checkpoint at epoch 19: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_19.pth
+2024-05-05 08:48:33,891 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 08:48:33,892 - INFO - Epoch: 20 |Total training time: 0h:28m:26s | Train Loss: 0.2788 | Train Balanced Accuracy: 88.3474 %
+2024-05-05 08:48:33,893 - INFO - Epoch: 20 |Total validation time:0h:5m:25s | Validation Loss: 0.1522 | Validation Balanced Accuracy: 95.3997 % 
+2024-05-05 08:48:33,893 - INFO - Epoch: 20 |Total testing time: 0h:6m:10s | Test Loss: 0.2361 | Test Balanced Accuracy: 89.6852 %
+2024-05-05 08:48:34,534 - INFO - Saved checkpoint at epoch 20: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_20.pth
+2024-05-05 09:25:55,642 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 09:25:55,643 - INFO - Epoch: 21 |Total training time: 0h:25m:7s | Train Loss: 0.2773 | Train Balanced Accuracy: 88.4792 %
+2024-05-05 09:25:55,643 - INFO - Epoch: 21 |Total validation time:0h:5m:36s | Validation Loss: 0.1501 | Validation Balanced Accuracy: 95.5282 % 
+2024-05-05 09:25:55,643 - INFO - Epoch: 21 |Total testing time: 0h:6m:37s | Test Loss: 0.2372 | Test Balanced Accuracy: 89.7319 %
+2024-05-05 09:25:56,520 - INFO - Saved checkpoint at epoch 21: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_21.pth
+2024-05-05 10:04:30,959 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 10:04:30,960 - INFO - Epoch: 22 |Total training time: 0h:27m:4s | Train Loss: 0.2757 | Train Balanced Accuracy: 88.5622 %
+2024-05-05 10:04:30,960 - INFO - Epoch: 22 |Total validation time:0h:5m:21s | Validation Loss: 0.1498 | Validation Balanced Accuracy: 95.4995 % 
+2024-05-05 10:04:30,960 - INFO - Epoch: 22 |Total testing time: 0h:6m:7s | Test Loss: 0.2371 | Test Balanced Accuracy: 89.7359 %
+2024-05-05 10:04:31,911 - INFO - Saved checkpoint at epoch 22: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_22.pth
+2024-05-05 10:41:22,290 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 10:41:22,291 - INFO - Epoch: 23 |Total training time: 0h:24m:58s | Train Loss: 0.2763 | Train Balanced Accuracy: 88.5406 %
+2024-05-05 10:41:22,291 - INFO - Epoch: 23 |Total validation time:0h:5m:30s | Validation Loss: 0.1501 | Validation Balanced Accuracy: 95.4633 % 
+2024-05-05 10:41:22,291 - INFO - Epoch: 23 |Total testing time: 0h:6m:21s | Test Loss: 0.2361 | Test Balanced Accuracy: 89.7438 %
+2024-05-05 10:41:23,120 - INFO - Saved checkpoint at epoch 23: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_23.pth
+2024-05-05 11:20:07,906 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 11:20:07,907 - INFO - Epoch: 24 |Total training time: 0h:27m:11s | Train Loss: 0.2746 | Train Balanced Accuracy: 88.6488 %
+2024-05-05 11:20:07,907 - INFO - Epoch: 24 |Total validation time:0h:5m:21s | Validation Loss: 0.1470 | Validation Balanced Accuracy: 95.6517 % 
+2024-05-05 11:20:07,907 - INFO - Epoch: 24 |Total testing time: 0h:6m:11s | Test Loss: 0.2407 | Test Balanced Accuracy: 89.6865 %
+2024-05-05 11:20:08,872 - INFO - Saved checkpoint at epoch 24: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_24.pth
+2024-05-05 11:57:51,053 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 11:57:51,054 - INFO - Epoch: 25 |Total training time: 0h:25m:28s | Train Loss: 0.2748 | Train Balanced Accuracy: 88.6095 %
+2024-05-05 11:57:51,054 - INFO - Epoch: 25 |Total validation time:0h:5m:39s | Validation Loss: 0.1480 | Validation Balanced Accuracy: 95.5601 % 
+2024-05-05 11:57:51,054 - INFO - Epoch: 25 |Total testing time: 0h:6m:34s | Test Loss: 0.2377 | Test Balanced Accuracy: 89.7358 %
+2024-05-05 11:57:52,000 - INFO - Saved checkpoint at epoch 25: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_25.pth
+2024-05-05 12:36:26,360 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 12:36:26,361 - INFO - Epoch: 26 |Total training time: 0h:27m:6s | Train Loss: 0.2735 | Train Balanced Accuracy: 88.6451 %
+2024-05-05 12:36:26,362 - INFO - Epoch: 26 |Total validation time:0h:5m:19s | Validation Loss: 0.1475 | Validation Balanced Accuracy: 95.6155 % 
+2024-05-05 12:36:26,362 - INFO - Epoch: 26 |Total testing time: 0h:6m:8s | Test Loss: 0.2397 | Test Balanced Accuracy: 89.7052 %
+2024-05-05 12:36:27,937 - INFO - Saved checkpoint at epoch 26: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_26.pth
+2024-05-05 13:14:22,384 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 13:14:22,385 - INFO - Epoch: 27 |Total training time: 0h:25m:31s | Train Loss: 0.2727 | Train Balanced Accuracy: 88.7242 %
+2024-05-05 13:14:22,385 - INFO - Epoch: 27 |Total validation time:0h:5m:42s | Validation Loss: 0.1488 | Validation Balanced Accuracy: 95.4768 % 
+2024-05-05 13:14:22,385 - INFO - Epoch: 27 |Total testing time: 0h:6m:40s | Test Loss: 0.2361 | Test Balanced Accuracy: 89.7584 %
+2024-05-05 13:14:23,569 - INFO - Saved checkpoint at epoch 27: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_27.pth
+2024-05-05 13:52:15,658 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 13:52:15,659 - INFO - Epoch: 28 |Total training time: 0h:26m:23s | Train Loss: 0.2732 | Train Balanced Accuracy: 88.7499 %
+2024-05-05 13:52:15,660 - INFO - Epoch: 28 |Total validation time:0h:5m:19s | Validation Loss: 0.1471 | Validation Balanced Accuracy: 95.5755 % 
+2024-05-05 13:52:15,660 - INFO - Epoch: 28 |Total testing time: 0h:6m:8s | Test Loss: 0.2380 | Test Balanced Accuracy: 89.7767 %
+2024-05-05 13:52:17,551 - INFO - Saved checkpoint at epoch 28: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_28.pth
+2024-05-05 14:30:44,358 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 14:30:44,359 - INFO - Epoch: 29 |Total training time: 0h:26m:15s | Train Loss: 0.2713 | Train Balanced Accuracy: 88.8294 %
+2024-05-05 14:30:44,359 - INFO - Epoch: 29 |Total validation time:0h:5m:49s | Validation Loss: 0.1489 | Validation Balanced Accuracy: 95.4599 % 
+2024-05-05 14:30:44,359 - INFO - Epoch: 29 |Total testing time: 0h:6m:21s | Test Loss: 0.2361 | Test Balanced Accuracy: 89.7585 %
+2024-05-05 14:30:46,590 - INFO - Saved checkpoint at epoch 29: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_29.pth
+2024-05-05 15:09:19,832 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 15:09:19,833 - INFO - Epoch: 30 |Total training time: 0h:27m:3s | Train Loss: 0.2725 | Train Balanced Accuracy: 88.7188 %
+2024-05-05 15:09:19,833 - INFO - Epoch: 30 |Total validation time:0h:5m:15s | Validation Loss: 0.1479 | Validation Balanced Accuracy: 95.5199 % 
+2024-05-05 15:09:19,833 - INFO - Epoch: 30 |Total testing time: 0h:6m:14s | Test Loss: 0.2364 | Test Balanced Accuracy: 89.8161 %
+2024-05-05 15:09:23,454 - INFO - Saved checkpoint at epoch 30: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_30.pth
+2024-05-05 15:48:32,855 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 15:48:32,856 - INFO - Epoch: 31 |Total training time: 0h:27m:28s | Train Loss: 0.2707 | Train Balanced Accuracy: 88.7787 %
+2024-05-05 15:48:32,856 - INFO - Epoch: 31 |Total validation time:0h:5m:25s | Validation Loss: 0.1466 | Validation Balanced Accuracy: 95.6244 % 
+2024-05-05 15:48:32,856 - INFO - Epoch: 31 |Total testing time: 0h:6m:15s | Test Loss: 0.2394 | Test Balanced Accuracy: 89.7522 %
+2024-05-05 15:48:33,960 - INFO - Saved checkpoint at epoch 31: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_31.pth
+2024-05-05 16:27:30,757 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 16:27:30,758 - INFO - Epoch: 32 |Total training time: 0h:27m:8s | Train Loss: 0.2702 | Train Balanced Accuracy: 88.7636 %
+2024-05-05 16:27:30,758 - INFO - Epoch: 32 |Total validation time:0h:5m:25s | Validation Loss: 0.1465 | Validation Balanced Accuracy: 95.5742 % 
+2024-05-05 16:27:30,758 - INFO - Epoch: 32 |Total testing time: 0h:6m:22s | Test Loss: 0.2361 | Test Balanced Accuracy: 89.8170 %
+2024-05-05 16:27:31,872 - INFO - Saved checkpoint at epoch 32: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_32.pth
+2024-05-05 17:07:03,451 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 17:07:03,452 - INFO - Epoch: 33 |Total training time: 0h:27m:41s | Train Loss: 0.2691 | Train Balanced Accuracy: 88.9022 %
+2024-05-05 17:07:03,452 - INFO - Epoch: 33 |Total validation time:0h:5m:28s | Validation Loss: 0.1467 | Validation Balanced Accuracy: 95.5225 % 
+2024-05-05 17:07:03,452 - INFO - Epoch: 33 |Total testing time: 0h:6m:21s | Test Loss: 0.2362 | Test Balanced Accuracy: 89.8376 %
+2024-05-05 17:07:05,487 - INFO - Saved checkpoint at epoch 33: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_33.pth
+2024-05-05 17:45:50,429 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 17:45:50,431 - INFO - Epoch: 34 |Total training time: 0h:27m:15s | Train Loss: 0.2692 | Train Balanced Accuracy: 88.9239 %
+2024-05-05 17:45:50,431 - INFO - Epoch: 34 |Total validation time:0h:5m:17s | Validation Loss: 0.1471 | Validation Balanced Accuracy: 95.5059 % 
+2024-05-05 17:45:50,431 - INFO - Epoch: 34 |Total testing time: 0h:6m:11s | Test Loss: 0.2373 | Test Balanced Accuracy: 89.8306 %
+2024-05-05 17:45:51,718 - INFO - Saved checkpoint at epoch 34: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_34.pth
+2024-05-05 18:23:56,059 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 18:23:56,060 - INFO - Epoch: 35 |Total training time: 0h:26m:31s | Train Loss: 0.2692 | Train Balanced Accuracy: 88.9203 %
+2024-05-05 18:23:56,060 - INFO - Epoch: 35 |Total validation time:0h:5m:22s | Validation Loss: 0.1470 | Validation Balanced Accuracy: 95.4979 % 
+2024-05-05 18:23:56,060 - INFO - Epoch: 35 |Total testing time: 0h:6m:10s | Test Loss: 0.2351 | Test Balanced Accuracy: 89.8523 %
+2024-05-05 18:23:58,783 - INFO - Saved checkpoint at epoch 35: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_35.pth
+2024-05-05 19:01:54,415 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 19:01:54,416 - INFO - Epoch: 36 |Total training time: 0h:26m:19s | Train Loss: 0.2701 | Train Balanced Accuracy: 88.8507 %
+2024-05-05 19:01:54,417 - INFO - Epoch: 36 |Total validation time:0h:5m:22s | Validation Loss: 0.1461 | Validation Balanced Accuracy: 95.5888 % 
+2024-05-05 19:01:54,417 - INFO - Epoch: 36 |Total testing time: 0h:6m:13s | Test Loss: 0.2392 | Test Balanced Accuracy: 89.7864 %
+2024-05-05 19:01:56,240 - INFO - Saved checkpoint at epoch 36: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_36.pth
+2024-05-05 19:39:52,803 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 19:39:52,804 - INFO - Epoch: 37 |Total training time: 0h:26m:17s | Train Loss: 0.2681 | Train Balanced Accuracy: 88.9265 %
+2024-05-05 19:39:52,804 - INFO - Epoch: 37 |Total validation time:0h:5m:24s | Validation Loss: 0.1475 | Validation Balanced Accuracy: 95.4081 % 
+2024-05-05 19:39:52,804 - INFO - Epoch: 37 |Total testing time: 0h:6m:14s | Test Loss: 0.2341 | Test Balanced Accuracy: 89.8661 %
+2024-05-05 19:39:55,503 - INFO - Saved checkpoint at epoch 37: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_37.pth
+2024-05-05 20:17:53,379 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 20:17:53,379 - INFO - Epoch: 38 |Total training time: 0h:26m:18s | Train Loss: 0.2690 | Train Balanced Accuracy: 88.8434 %
+2024-05-05 20:17:53,380 - INFO - Epoch: 38 |Total validation time:0h:5m:24s | Validation Loss: 0.1466 | Validation Balanced Accuracy: 95.4999 % 
+2024-05-05 20:17:53,380 - INFO - Epoch: 38 |Total testing time: 0h:6m:15s | Test Loss: 0.2345 | Test Balanced Accuracy: 89.8895 %
+2024-05-05 20:17:54,355 - INFO - Saved checkpoint at epoch 38: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_38.pth
+2024-05-05 21:03:38,954 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 21:03:38,955 - INFO - Epoch: 39 |Total training time: 0h:33m:47s | Train Loss: 0.2683 | Train Balanced Accuracy: 88.9474 %
+2024-05-05 21:03:38,955 - INFO - Epoch: 39 |Total validation time:0h:5m:47s | Validation Loss: 0.1465 | Validation Balanced Accuracy: 95.5035 % 
+2024-05-05 21:03:38,955 - INFO - Epoch: 39 |Total testing time: 0h:6m:8s | Test Loss: 0.2364 | Test Balanced Accuracy: 89.9001 %
+2024-05-05 21:03:41,230 - INFO - Saved checkpoint at epoch 39: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_39.pth
+2024-05-05 21:48:14,924 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 21:48:14,925 - INFO - Epoch: 40 |Total training time: 0h:28m:18s | Train Loss: 0.2671 | Train Balanced Accuracy: 88.9815 %
+2024-05-05 21:48:14,925 - INFO - Epoch: 40 |Total validation time:0h:8m:4s | Validation Loss: 0.1461 | Validation Balanced Accuracy: 95.5379 % 
+2024-05-05 21:48:14,925 - INFO - Epoch: 40 |Total testing time: 0h:8m:10s | Test Loss: 0.2374 | Test Balanced Accuracy: 89.8687 %
+2024-05-05 21:48:16,238 - INFO - Saved checkpoint at epoch 40: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_40.pth
+2024-05-05 22:33:05,522 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 22:33:05,523 - INFO - Epoch: 41 |Total training time: 0h:32m:45s | Train Loss: 0.2668 | Train Balanced Accuracy: 88.9418 %
+2024-05-05 22:33:05,523 - INFO - Epoch: 41 |Total validation time:0h:5m:32s | Validation Loss: 0.1450 | Validation Balanced Accuracy: 95.5722 % 
+2024-05-05 22:33:05,523 - INFO - Epoch: 41 |Total testing time: 0h:6m:31s | Test Loss: 0.2357 | Test Balanced Accuracy: 89.9070 %
+2024-05-05 22:33:09,133 - INFO - Saved checkpoint at epoch 41: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_41.pth
+2024-05-05 23:26:13,938 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-05 23:26:13,939 - INFO - Epoch: 42 |Total training time: 0h:31m:53s | Train Loss: 0.2689 | Train Balanced Accuracy: 88.8618 %
+2024-05-05 23:26:13,939 - INFO - Epoch: 42 |Total validation time:0h:5m:55s | Validation Loss: 0.1456 | Validation Balanced Accuracy: 95.4727 % 
+2024-05-05 23:26:13,939 - INFO - Epoch: 42 |Total testing time: 0h:15m:15s | Test Loss: 0.2339 | Test Balanced Accuracy: 89.8916 %
+2024-05-05 23:26:18,270 - INFO - Saved checkpoint at epoch 42: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_42.pth
+2024-05-06 00:07:15,507 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-06 00:07:15,508 - INFO - Epoch: 43 |Total training time: 0h:27m:39s | Train Loss: 0.2678 | Train Balanced Accuracy: 88.9137 %
+2024-05-06 00:07:15,508 - INFO - Epoch: 43 |Total validation time:0h:5m:36s | Validation Loss: 0.1454 | Validation Balanced Accuracy: 95.5798 % 
+2024-05-06 00:07:15,508 - INFO - Epoch: 43 |Total testing time: 0h:7m:41s | Test Loss: 0.2373 | Test Balanced Accuracy: 89.8657 %
+2024-05-06 00:07:17,764 - INFO - Saved checkpoint at epoch 43: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_43.pth
+2024-05-06 00:52:48,553 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-06 00:52:48,554 - INFO - Epoch: 44 |Total training time: 0h:32m:56s | Train Loss: 0.2670 | Train Balanced Accuracy: 88.9589 %
+2024-05-06 00:52:48,554 - INFO - Epoch: 44 |Total validation time:0h:5m:48s | Validation Loss: 0.1469 | Validation Balanced Accuracy: 95.3560 % 
+2024-05-06 00:52:48,554 - INFO - Epoch: 44 |Total testing time: 0h:6m:45s | Test Loss: 0.2327 | Test Balanced Accuracy: 89.8711 %
+2024-05-06 00:52:50,704 - INFO - Saved checkpoint at epoch 44: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_44.pth
+2024-05-06 01:32:05,241 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-06 01:32:05,242 - INFO - Epoch: 45 |Total training time: 0h:27m:18s | Train Loss: 0.2653 | Train Balanced Accuracy: 89.0565 %
+2024-05-06 01:32:05,242 - INFO - Epoch: 45 |Total validation time:0h:5m:24s | Validation Loss: 0.1461 | Validation Balanced Accuracy: 95.3858 % 
+2024-05-06 01:32:05,242 - INFO - Epoch: 45 |Total testing time: 0h:6m:31s | Test Loss: 0.2324 | Test Balanced Accuracy: 89.8712 %
+2024-05-06 01:32:09,565 - INFO - Saved checkpoint at epoch 45: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_45.pth
+2024-05-06 02:11:48,513 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-06 02:11:48,514 - INFO - Epoch: 46 |Total training time: 0h:27m:31s | Train Loss: 0.2680 | Train Balanced Accuracy: 88.9226 %
+2024-05-06 02:11:48,514 - INFO - Epoch: 46 |Total validation time:0h:5m:36s | Validation Loss: 0.1454 | Validation Balanced Accuracy: 95.4858 % 
+2024-05-06 02:11:48,514 - INFO - Epoch: 46 |Total testing time: 0h:6m:31s | Test Loss: 0.2339 | Test Balanced Accuracy: 89.9384 %
+2024-05-06 02:11:51,282 - INFO - Saved checkpoint at epoch 46: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_46.pth
+2024-05-06 02:51:02,952 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-06 02:51:02,954 - INFO - Epoch: 47 |Total training time: 0h:27m:33s | Train Loss: 0.2655 | Train Balanced Accuracy: 89.0344 %
+2024-05-06 02:51:02,954 - INFO - Epoch: 47 |Total validation time:0h:5m:23s | Validation Loss: 0.1464 | Validation Balanced Accuracy: 95.3658 % 
+2024-05-06 02:51:02,954 - INFO - Epoch: 47 |Total testing time: 0h:6m:14s | Test Loss: 0.2326 | Test Balanced Accuracy: 89.9278 %
+2024-05-06 02:51:03,727 - INFO - Saved checkpoint at epoch 47: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_47.pth
+2024-05-06 03:34:05,127 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-06 03:34:05,128 - INFO - Epoch: 48 |Total training time: 0h:29m:25s | Train Loss: 0.2674 | Train Balanced Accuracy: 89.0191 %
+2024-05-06 03:34:05,128 - INFO - Epoch: 48 |Total validation time:0h:6m:2s | Validation Loss: 0.1444 | Validation Balanced Accuracy: 95.5909 % 
+2024-05-06 03:34:05,128 - INFO - Epoch: 48 |Total testing time: 0h:7m:34s | Test Loss: 0.2353 | Test Balanced Accuracy: 89.9460 %
+2024-05-06 03:34:06,331 - INFO - Saved checkpoint at epoch 48: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_48.pth
+2024-05-06 04:16:27,211 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-06 04:16:27,212 - INFO - Epoch: 49 |Total training time: 0h:30m:4s | Train Loss: 0.2656 | Train Balanced Accuracy: 89.0038 %
+2024-05-06 04:16:27,212 - INFO - Epoch: 49 |Total validation time:0h:5m:36s | Validation Loss: 0.1464 | Validation Balanced Accuracy: 95.3242 % 
+2024-05-06 04:16:27,212 - INFO - Epoch: 49 |Total testing time: 0h:6m:40s | Test Loss: 0.2318 | Test Balanced Accuracy: 89.9348 %
+2024-05-06 04:16:28,717 - INFO - Saved checkpoint at epoch 49: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_49.pth
+2024-05-06 05:06:05,327 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-06 05:06:05,328 - INFO - Epoch: 50 |Total training time: 0h:37m:45s | Train Loss: 0.2653 | Train Balanced Accuracy: 89.0592 %
+2024-05-06 05:06:05,328 - INFO - Epoch: 50 |Total validation time:0h:5m:28s | Validation Loss: 0.1457 | Validation Balanced Accuracy: 95.4865 % 
+2024-05-06 05:06:05,328 - INFO - Epoch: 50 |Total testing time: 0h:6m:22s | Test Loss: 0.2360 | Test Balanced Accuracy: 89.9285 %
+2024-05-06 05:06:06,302 - INFO - Saved checkpoint at epoch 50: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_50.pth
+2024-05-06 05:46:06,274 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-06 05:46:06,275 - INFO - Epoch: 51 |Total training time: 0h:27m:41s | Train Loss: 0.2660 | Train Balanced Accuracy: 89.0180 %
+2024-05-06 05:46:06,275 - INFO - Epoch: 51 |Total validation time:0h:5m:30s | Validation Loss: 0.1448 | Validation Balanced Accuracy: 95.5494 % 
+2024-05-06 05:46:06,275 - INFO - Epoch: 51 |Total testing time: 0h:6m:47s | Test Loss: 0.2350 | Test Balanced Accuracy: 89.9520 %
+2024-05-06 05:46:08,918 - INFO - Saved checkpoint at epoch 51: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_51.pth
+2024-05-06 06:30:30,512 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-06 06:30:30,513 - INFO - Epoch: 52 |Total training time: 0h:32m:9s | Train Loss: 0.2658 | Train Balanced Accuracy: 89.0462 %
+2024-05-06 06:30:30,513 - INFO - Epoch: 52 |Total validation time:0h:5m:52s | Validation Loss: 0.1467 | Validation Balanced Accuracy: 95.2441 % 
+2024-05-06 06:30:30,513 - INFO - Epoch: 52 |Total testing time: 0h:6m:19s | Test Loss: 0.2296 | Test Balanced Accuracy: 89.8978 %
+2024-05-06 06:30:34,570 - INFO - Saved checkpoint at epoch 52: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_52.pth
+2024-05-06 07:08:37,879 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-06 07:08:37,880 - INFO - Epoch: 53 |Total training time: 0h:26m:42s | Train Loss: 0.2640 | Train Balanced Accuracy: 89.1873 %
+2024-05-06 07:08:37,880 - INFO - Epoch: 53 |Total validation time:0h:5m:11s | Validation Loss: 0.1438 | Validation Balanced Accuracy: 95.5721 % 
+2024-05-06 07:08:37,880 - INFO - Epoch: 53 |Total testing time: 0h:6m:9s | Test Loss: 0.2352 | Test Balanced Accuracy: 89.9412 %
+2024-05-06 07:08:40,897 - INFO - Saved checkpoint at epoch 53: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_53.pth
+2024-05-06 07:49:18,310 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-06 07:49:18,311 - INFO - Epoch: 54 |Total training time: 0h:29m:4s | Train Loss: 0.2658 | Train Balanced Accuracy: 89.0089 %
+2024-05-06 07:49:18,311 - INFO - Epoch: 54 |Total validation time:0h:5m:22s | Validation Loss: 0.1472 | Validation Balanced Accuracy: 95.2432 % 
+2024-05-06 07:49:18,311 - INFO - Epoch: 54 |Total testing time: 0h:6m:9s | Test Loss: 0.2305 | Test Balanced Accuracy: 89.9368 %
+2024-05-06 07:49:20,593 - INFO - Saved checkpoint at epoch 54: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_54.pth
+2024-05-06 08:30:13,027 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-06 08:30:13,028 - INFO - Epoch: 55 |Total training time: 0h:28m:20s | Train Loss: 0.2631 | Train Balanced Accuracy: 89.1292 %
+2024-05-06 08:30:13,028 - INFO - Epoch: 55 |Total validation time:0h:5m:26s | Validation Loss: 0.1450 | Validation Balanced Accuracy: 95.4406 % 
+2024-05-06 08:30:13,028 - INFO - Epoch: 55 |Total testing time: 0h:7m:4s | Test Loss: 0.2336 | Test Balanced Accuracy: 89.9677 %
+2024-05-06 08:30:15,056 - INFO - Saved checkpoint at epoch 55: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_55.pth
+2024-05-06 09:47:57,176 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-06 09:47:57,177 - INFO - Epoch: 56 |Total training time: 0h:29m:56s | Train Loss: 0.2633 | Train Balanced Accuracy: 89.1546 %
+2024-05-06 09:47:57,177 - INFO - Epoch: 56 |Total validation time:0h:22m:57s | Validation Loss: 0.1459 | Validation Balanced Accuracy: 95.3714 % 
+2024-05-06 09:47:57,178 - INFO - Epoch: 56 |Total testing time: 0h:24m:48s | Test Loss: 0.2317 | Test Balanced Accuracy: 89.9670 %
+2024-05-06 09:47:58,792 - INFO - Saved checkpoint at epoch 56: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_56.pth
+2024-05-06 11:44:37,738 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-06 11:44:37,738 - INFO - Epoch: 57 |Total training time: 1h:5m:33s | Train Loss: 0.2644 | Train Balanced Accuracy: 89.1687 %
+2024-05-06 11:44:37,738 - INFO - Epoch: 57 |Total validation time:0h:20m:44s | Validation Loss: 0.1453 | Validation Balanced Accuracy: 95.4015 % 
+2024-05-06 11:44:37,738 - INFO - Epoch: 57 |Total testing time: 0h:30m:20s | Test Loss: 0.2320 | Test Balanced Accuracy: 89.9542 %
+2024-05-06 11:44:39,920 - INFO - Saved checkpoint at epoch 57: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_57.pth
+2024-05-06 13:34:47,682 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-06 13:34:47,683 - INFO - Epoch: 58 |Total training time: 0h:58m:16s | Train Loss: 0.2624 | Train Balanced Accuracy: 89.1371 %
+2024-05-06 13:34:47,683 - INFO - Epoch: 58 |Total validation time:0h:21m:22s | Validation Loss: 0.1450 | Validation Balanced Accuracy: 95.4784 % 
+2024-05-06 13:34:47,683 - INFO - Epoch: 58 |Total testing time: 0h:30m:28s | Test Loss: 0.2334 | Test Balanced Accuracy: 89.9863 %
+2024-05-06 13:34:49,298 - INFO - Saved checkpoint at epoch 58: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_58.pth
+2024-05-06 15:23:47,388 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-06 15:23:47,389 - INFO - Epoch: 59 |Total training time: 0h:55m:48s | Train Loss: 0.2632 | Train Balanced Accuracy: 89.1545 %
+2024-05-06 15:23:47,389 - INFO - Epoch: 59 |Total validation time:0h:20m:5s | Validation Loss: 0.1449 | Validation Balanced Accuracy: 95.4278 % 
+2024-05-06 15:23:47,389 - INFO - Epoch: 59 |Total testing time: 0h:33m:4s | Test Loss: 0.2323 | Test Balanced Accuracy: 89.9991 %
+2024-05-06 15:23:48,739 - INFO - Saved checkpoint at epoch 59: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_59.pth
+2024-05-06 17:05:47,070 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-06 17:05:47,071 - INFO - Epoch: 60 |Total training time: 0h:52m:22s | Train Loss: 0.2648 | Train Balanced Accuracy: 89.0855 %
+2024-05-06 17:05:47,071 - INFO - Epoch: 60 |Total validation time:0h:20m:57s | Validation Loss: 0.1448 | Validation Balanced Accuracy: 95.4688 % 
+2024-05-06 17:05:47,071 - INFO - Epoch: 60 |Total testing time: 0h:28m:38s | Test Loss: 0.2334 | Test Balanced Accuracy: 89.9804 %
+2024-05-06 17:05:48,265 - INFO - Saved checkpoint at epoch 60: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_60.pth
+2024-05-06 18:39:34,103 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-06 18:39:34,104 - INFO - Epoch: 61 |Total training time: 0h:49m:8s | Train Loss: 0.2633 | Train Balanced Accuracy: 89.1488 %
+2024-05-06 18:39:34,104 - INFO - Epoch: 61 |Total validation time:0h:19m:59s | Validation Loss: 0.1455 | Validation Balanced Accuracy: 95.3199 % 
+2024-05-06 18:39:34,104 - INFO - Epoch: 61 |Total testing time: 0h:24m:38s | Test Loss: 0.2297 | Test Balanced Accuracy: 89.9329 %
+2024-05-06 18:39:35,845 - INFO - Saved checkpoint at epoch 61: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_61.pth
+2024-05-06 20:11:39,187 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-06 20:11:39,188 - INFO - Epoch: 62 |Total training time: 0h:47m:6s | Train Loss: 0.2639 | Train Balanced Accuracy: 89.1349 %
+2024-05-06 20:11:39,188 - INFO - Epoch: 62 |Total validation time:0h:20m:18s | Validation Loss: 0.1442 | Validation Balanced Accuracy: 95.5537 % 
+2024-05-06 20:11:39,188 - INFO - Epoch: 62 |Total testing time: 0h:24m:38s | Test Loss: 0.2339 | Test Balanced Accuracy: 89.9911 %
+2024-05-06 20:11:41,650 - INFO - Saved checkpoint at epoch 62: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_62.pth
+2024-05-06 21:36:11,361 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-06 21:36:11,362 - INFO - Epoch: 63 |Total training time: 0h:41m:55s | Train Loss: 0.2636 | Train Balanced Accuracy: 89.1379 %
+2024-05-06 21:36:11,362 - INFO - Epoch: 63 |Total validation time:0h:20m:35s | Validation Loss: 0.1454 | Validation Balanced Accuracy: 95.3928 % 
+2024-05-06 21:36:11,362 - INFO - Epoch: 63 |Total testing time: 0h:21m:59s | Test Loss: 0.2327 | Test Balanced Accuracy: 89.9873 %
+2024-05-06 21:36:12,593 - INFO - Saved checkpoint at epoch 63: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_63.pth
+2024-05-06 22:58:31,439 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-06 22:58:31,440 - INFO - Epoch: 64 |Total training time: 0h:39m:48s | Train Loss: 0.2618 | Train Balanced Accuracy: 89.2191 %
+2024-05-06 22:58:31,440 - INFO - Epoch: 64 |Total validation time:0h:20m:47s | Validation Loss: 0.1461 | Validation Balanced Accuracy: 95.2518 % 
+2024-05-06 22:58:31,440 - INFO - Epoch: 64 |Total testing time: 0h:21m:43s | Test Loss: 0.2295 | Test Balanced Accuracy: 89.9525 %
+2024-05-06 22:58:34,790 - INFO - Saved checkpoint at epoch 64: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_64.pth
+2024-05-07 00:26:50,444 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-07 00:26:50,445 - INFO - Epoch: 65 |Total training time: 0h:42m:43s | Train Loss: 0.2618 | Train Balanced Accuracy: 89.2099 %
+2024-05-07 00:26:50,445 - INFO - Epoch: 65 |Total validation time:0h:20m:50s | Validation Loss: 0.1463 | Validation Balanced Accuracy: 95.2375 % 
+2024-05-07 00:26:50,445 - INFO - Epoch: 65 |Total testing time: 0h:24m:41s | Test Loss: 0.2295 | Test Balanced Accuracy: 89.9349 %
+2024-05-07 00:26:56,109 - INFO - Saved checkpoint at epoch 65: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_65.pth
+2024-05-07 01:47:26,900 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-07 01:47:26,901 - INFO - Epoch: 66 |Total training time: 0h:35m:26s | Train Loss: 0.2632 | Train Balanced Accuracy: 89.1633 %
+2024-05-07 01:47:26,901 - INFO - Epoch: 66 |Total validation time:0h:20m:1s | Validation Loss: 0.1442 | Validation Balanced Accuracy: 95.5499 % 
+2024-05-07 01:47:26,901 - INFO - Epoch: 66 |Total testing time: 0h:25m:2s | Test Loss: 0.2350 | Test Balanced Accuracy: 89.9657 %
+2024-05-07 01:47:36,162 - INFO - Saved checkpoint at epoch 66: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_66.pth
+2024-05-07 03:24:44,961 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-07 03:24:44,962 - INFO - Epoch: 67 |Total training time: 0h:43m:19s | Train Loss: 0.2615 | Train Balanced Accuracy: 89.2447 %
+2024-05-07 03:24:44,962 - INFO - Epoch: 67 |Total validation time:0h:21m:49s | Validation Loss: 0.1438 | Validation Balanced Accuracy: 95.5499 % 
+2024-05-07 03:24:44,962 - INFO - Epoch: 67 |Total testing time: 0h:31m:59s | Test Loss: 0.2341 | Test Balanced Accuracy: 89.9979 %
+2024-05-07 03:24:49,768 - INFO - Saved checkpoint at epoch 67: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_67.pth
+2024-05-07 04:30:07,078 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-07 04:30:07,079 - INFO - Epoch: 68 |Total training time: 0h:39m:11s | Train Loss: 0.2634 | Train Balanced Accuracy: 89.1168 %
+2024-05-07 04:30:07,081 - INFO - Epoch: 68 |Total validation time:0h:15m:28s | Validation Loss: 0.1448 | Validation Balanced Accuracy: 95.3524 % 
+2024-05-07 04:30:07,081 - INFO - Epoch: 68 |Total testing time: 0h:10m:36s | Test Loss: 0.2309 | Test Balanced Accuracy: 89.9953 %
+2024-05-07 04:30:14,232 - INFO - Saved checkpoint at epoch 68: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_68.pth
+2024-05-07 05:29:35,310 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-07 05:29:35,311 - INFO - Epoch: 69 |Total training time: 0h:36m:27s | Train Loss: 0.2609 | Train Balanced Accuracy: 89.3013 %
+2024-05-07 05:29:35,313 - INFO - Epoch: 69 |Total validation time:0h:15m:34s | Validation Loss: 0.1454 | Validation Balanced Accuracy: 95.3475 % 
+2024-05-07 05:29:35,313 - INFO - Epoch: 69 |Total testing time: 0h:7m:18s | Test Loss: 0.2304 | Test Balanced Accuracy: 89.9866 %
+2024-05-07 05:29:36,687 - INFO - Saved checkpoint at epoch 69: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_69.pth
+2024-05-07 06:07:04,212 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-07 06:07:04,213 - INFO - Epoch: 70 |Total training time: 0h:26m:12s | Train Loss: 0.2620 | Train Balanced Accuracy: 89.1880 %
+2024-05-07 06:07:04,213 - INFO - Epoch: 70 |Total validation time:0h:5m:12s | Validation Loss: 0.1451 | Validation Balanced Accuracy: 95.3709 % 
+2024-05-07 06:07:04,215 - INFO - Epoch: 70 |Total testing time: 0h:6m:2s | Test Loss: 0.2303 | Test Balanced Accuracy: 90.0071 %
+2024-05-07 06:07:10,452 - INFO - Saved checkpoint at epoch 70: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_70.pth
+2024-05-07 06:43:17,669 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-07 06:43:17,669 - INFO - Epoch: 71 |Total training time: 0h:24m:42s | Train Loss: 0.2622 | Train Balanced Accuracy: 89.1623 %
+2024-05-07 06:43:17,672 - INFO - Epoch: 71 |Total validation time:0h:5m:16s | Validation Loss: 0.1447 | Validation Balanced Accuracy: 95.3846 % 
+2024-05-07 06:43:17,672 - INFO - Epoch: 71 |Total testing time: 0h:6m:8s | Test Loss: 0.2321 | Test Balanced Accuracy: 90.0235 %
+2024-05-07 06:43:22,092 - INFO - Saved checkpoint at epoch 71: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_71.pth
+2024-05-07 07:22:46,138 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-07 07:22:46,139 - INFO - Epoch: 72 |Total training time: 0h:26m:15s | Train Loss: 0.2629 | Train Balanced Accuracy: 89.2009 %
+2024-05-07 07:22:46,139 - INFO - Epoch: 72 |Total validation time:0h:6m:4s | Validation Loss: 0.1452 | Validation Balanced Accuracy: 95.3203 % 
+2024-05-07 07:22:46,141 - INFO - Epoch: 72 |Total testing time: 0h:7m:4s | Test Loss: 0.2303 | Test Balanced Accuracy: 90.0130 %
+2024-05-07 07:22:47,975 - INFO - Saved checkpoint at epoch 72: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_72.pth
+2024-05-07 07:59:50,205 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-07 07:59:50,205 - INFO - Epoch: 73 |Total training time: 0h:25m:44s | Train Loss: 0.2609 | Train Balanced Accuracy: 89.2669 %
+2024-05-07 07:59:50,208 - INFO - Epoch: 73 |Total validation time:0h:5m:10s | Validation Loss: 0.1459 | Validation Balanced Accuracy: 95.2001 % 
+2024-05-07 07:59:50,208 - INFO - Epoch: 73 |Total testing time: 0h:6m:7s | Test Loss: 0.2283 | Test Balanced Accuracy: 89.9379 %
+2024-05-07 07:59:51,435 - INFO - Saved checkpoint at epoch 73: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_73.pth
+2024-05-07 08:35:00,336 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-07 08:35:00,336 - INFO - Epoch: 74 |Total training time: 0h:23m:38s | Train Loss: 0.2606 | Train Balanced Accuracy: 89.3088 %
+2024-05-07 08:35:00,337 - INFO - Epoch: 74 |Total validation time:0h:5m:21s | Validation Loss: 0.1455 | Validation Balanced Accuracy: 95.3020 % 
+2024-05-07 08:35:00,337 - INFO - Epoch: 74 |Total testing time: 0h:6m:9s | Test Loss: 0.2298 | Test Balanced Accuracy: 89.9690 %
+2024-05-07 08:35:05,872 - INFO - Saved checkpoint at epoch 74: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_74.pth
+2024-05-07 09:11:13,345 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-07 09:11:13,346 - INFO - Epoch: 75 |Total training time: 0h:23m:21s | Train Loss: 0.2619 | Train Balanced Accuracy: 89.2315 %
+2024-05-07 09:11:13,514 - INFO - Epoch: 75 |Total validation time:0h:5m:22s | Validation Loss: 0.1438 | Validation Balanced Accuracy: 95.4686 % 
+2024-05-07 09:11:13,515 - INFO - Epoch: 75 |Total testing time: 0h:7m:22s | Test Loss: 0.2335 | Test Balanced Accuracy: 90.0058 %
+2024-05-07 09:11:24,218 - INFO - Saved checkpoint at epoch 75: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_75.pth
+2024-05-07 09:53:07,674 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-07 09:53:07,674 - INFO - Epoch: 76 |Total training time: 0h:27m:49s | Train Loss: 0.2603 | Train Balanced Accuracy: 89.3422 %
+2024-05-07 09:53:07,674 - INFO - Epoch: 76 |Total validation time:0h:6m:30s | Validation Loss: 0.1454 | Validation Balanced Accuracy: 95.2992 % 
+2024-05-07 09:53:07,677 - INFO - Epoch: 76 |Total testing time: 0h:7m:23s | Test Loss: 0.2297 | Test Balanced Accuracy: 89.9925 %
+2024-05-07 09:53:11,214 - INFO - Saved checkpoint at epoch 76: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_76.pth
+2024-05-07 10:38:40,479 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-07 10:38:40,480 - INFO - Epoch: 77 |Total training time: 0h:27m:43s | Train Loss: 0.2609 | Train Balanced Accuracy: 89.2971 %
+2024-05-07 10:38:40,480 - INFO - Epoch: 77 |Total validation time:0h:6m:26s | Validation Loss: 0.1432 | Validation Balanced Accuracy: 95.5499 % 
+2024-05-07 10:38:40,480 - INFO - Epoch: 77 |Total testing time: 0h:11m:18s | Test Loss: 0.2332 | Test Balanced Accuracy: 90.0205 %
+2024-05-07 10:38:44,948 - INFO - Saved checkpoint at epoch 77: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_77.pth
+2024-05-07 11:23:11,616 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-07 11:23:11,617 - INFO - Epoch: 78 |Total training time: 0h:29m:16s | Train Loss: 0.2610 | Train Balanced Accuracy: 89.2318 %
+2024-05-07 11:23:11,617 - INFO - Epoch: 78 |Total validation time:0h:7m:0s | Validation Loss: 0.1430 | Validation Balanced Accuracy: 95.5646 % 
+2024-05-07 11:23:11,617 - INFO - Epoch: 78 |Total testing time: 0h:8m:9s | Test Loss: 0.2339 | Test Balanced Accuracy: 90.0087 %
+2024-05-07 11:23:14,573 - INFO - Saved checkpoint at epoch 78: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_78.pth
+2024-05-07 12:05:33,742 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-07 12:05:33,743 - INFO - Epoch: 79 |Total training time: 0h:28m:40s | Train Loss: 0.2616 | Train Balanced Accuracy: 89.2857 %
+2024-05-07 12:05:33,743 - INFO - Epoch: 79 |Total validation time:0h:6m:26s | Validation Loss: 0.1451 | Validation Balanced Accuracy: 95.2934 % 
+2024-05-07 12:05:33,743 - INFO - Epoch: 79 |Total testing time: 0h:7m:12s | Test Loss: 0.2299 | Test Balanced Accuracy: 89.9915 %
+2024-05-07 12:05:37,128 - INFO - Saved checkpoint at epoch 79: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_79.pth
+2024-05-07 12:47:23,484 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-07 12:47:23,485 - INFO - Epoch: 80 |Total training time: 0h:28m:2s | Train Loss: 0.2613 | Train Balanced Accuracy: 89.1745 %
+2024-05-07 12:47:23,485 - INFO - Epoch: 80 |Total validation time:0h:6m:31s | Validation Loss: 0.1450 | Validation Balanced Accuracy: 95.3229 % 
+2024-05-07 12:47:23,486 - INFO - Epoch: 80 |Total testing time: 0h:7m:12s | Test Loss: 0.2302 | Test Balanced Accuracy: 90.0403 %
+2024-05-07 12:47:24,784 - INFO - Saved checkpoint at epoch 80: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_80.pth
+2024-05-07 13:26:24,896 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-07 13:26:24,896 - INFO - Epoch: 81 |Total training time: 0h:24m:25s | Train Loss: 0.2589 | Train Balanced Accuracy: 89.3736 %
+2024-05-07 13:26:24,897 - INFO - Epoch: 81 |Total validation time:0h:6m:29s | Validation Loss: 0.1437 | Validation Balanced Accuracy: 95.4043 % 
+2024-05-07 13:26:24,897 - INFO - Epoch: 81 |Total testing time: 0h:8m:4s | Test Loss: 0.2328 | Test Balanced Accuracy: 90.0205 %
+2024-05-07 13:26:29,150 - INFO - Saved checkpoint at epoch 81: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_81.pth
+2024-05-07 14:37:05,191 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-07 14:37:05,193 - INFO - Epoch: 82 |Total training time: 0h:53m:43s | Train Loss: 0.2586 | Train Balanced Accuracy: 89.4280 %
+2024-05-07 14:37:05,195 - INFO - Epoch: 82 |Total validation time:0h:8m:50s | Validation Loss: 0.1447 | Validation Balanced Accuracy: 95.3227 % 
+2024-05-07 14:37:05,195 - INFO - Epoch: 82 |Total testing time: 0h:8m:1s | Test Loss: 0.2302 | Test Balanced Accuracy: 89.9808 %
+2024-05-07 14:37:07,714 - INFO - Saved checkpoint at epoch 82: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_82.pth
+2024-05-07 15:26:11,971 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-07 15:26:11,972 - INFO - Epoch: 83 |Total training time: 0h:33m:57s | Train Loss: 0.2601 | Train Balanced Accuracy: 89.3268 %
+2024-05-07 15:26:11,972 - INFO - Epoch: 83 |Total validation time:0h:7m:3s | Validation Loss: 0.1442 | Validation Balanced Accuracy: 95.3896 % 
+2024-05-07 15:26:11,974 - INFO - Epoch: 83 |Total testing time: 0h:8m:3s | Test Loss: 0.2328 | Test Balanced Accuracy: 90.0147 %
+2024-05-07 15:26:14,211 - INFO - Saved checkpoint at epoch 83: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_83.pth
+2024-05-07 16:10:12,949 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-07 16:10:12,950 - INFO - Epoch: 84 |Total training time: 0h:30m:51s | Train Loss: 0.2593 | Train Balanced Accuracy: 89.3395 %
+2024-05-07 16:10:12,952 - INFO - Epoch: 84 |Total validation time:0h:6m:5s | Validation Loss: 0.1453 | Validation Balanced Accuracy: 95.2328 % 
+2024-05-07 16:10:12,952 - INFO - Epoch: 84 |Total testing time: 0h:7m:2s | Test Loss: 0.2293 | Test Balanced Accuracy: 90.0141 %
+2024-05-07 16:10:14,554 - INFO - Saved checkpoint at epoch 84: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_84.pth
+2024-05-07 16:51:07,928 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-07 16:51:07,928 - INFO - Epoch: 85 |Total training time: 0h:27m:27s | Train Loss: 0.2611 | Train Balanced Accuracy: 89.2545 %
+2024-05-07 16:51:07,928 - INFO - Epoch: 85 |Total validation time:0h:6m:15s | Validation Loss: 0.1447 | Validation Balanced Accuracy: 95.3219 % 
+2024-05-07 16:51:07,929 - INFO - Epoch: 85 |Total testing time: 0h:7m:10s | Test Loss: 0.2301 | Test Balanced Accuracy: 90.0208 %
+2024-05-07 16:51:09,227 - INFO - Saved checkpoint at epoch 85: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_85.pth
+2024-05-07 17:33:09,449 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-07 17:33:09,450 - INFO - Epoch: 86 |Total training time: 0h:28m:7s | Train Loss: 0.2619 | Train Balanced Accuracy: 89.2341 %
+2024-05-07 17:33:09,450 - INFO - Epoch: 86 |Total validation time:0h:6m:30s | Validation Loss: 0.1443 | Validation Balanced Accuracy: 95.3646 % 
+2024-05-07 17:33:09,450 - INFO - Epoch: 86 |Total testing time: 0h:7m:22s | Test Loss: 0.2318 | Test Balanced Accuracy: 90.0323 %
+2024-05-07 17:33:12,906 - INFO - Saved checkpoint at epoch 86: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_86.pth
+2024-05-07 18:14:08,135 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-07 18:14:08,136 - INFO - Epoch: 87 |Total training time: 0h:28m:10s | Train Loss: 0.2602 | Train Balanced Accuracy: 89.3322 %
+2024-05-07 18:14:08,136 - INFO - Epoch: 87 |Total validation time:0h:6m:29s | Validation Loss: 0.1458 | Validation Balanced Accuracy: 95.1886 % 
+2024-05-07 18:14:08,136 - INFO - Epoch: 87 |Total testing time: 0h:6m:14s | Test Loss: 0.2291 | Test Balanced Accuracy: 89.9877 %
+2024-05-07 18:14:14,613 - INFO - Saved checkpoint at epoch 87: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_87.pth
+2024-05-07 18:53:07,691 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-07 18:53:07,692 - INFO - Epoch: 88 |Total training time: 0h:25m:18s | Train Loss: 0.2598 | Train Balanced Accuracy: 89.3443 %
+2024-05-07 18:53:07,692 - INFO - Epoch: 88 |Total validation time:0h:6m:18s | Validation Loss: 0.1452 | Validation Balanced Accuracy: 95.2761 % 
+2024-05-07 18:53:07,695 - INFO - Epoch: 88 |Total testing time: 0h:7m:15s | Test Loss: 0.2298 | Test Balanced Accuracy: 90.0101 %
+2024-05-07 18:53:13,434 - INFO - Saved checkpoint at epoch 88: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_88.pth
+2024-05-07 19:33:38,867 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-07 19:33:38,868 - INFO - Epoch: 89 |Total training time: 0h:28m:27s | Train Loss: 0.2600 | Train Balanced Accuracy: 89.3510 %
+2024-05-07 19:33:38,868 - INFO - Epoch: 89 |Total validation time:0h:5m:51s | Validation Loss: 0.1451 | Validation Balanced Accuracy: 95.2907 % 
+2024-05-07 19:33:38,868 - INFO - Epoch: 89 |Total testing time: 0h:6m:5s | Test Loss: 0.2307 | Test Balanced Accuracy: 90.0276 %
+2024-05-07 19:33:40,326 - INFO - Saved checkpoint at epoch 89: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_89.pth
+2024-05-07 20:09:40,913 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-07 20:09:40,914 - INFO - Epoch: 90 |Total training time: 0h:24m:22s | Train Loss: 0.2589 | Train Balanced Accuracy: 89.3755 %
+2024-05-07 20:09:40,914 - INFO - Epoch: 90 |Total validation time:0h:5m:21s | Validation Loss: 0.1440 | Validation Balanced Accuracy: 95.3798 % 
+2024-05-07 20:09:40,914 - INFO - Epoch: 90 |Total testing time: 0h:6m:16s | Test Loss: 0.2321 | Test Balanced Accuracy: 90.0216 %
+2024-05-07 20:09:42,284 - INFO - Saved checkpoint at epoch 90: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_90.pth
+2024-05-07 20:45:18,061 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-07 20:45:18,062 - INFO - Epoch: 91 |Total training time: 0h:23m:56s | Train Loss: 0.2616 | Train Balanced Accuracy: 89.3299 %
+2024-05-07 20:45:18,062 - INFO - Epoch: 91 |Total validation time:0h:5m:22s | Validation Loss: 0.1443 | Validation Balanced Accuracy: 95.3629 % 
+2024-05-07 20:45:18,062 - INFO - Epoch: 91 |Total testing time: 0h:6m:17s | Test Loss: 0.2315 | Test Balanced Accuracy: 90.0460 %
+2024-05-07 20:45:24,305 - INFO - Saved checkpoint at epoch 91: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_91.pth
+2024-05-07 21:20:46,980 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-07 21:20:46,981 - INFO - Epoch: 92 |Total training time: 0h:23m:47s | Train Loss: 0.2585 | Train Balanced Accuracy: 89.3859 %
+2024-05-07 21:20:46,981 - INFO - Epoch: 92 |Total validation time:0h:5m:21s | Validation Loss: 0.1441 | Validation Balanced Accuracy: 95.3646 % 
+2024-05-07 21:20:46,981 - INFO - Epoch: 92 |Total testing time: 0h:6m:14s | Test Loss: 0.2312 | Test Balanced Accuracy: 90.0256 %
+2024-05-07 21:20:53,108 - INFO - Saved checkpoint at epoch 92: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_92.pth
+2024-05-07 21:56:16,763 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-07 21:56:16,763 - INFO - Epoch: 93 |Total training time: 0h:23m:41s | Train Loss: 0.2606 | Train Balanced Accuracy: 89.2752 %
+2024-05-07 21:56:16,763 - INFO - Epoch: 93 |Total validation time:0h:5m:25s | Validation Loss: 0.1459 | Validation Balanced Accuracy: 95.1325 % 
+2024-05-07 21:56:16,764 - INFO - Epoch: 93 |Total testing time: 0h:6m:16s | Test Loss: 0.2278 | Test Balanced Accuracy: 89.9165 %
+2024-05-07 21:56:26,074 - INFO - Saved checkpoint at epoch 93: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_93.pth
+2024-05-07 22:33:49,405 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-07 22:33:49,406 - INFO - Epoch: 94 |Total training time: 0h:24m:1s | Train Loss: 0.2594 | Train Balanced Accuracy: 89.3389 %
+2024-05-07 22:33:49,406 - INFO - Epoch: 94 |Total validation time:0h:6m:8s | Validation Loss: 0.1431 | Validation Balanced Accuracy: 95.4762 % 
+2024-05-07 22:33:49,406 - INFO - Epoch: 94 |Total testing time: 0h:7m:13s | Test Loss: 0.2346 | Test Balanced Accuracy: 90.0321 %
+2024-05-07 22:33:51,035 - INFO - Saved checkpoint at epoch 94: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_94.pth
+2024-05-07 23:15:56,016 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-07 23:15:56,017 - INFO - Epoch: 95 |Total training time: 0h:28m:33s | Train Loss: 0.2586 | Train Balanced Accuracy: 89.3823 %
+2024-05-07 23:15:56,017 - INFO - Epoch: 95 |Total validation time:0h:6m:20s | Validation Loss: 0.1447 | Validation Balanced Accuracy: 95.2841 % 
+2024-05-07 23:15:56,017 - INFO - Epoch: 95 |Total testing time: 0h:7m:11s | Test Loss: 0.2295 | Test Balanced Accuracy: 90.0316 %
+2024-05-07 23:16:01,076 - INFO - Saved checkpoint at epoch 95: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_95.pth
+2024-05-07 23:54:13,234 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-07 23:54:13,235 - INFO - Epoch: 96 |Total training time: 0h:26m:22s | Train Loss: 0.2609 | Train Balanced Accuracy: 89.2922 %
+2024-05-07 23:54:13,235 - INFO - Epoch: 96 |Total validation time:0h:5m:29s | Validation Loss: 0.1436 | Validation Balanced Accuracy: 95.4052 % 
+2024-05-07 23:54:13,235 - INFO - Epoch: 96 |Total testing time: 0h:6m:20s | Test Loss: 0.2327 | Test Balanced Accuracy: 90.0274 %
+2024-05-07 23:54:14,885 - INFO - Saved checkpoint at epoch 96: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_96.pth
+2024-05-08 04:39:33,121 - INFO - Resuming training from epoch 97
+2024-05-08 06:29:05,262 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-08 06:29:05,263 - INFO - Epoch: 97 |Total training time: 0h:58m:23s | Train Loss: 0.2592 | Train Balanced Accuracy: 89.4156 %
+2024-05-08 06:29:05,263 - INFO - Epoch: 97 |Total validation time:0h:22m:29s | Validation Loss: 0.1448 | Validation Balanced Accuracy: 95.2552 % 
+2024-05-08 06:29:05,263 - INFO - Epoch: 97 |Total testing time: 0h:28m:39s | Test Loss: 0.2283 | Test Balanced Accuracy: 90.0102 %
+2024-05-08 06:29:05,992 - INFO - Saved checkpoint at epoch 97: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_97.pth
+2024-05-08 07:09:38,091 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-08 07:09:38,092 - INFO - Epoch: 98 |Total training time: 0h:31m:28s | Train Loss: 0.2594 | Train Balanced Accuracy: 89.2878 %
+2024-05-08 07:09:38,092 - INFO - Epoch: 98 |Total validation time:0h:4m:18s | Validation Loss: 0.1429 | Validation Balanced Accuracy: 95.5166 % 
+2024-05-08 07:09:38,092 - INFO - Epoch: 98 |Total testing time: 0h:4m:45s | Test Loss: 0.2336 | Test Balanced Accuracy: 90.0429 %
+2024-05-08 07:09:38,818 - INFO - Saved checkpoint at epoch 98: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_98.pth
+2024-05-08 07:46:26,661 - INFO - This file contains logs for: Dinov2_D_B_split_1_SGD_4e_4_to_2e_4
+2024-05-08 07:46:26,662 - INFO - Epoch: 99 |Total training time: 0h:27m:50s | Train Loss: 0.2592 | Train Balanced Accuracy: 89.3887 %
+2024-05-08 07:46:26,662 - INFO - Epoch: 99 |Total validation time:0h:4m:10s | Validation Loss: 0.1445 | Validation Balanced Accuracy: 95.3206 % 
+2024-05-08 07:46:26,663 - INFO - Epoch: 99 |Total testing time: 0h:4m:46s | Test Loss: 0.2294 | Test Balanced Accuracy: 90.0238 %
+2024-05-08 07:46:27,593 - INFO - Saved checkpoint at epoch 99: /home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_1_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_1_SGD_4e_4_to_2e_4_epoch_99.pth
+2024-05-08 07:46:27,594 - INFO - Total training, validation and testing time: 3h:6m:55s.

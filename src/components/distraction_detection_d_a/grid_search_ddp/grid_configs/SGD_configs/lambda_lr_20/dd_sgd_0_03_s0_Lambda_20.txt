@@ -1,0 +1,15 @@
+experiment_name = "DD_GS_A_SGD_Lambda_20_LR_0_03"
+batch_size = 1024
+num_workers = 5
+prefetch_factor = 2
+train_dir = "/net/polaris/storage/deeplearning/sur_data/rgb_daa/split_0/train"
+val_dir = "/net/polaris/storage/deeplearning/sur_data/rgb_daa/split_0/val"
+test_dir = "/net/polaris/storage/deeplearning/sur_data/rgb_daa/split_0/test"
+num_epochs = 100
+num_classes = 2
+optimizer = 'SGD'
+scheduler = 'LambdaLR'
+lr = 0.03
+momentum = 0.9
+weight_decay = 0
+save_every = 1

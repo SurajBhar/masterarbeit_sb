@@ -1,0 +1,19 @@
+experiment_name = "Dinov2_split_0_SGD_4e_4_to_2e_4"
+batch_size = 1024
+num_workers = 10
+prefetch_factor = 4
+train_dir = "/net/polaris/storage/deeplearning/sur_data/binary_rgb_daa/split_0/train"
+val_dir = "/net/polaris/storage/deeplearning/sur_data/binary_rgb_daa/split_0/val"
+test_dir = "/net/polaris/storage/deeplearning/sur_data/binary_rgb_daa/split_0/test"
+num_epochs = 100
+num_classes = 2
+optimizer = 'SGD'
+scheduler = 'LinearInterpolationLR'
+lr = 0.0004
+end_lr = 0.0002
+momentum = 0.9
+weight_decay = 0
+save_every = 1
+resume = True
+checkpoint_path = "/home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/scripts_linear/dinov2_daa_experiments/Dinov2_split_0_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_split_0_SGD_4e_4_to_2e_4_epoch_69.pth"
+

@@ -1,0 +1,5 @@
+2024-04-30 23:08:36,325 - INFO - Testing best DINOV2_ViT_B_14 model tarined on Kinect RGB Right Top DAA dataset for 100 epochs.
+2024-04-30 23:55:34,267 - INFO - This file contains logs for Generalisation for: Testing_Dinov2_ViT_split_2_no_aug_d_a
+2024-04-30 23:55:34,268 - INFO - Epoch: 0 |Total KIR testing time: 0h:9m:0s | KIR Test Loss: 0.7659 | KIR Test Balanced Accuracy: 53.2735 %
+2024-04-30 23:55:34,268 - INFO - Epoch: 0 |Total NIR testing time: 0h:37m:57s | NIR Test Loss: 1.7092 | NIR Test Balanced Accuracy: 50.4996 %
+2024-04-30 23:55:34,268 - INFO - Total combined testing time: 0h:46m:58s.

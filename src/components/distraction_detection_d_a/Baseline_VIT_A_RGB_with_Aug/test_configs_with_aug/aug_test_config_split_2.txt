@@ -1,0 +1,9 @@
+experiment_name = "Combined_Test_ViT_Baseline_split_2_with_aug_d_a"
+batch_size = 1024
+num_workers = 4
+prefetch_factor = 2
+num_classes = 2
+checkpoint_path = "/home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_a/vit_baseline_01_experiments/ViT_Base_Aug_split_2_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_ViT_Base_Aug_split_2_SGD_4e_4_to_2e_4_epoch_99.pth"
+kir_test_dir = "/net/polaris/storage/deeplearning/sur_data/binary_kinect_ir_daa/split_2/test"
+nir_test_dir = "/net/polaris/storage/deeplearning/sur_data/binary_nir_ftop_daa/split_2/test"
+

@@ -1,0 +1,14 @@
+experiment_name = "Exp_01_SGD_Sp_2"
+device = 6
+num_workers = 20
+batch_size = 1024
+prefetch_factor = 4
+train_dir = "/net/polaris/storage/deeplearning/sur_data/rgb_daa/split_2/train"
+val_dir = "/net/polaris/storage/deeplearning/sur_data/rgb_daa/split_2/val"
+num_epochs = 90
+optimizer = 'SGD'
+scheduler = 'CosineAnnealingLR'
+batch_size = 1024
+lr = 0.001
+momentum = 0.9
+weight_decay = 0.0001

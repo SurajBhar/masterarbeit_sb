@@ -1,0 +1,22 @@
+experiment_name = "Dinov2_D_B_split_0_SGD_4e_4_to_2e_4"
+device = 7
+batch_size = 1024
+num_workers = 10
+prefetch_factor = 4
+feature_file_path = "/home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_b/clustering_experiments/features_split_0_kinect_rgb/all_split_0_rgb_features.pkl"
+label_file_path = "/home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_b/clustering_experiments/features_split_0_kinect_rgb/all_split_0_rgb_labels.pkl"
+img_path_file_path = "/home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/distraction_detection_d_b/clustering_experiments/features_split_0_kinect_rgb/all_split_0_rgb_imagepaths.pkl"
+val_dir = "/net/polaris/storage/deeplearning/sur_data/binary_rgb_daa/split_0/val"
+test_dir = "/net/polaris/storage/deeplearning/sur_data/binary_rgb_daa/split_0/test"
+num_epochs = 100
+num_classes = 2
+optimizer = 'SGD'
+scheduler = 'LinearInterpolationLR'
+lr = 0.0004
+end_lr = 0.0002
+momentum = 0.9
+weight_decay = 0
+save_every = 1
+resume = True
+checkpoint_path = "/home/sur06423/hiwi/vit_exp/vision_tranformer_baseline/src/components/dinov2_linear/dataloader_b_dino_v2/dinov2_daa_d_b_experiments/Dinov2_D_B_split_0_SGD_4e_4_to_2e_4/runs/checkpoints/checkpoint_Dinov2_D_B_split_0_SGD_4e_4_to_2e_4_epoch_68.pth"
+

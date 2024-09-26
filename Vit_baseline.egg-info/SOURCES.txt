@@ -1,0 +1,8 @@
+README.md
+setup.py
+Vit_baseline.egg-info/PKG-INFO
+Vit_baseline.egg-info/SOURCES.txt
+Vit_baseline.egg-info/dependency_links.txt
+Vit_baseline.egg-info/requires.txt
+Vit_baseline.egg-info/top_level.txt
+src/__init__.py

@@ -1,0 +1,15 @@
+experiment_name = "DD_GS_A_SGD_Cos_Warm_Restart_5_LR_0_01"
+batch_size = 1024
+num_workers = 5
+prefetch_factor = 2
+train_dir = "/net/polaris/storage/deeplearning/sur_data/rgb_daa/split_0/train"
+val_dir = "/net/polaris/storage/deeplearning/sur_data/rgb_daa/split_0/val"
+test_dir = "/net/polaris/storage/deeplearning/sur_data/rgb_daa/split_0/test"
+num_epochs = 100
+num_classes = 2
+optimizer = 'SGD'
+scheduler = 'CosineAnnealingWarmRestarts'
+lr = 0.01
+momentum = 0.9
+weight_decay = 0
+save_every = 10
